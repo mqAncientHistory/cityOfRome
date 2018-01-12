@@ -56,3 +56,4 @@ exclude:
   - vendor
   - .travis.yml
   - "*.sh"
+  - "*.bak"
