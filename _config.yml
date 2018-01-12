@@ -35,6 +35,9 @@ plugins:
   - jekyll-paginate
 
 
+  
+
+
 # Settings for rake task
 safe: False
 lsi: False

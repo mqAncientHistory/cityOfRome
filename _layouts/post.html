@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign author = site.data.author[page.author] %}
+
   {% if page.cover %}
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
     <amp-img width="404" height="720" alt="{{ page.title }}" layout="responsive" src="{{ site.baseurl }}{{ page.cover }}" media="(max-width: 415px)"></amp-img>
@@ -15,7 +17,7 @@ layout: default
         <h2 class="ampstart-fullpage-hero-heading mb0">
           {% if page.author %}
           <span class="ampstart-fullpage-hero-heading-text description">
-            By <b><a href="#" role="author" class="text-decoration-none author">{{page.author}}</a></b>
+            By <b><a href="#" role="author" class="text-decoration-none author">{{ author.name }}</a></b>
           </span>
           {% endif %}
         </h2>
@@ -131,21 +133,21 @@ layout: default
 <hr>
 
 <div class="author-section mb4">
-    {% if site.data.author["author"]["assets"] %}
-        <amp-img width="100" height="100" class="author-thumb-post" layout="responsive" src="{{ site.baseurl }}{{site.data.author["author"]["assets"]}}" alt="Author image"/></amp-img>
+    {% if author["assets"] %}
+        <amp-img width="100" height="100" class="author-thumb-post" layout="responsive" src="{{ site.baseurl }}{{author["assets"]}}" alt="Author image"/></amp-img>
     {% endif %}
-    <a href=""><h4 class="author-name">{{site.data.author["author"]["name"]}}</h4></a>
-    <p class="mb4 px3">{{site.data.author["author"]["bio"]}}</p>
+    <a href="{{author.url_full}}"><h4 class="author-name">{{author["name"]}}</h4></a>
+    <p class="mb4 px3">{{author["bio"]}}</p>
 </div>
 
 <!-- Start Socialbox -->
-<div class="ampstart-social-box mb4">
+<!-- <div class="ampstart-social-box mb4">
   <amp-social-share type="twitter" aria-label="Share this on Twitter"></amp-social-share>
   <amp-social-share type="facebook" aria-label="Share this on Facebook" data-param-app_id="145393166088568"></amp-social-share>
   <amp-social-share type="gplus" aria-label="Share this on Google Plus"></amp-social-share>
   <amp-social-share type="email" aria-label="Share this with E-mail"></amp-social-share>
 </div>
-<!-- End Socialbox -->
+End Socialbox --> 
 
 
   {% include footer.html %}

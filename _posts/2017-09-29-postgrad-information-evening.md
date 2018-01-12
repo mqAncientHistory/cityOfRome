@@ -4,7 +4,7 @@ cover: 'assets/images/tree.jpg'
 title: Information Session on the Master of Ancient History Degree
 date: 2017-09-29 04:00:00
 tags: "Info session"
-author: Paul McKechnie
+author: paul
 ---
 
 [Get slides from Paul's Talk!](assets/files/Master of Anc. Hist. Powerpoint 2017.pptx)

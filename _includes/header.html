@@ -1,18 +1,41 @@
 <!-- Start Navbar -->
   <header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4 ">
-    <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger  pr2 black">☰
-    </div>
-    {% if site.logo %}
-    <amp-img src="{{site.baseurl}}{{site.logo}}" width="253" height="100" layout="fixed" class="my0 ml-auto" alt="Logo"></amp-img>
+     {% if site.logo %}
+    <amp-img src="{{site.baseurl}}{{site.logo}}" width="253" height="100" layout="fixed" class="my0" alt="Logo"></amp-img>
     {% endif %}
+    <div id="target-element-left">
+    </div>
+    <div     media="(min-width: 650px)"
+ role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger ml-auto pr2 black" side="right"><span id="hidewide">Navigation</span> ☰
+    </div>
+   
   </header>
 
 
 <!-- Start Sidebar -->
-<amp-sidebar id="header-sidebar" class="ampstart-sidebar px3  " layout="nodisplay">
+<amp-sidebar id="header-sidebar" class="ampstart-sidebar px3  " layout="nodisplay" side="right">
+
   <div class="flex justify-start items-center ampstart-sidebar-header">
     <div role="button" aria-label="close sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger items-start">✕</div>
   </div>
+
+ <nav toolbar="(min-width: 800px)"
+      toolbar-target="target-element-left">
+      <ul class="list-reset m0 p0 ampstart-label">
+       {% for entry in site.data.navigation %}
+            {% if entry.url == current_page %}
+                {% assign current = ' class="current"' %}
+            {% else %}
+                {% assign current = null %}
+            {% endif %}
+      <li class="ampstart-navbar-trigger pr2 pl2" {{ current }}>
+          <li class="ampstart-navbar-trigger ampstart-faq-item"><a href="{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
+      </li>
+      {% endfor %}
+      </ul>
+    </nav>
+
+<!-- 
   <nav class="ampstart-sidebar-nav ampstart-nav">
     <ul class="list-reset m0 p0 ampstart-label">
         {% for entry in site.data.navigation %}
@@ -27,7 +50,7 @@
       {% endfor %}
     </ul>
   </nav>
-
+ -->
 
   <ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap m0 mb4">
     {% if site.twitter %}
