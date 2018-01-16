@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: '/assets/images/lindaAnimated.jpg'
+cover: '/assets/images/lindaAnimated.gif'
 title: Egyptian tombs depict seldom-seen creatures
 date: 2018-01-17 04:00:00
 tags: 
