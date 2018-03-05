@@ -2,7 +2,7 @@
 @import 'syntax-highlighting';
 
 $grey-color:       #828282;
-$theme-color: #A6192E;
+$theme-color:      #A6192E;
 $background-color: #D6D2C4;
 .icon {
 
@@ -16,6 +16,14 @@ $background-color: #D6D2C4;
             fill: $grey-color;
         }
     }
+}
+
+.ampstart-sidebar-35line{
+  line-height:3rem;
+}
+
+a.cta{
+  font-size:1.5em;
 }
 
 @media screen and (min-width: 600px){
@@ -36,6 +44,10 @@ $background-color: #D6D2C4;
 
 .black {
   color: #000000
+}
+
+a.ampstart-readmore, a.ampstart-readmore:visited{
+  color: #fff
 }
 
 $rs: 16px;
@@ -129,6 +141,12 @@ body {
     color: #666666;
     font-weight: 300;
   }
+}
+amp-accordion section[expanded] h2{
+  color:$theme-color;
+  background-color:white;
+  margin-bottom:0.5rem;
+  border:none;
 }
 
 .content {

@@ -33,55 +33,26 @@ layout: default
 
 <main id="content" role="main" class="content">
 
-  <div class="cf frame">
-    {% for post in paginator.posts %}
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="post-header">
-            <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url | remove: '/'}}" itemprop="url">{{ post.title }}</a></h2>
-          </header>
-          <section class="post-excerpt" itemprop="description">
-            <p class="post-description">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-          </section>
-          <div class="post-meta">
 
-                {% if site.data.author[post.author]["assets"] %}<amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.baseurl }}{{site.data.author[post.author]["assets"]}}" alt="Author image"/></amp-img>{% endif %}
-                <a href=''>{{site.data.author[post.author]["name"]}}</a>
+<nav class="center">
+<a href="https://www.eventbrite.com/e/macquarie-ancient-history-studies-of-religion-teachers-conference-tickets-43579462345?aff=mqMuseumsWebsite#tickets" width="1200"  class="cta ampstart-btn line-height-2 block center" > Register here for the conference today!</a>
+</nav>
 
-            {% if post.tags.size > 0 %}
-                in
-                {% for tag in post.tags %}
-                    {% if forloop.index == post.tags.size %}
-                       <a href=''>{{ tag | capitalize }}</a>
-                    {% else %}
-                       <a href=''>{{ tag | capitalize }}</a>,
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-              <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
-          </div>
-        </div>
-      </article>
-    {% endfor %}
-  </div>
+<hr/>
 
-  <nav class="pagination" role="navigation">
-    {% if paginator.next_page %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
-    {% else %}
-      <a class="newer-posts disabled">&larr; Older posts</a>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
-      {% else %}
-        <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-      {% endif %}
-    {% else %}
-      <a class="older-posts disabled">Newer posts &rarr;</a>
-    {% endif %}
-  </nav>
+<h2>Reimagining the Ancient World. A Methodological Perspective on the New Syllabus</h2>
+
+
+<p>This conference has a methodological theme and will focus on the handling of ancient evidence. Each speaker will treat a topic from a particular methodological angle using a case study drawn from their area of expertise, and closely linked to either (or both) the Ancient History and Study of Religion syllabi. This should make all talks of use to you even if you do not teach in the content area of the case study. Of particular concern are the requirements of the new Ancient History syllabus.</p>
+
+<p>We trust you will have a worthwhile learning experience in the wonderful surrounds of the Art Gallery of New South Wales. During lunch, if you have time, take in the Archibald, Wynne and Sulman Prizes exhibition or stroll through the nearby Royal Botanic Garden.</p>
+
+<p>Dr Gil Davis and Dr Lea Beness - Convenors</p>
+
+<p>This conference is NESA accredited.</p>
+
+
+
 
 </main>
 

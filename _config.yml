@@ -1,11 +1,11 @@
 # Site settings
-title: Ancient History Blog
-description: The Macquarie University Ancient History Blog contains News, Events, Announcements, and Updates from the Field.
-cover: assets/images/dawn.png
+title: Macquarie Ancient History & Studies of Religion Teachers Conference
+description: Sign up for tickets, find schedules, and old events for the annual Teacher's Conference.
+cover: assets/images/columns.jpg
 logo: assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://mqancienthistory.github.io" # the base hostname & protocol for your site
+url: "https://www.mqatthemuseums.com" # the base hostname & protocol for your site
 paginate: 5 # The number of posts to show per page on your homepage
 
 # Social

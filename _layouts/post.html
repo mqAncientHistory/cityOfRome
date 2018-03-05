@@ -31,7 +31,7 @@ layout: default
   <main id="content" role="main" class="">
     <article class="photo-article">
       <div class="post-meta mb4 px3">
-        <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
+       
 
         {% if page.tags.size > 0 %}
             in
@@ -72,9 +72,7 @@ layout: default
           {% endif %}
           <h1 class="mb1 px3">{{page.title}}</h1>
 
-          <address class="ampstart-byline clearfix mb4 px3 h5">
-            <time class="ampstart-byline-pubdate block bold my1" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
-          </address>
+         
         </header>
 
   {% endif %}
@@ -83,53 +81,6 @@ layout: default
       {{content}}
     </div>
 
-    <!-- Start Related article -->
-
-    {% if page.tags.size > 0 %}
-        {% assign primary = page.tags | first %}
-        {% assign related_posts = 0 %}
-        {% for post in site.posts %}
-          {% if post.tags.size > 0 %}
-              {% if post.tags contains primary %}
-                {% assign related_posts = related_posts | plus: 1 %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-        {% if related_posts > 1 %}
-          <section class="ampstart-related-article-section p3 mb4 border-top">
-              <h2 class="ampstart-heading ampstart-label m0 mb3">Related article</h2>
-                <article class="ampstart-related-article">
-                    {% if post.cover %}
-                    <amp-img src="{{ site.baseurl }}{{ post.cover }}" width="656" height="350" layout="responsive" alt="" class="mb3"></amp-img>
-                    {% else %}
-                        {% if site.cover %}
-                        <amp-img src="{{ site.baseurl }}{{ site.cover }}" width="656" height="350" layout="responsive" alt="" class="mb3"></amp-img>
-                        {% endif %}
-                    {% endif %}
-                    {% assign count = 0 %}
-                    {% for post in site.posts %}
-                      {% if post.tags contains primary %}
-                        {% if post.title != page.title %}
-                          {% assign count = count | plus: 1 %}
-                          {% if count <= 3 %}
-                            <h3 class="ampstart-heading h4 m0 mb3"><b>{{ post.title }}</b></h3>
-                            <p class="line-height-4 mb3">
-                            {% if post.description %}
-                              {{post.description}}
-                            {% else %}
-                              {{ post.content | strip_html | truncatewords:15 }}
-                            {% endif %}
-                            </p>
-                            <a href="{{ site.baseurl }}{{ post.url | remove: '/' }}" class="ampstart-rekated-article-readmore block text-decoration-none ampstart-label">Read more</a>
-                          {% endif %}
-                        {% endif %}
-                      {% endif %}
-                    {% endfor %}
-                </article>
-          </section>
-        {% endif %}
-    {% endif %}
-    <!-- End Related article -->
 <hr>
 
 <div class="author-section mb4">

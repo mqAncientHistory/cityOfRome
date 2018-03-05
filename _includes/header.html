@@ -19,7 +19,7 @@
     <div role="button" aria-label="close sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger items-start">✕</div>
   </div>
 
- <nav toolbar="(min-width: 800px)"
+ <nav toolbar="(min-width: 1514px)"
       toolbar-target="target-element-left">
       <ul class="list-reset m0 p0 ampstart-label">
        {% for entry in site.data.navigation %}
@@ -29,7 +29,9 @@
                 {% assign current = null %}
             {% endif %}
       <li class="ampstart-navbar-trigger pr2 pl2" {{ current }}>
-          <li class="ampstart-navbar-trigger ampstart-faq-item"><a href="{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
+          <li class="ampstart-navbar-trigger ampstart-faq-item"><a href="{% if entry.offsite != true %}{{ site.baseurl }}{% endif %}{{ entry.url }}" class="ampstart-sidebar-35line text-decoration-none">{{ entry.title }}</a></li>
+
+        
       </li>
       {% endfor %}
       </ul>
