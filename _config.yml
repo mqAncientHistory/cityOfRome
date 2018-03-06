@@ -2,7 +2,7 @@
 title: Macquarie Ancient History & Studies of Religion Teachers Conference
 description: Sign up for tickets, find schedules, and old events for the annual Teacher's Conference.
 cover: assets/images/columns.jpg
-logo: assets/images/MQ_INT_HOR_RGB_POS.png
+logo: /assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://www.mqatthemuseums.com" # the base hostname & protocol for your site
@@ -17,7 +17,7 @@ github:  github
 about: about
 contact: contact
 privacy-policy: https://mq.edu.au/privacy
-
+name: Brian Ballsun-Stanton
 
 permalink: /:title
 
