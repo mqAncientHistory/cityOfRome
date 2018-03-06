@@ -752,11 +752,16 @@ blockquote {
 }
 
 .hanuman {
-    margin-top: 25vh;
+    margin-top: 35vh;
     text-align: center;
     font-weight: 600;
     margin-bottom: 1rem;
-    text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67);
+    -webkit-text-stroke: 1px black;
+    
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.75);
+    -webkit-font-smoothing: antialiased;
+
+
 }
 
 .title {
