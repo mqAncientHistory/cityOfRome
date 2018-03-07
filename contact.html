@@ -1,0 +1,70 @@
+---
+layout: post
+permalink: /contact
+title: Contact Us
+cover: assets/images/dawn.png
+---
+
+
+If you have any questions or concerns, please contact us!
+
+<ul>
+	<li>Dr Lea Beness</li>
+	<li>Dr Gil Davis</li>
+	<li>Dr Brian Ballsun-Stanton</li>
+</ul>
+
+<form method="post"
+  class="p1"
+  action="https://formspree.io/brian.ballsun-stanton@mq.edu.au"
+  target="_top"
+  method=POST
+  >
+  <div class="ampstart-input inline-block relative m0 p0 mb3">
+    <input type="text"
+      class="block border-none p0 m0"
+      id="show-all-on-submit-name"
+      name="name"
+      placeholder="Your Name..."
+      required
+     >
+    <span visible-when-invalid="valueMissing"
+      validation-for="show-all-on-submit-name"></span>
+    <span visible-when-invalid="patternMismatch"
+      validation-for="show-all-on-submit-name">
+      Please enter your first and last name separated by a space (e.g. Jane Miller)
+    </span>
+
+    <input type="hidden" name="_format" value="plain" />
+    
+    
+    <input type="hidden" name="_cc" value="lea.Beness@mq.edu.au" />
+    <input type="hidden" name="_cc" value="gil.davis@mq.edu.au" />
+
+    <input type="email"
+      class="block border-none p0 m0"
+      id="show-all-on-submit-email"
+      name="_replyto"
+      placeholder="Email address..."
+      required>
+    <span visible-when-invalid="valueMissing"
+      validation-for="show-all-on-submit-email"></span>
+    <span visible-when-invalid="typeMismatch"
+      validation-for="show-all-on-submit-email"></span>
+
+       <input type="text"
+      class="block border-none p0 m0"
+      id="show-all-on-submit-name"
+      name="name"
+      placeholder="Subject"
+      required
+      >
+      	<h3>Please state your question or problem:</h3>
+      <textarea name="body" required rows=10 cols=40></textarea>
+  </div>
+  <div>
+  <input type="submit"
+    value="E-mail us!"
+    class="ampstart-btn caps"/>
+  </div>
+</form>
