@@ -9,15 +9,15 @@ url: "https://www.mqatthemuseums.com" # the base hostname & protocol for your si
 paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+facebook:
+twitter: AncientHistMQ
+github:  mqAncientHistory
 
 #Additional Pages
 about: about
 contact: contact
 privacy-policy: https://mq.edu.au/privacy
-name: Brian Ballsun-Stanton
+name: Macquarie University Department of Ancient History
 
 permalink: /:title
 
