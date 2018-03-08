@@ -179,6 +179,12 @@ amp-accordion section[expanded] h2{
   margin-bottom:0.5rem;
   border:none;
 }
+amp-accordion section[expanded] h3{
+  color:$theme-color;
+  background-color:white;
+  margin-bottom:0.5rem;
+  border:none;
+}
 
 .content {
   width: 100%;
