@@ -1,0 +1,14 @@
+<section id="{{include.lastname | replace: '-' ''}}-abstract">
+<h3>{{include.title}}</h3>
+
+<div>
+
+<h4><a href="#{{include.lastname | replace: '-' ''}}" on="tap:speakers.collapse,speakers.expand(section='{{include.lastname}}'),{{include.lastname | replace: '-' ''}}.scrollTo(position=center)">{{include.firstname}} {{include.lastname}}</a></h4>
+
+<p>{{include.abstract}}</p>
+
+<button class="scrollToTop" on="tap:schedule.scrollTo(position=center),abstracts.collapse"> &uarr; </button>
+
+</div>
+
+</section>
