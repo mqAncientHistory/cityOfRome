@@ -18,10 +18,15 @@ Subject to revision.
 <dt>8:00 am - 8:30 am</dt>
 <dd>Tea, Coffee, Checking in</dd>
 <dt>8:30 am - 9:00 am</dt>
-<dd><strong>Welcome by conference convenors, Acknowledgement of Country, Introduction of the Minister for Education, Official opening of conference.</strong></dd>
-<dd><a>Dr Gil Davis, Dr Lea Beness, Ms Neenah Gray, Prof Sherman Young, The Hon. Rob Stokes</a></dd>
+<dd><strong>Welcome by conference convenors, Acknowledgement of Country, Introduction of the Minister for Education</strong></dd>
+<dd>Dr Gil Davis, Dr Lea Beness, Ms Neenah Gray, Prof Sherman Young</dd>
 {% include scrollLink.html 
-	time="9:00 am - 9:50 am" 
+	time="9:00 am - 9:15 am" 
+	talk="Official opening of conference." 
+	section="Stokes" 
+	name="The Hon. Rob Stokes" %}
+{% include scrollLink.html 
+	time="9:15 am - 9:50 am" 
 	talk="Keynote 1 - How should we reconstruct the past?" 
 	section="Smith" 
 	name="Prof Christopher Smith" %}
@@ -114,8 +119,12 @@ Subject to revision.
 	time="3:30 pm - 4:00 pm" 
 	talk="A new approach to teaching archaeology in the classroom/Teacher Resources" 
 	section="Santos" 
-	name="Ms. Tamminee Taylor, Dr Brian Ballsun-Stanton, Dr Eve Gurrey"
+	
 	%}
+	<dd><a href="#Santos" on="tap:speakers.collapse,speakers.expand(section='Santos'),Santos.scrollTo(position=center)">Ms. Tamminee Taylor</a>,
+		<a href="#BallsunStanton" on="tap:speakers.collapse,speakers.expand(section='BallsunStanton'),BallsunStanton.scrollTo(position=center)">Dr Brian Ballsun-Stanton</a>,
+		<a href="#Guerry" on="tap:speakers.collapse,speakers.expand(section='Guerry'),Guerry.scrollTo(position=center)">Dr Eve Guerry</a>
+	</dd>
 	</dl>
 </section>
 <section>
@@ -167,6 +176,34 @@ Subject to revision.
 <amp-accordion id="speakers" disable-session-states>
 
 
+
+{% include speaker.html
+	firstname="Rob"
+	lastname="Stokes"
+	picname="stokes.jpg"
+	bio="<p class='mb1'>Rob is currently the Minister for Education with the NSW Government, where he is responsible
+for the leadership of teaching and learning across the primary, secondary and tertiary
+education sectors in NSW. He has previously taught students at secondary, undergraduate
+and postgraduate levels.</p><p class='mb1'>
+Rob has also served as Minister for Planning, where he was focused on promoting
+development throughout the state that improves people's lives into the future, as well as
+securing the conservation and sustainable use of our State's environmental and historic
+heritage. Rob has also served as Minister for Environment and Heritage, Assistant Minister for
+Planning, and Minister for the Central Coast.</p><p class='mb1'>
+Previous parliamentary roles have included service as the inaugural Parliamentary Secretary
+for Renewable Energy, membership of the parliamentary Privileges committee and the
+committee on the Independent Commission Against Corruption, and as Opposition
+Parliamentary Secretary for Planning and Infrastructure.</p><p class='mb1'>
+Outside parliament, Rob has been an Honorary Fellow with Macquarie Law School, a
+director of the Sydney Centre for Innovation in Learning and an Assessor with the Northern
+Beaches Branch of Surf Life Saving Australia. Rob has also worked as a solicitor in general
+commercial practice.</p><p class='mb1'>
+He was first elected as the parliamentary representative for the NSW electorate of Pittwater
+in 2007, and was re-elected with an increased majority in 2011 and 2015. Rob has double
+degrees in arts and law and has completed a PhD in law under a Commonwealth
+Scholarship. He is currently reading for a MSc in sustainable urban development.</p> " %}
+
+
 {% include speaker.html
 	firstname="Tzvi"
 	lastname="Abusch"
@@ -197,6 +234,15 @@ Subject to revision.
 " %}	
 
 
+{% include speaker.html
+	firstname="Eve"
+	lastname="Guerry"
+	picname="eve.JPG"
+	bio="Dr Eve Guerry is the Acting Manager of the Museum of Ancient Cultures at Macquarie University, with special responsibility to the schools education programs. She is also the Roth Fellow for Ancient Israel School Outreach. Eve has research and teaching expertise in the cultures of Ancient Egypt and Ancient Israel, having completed her PhD in Egyptology at Macquarie University in 2010 on the topic of boundary transgression in Ancient Egyptian society. Eve loves to teach and to enhance the teaching and learning interactions between the secondary and tertiary communities.
+" %}
+
+
+ 
 
 {% include speaker.html
 	firstname="Tom"
