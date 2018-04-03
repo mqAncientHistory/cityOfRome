@@ -18,6 +18,11 @@ $background-color: #D6D2C4;
     }
 }
 
+section:not([expanded]) h3, section:not([expanded]) h2{
+  padding-bottom:.5rem;
+  padding-left:.5rem;
+  padding-top:.5rem;
+}
 div.eventbrite{
   width:100%; 
   text-align:left;
