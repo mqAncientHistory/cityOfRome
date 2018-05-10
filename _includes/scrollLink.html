@@ -3,4 +3,8 @@
 <dd><a href="#{{include.section | replace: '-' ''}}" on="tap:speakers.collapse,speakers.expand(section='{{include.section| replace: '-'}}'),{{include.section | replace: '-' ''}}.scrollTo(position=center)">{{include.name}}</a></dd>
 {% if include.abstract %}
 <dd><a href="#{{include.section | replace: '-' ''}}-abstract" on="tap:abstracts.collapse,abstracts.expand(section='{{include.section| replace: '-'}}-abstract'),{{include.section | replace: '-' ''}}-abstract.scrollTo(position=center)">Abstract</a></dd>
+
+{% endif %}
+{% if include.slides %}
+<dd><a href="/assets/slides/{{include.slides}}" target="_new">Slides</a></dd>
 {% endif %}

@@ -7,6 +7,10 @@
 
 <p>{{include.abstract}}</p>
 
+{% if {{include.slides}} %}
+<a href="/assets/slides/{{include.slides}}" target=_new>Slides for the Presentation</a>
+{% endif %}
+
 <button class="scrollToTop" on="tap:schedule.scrollTo(position=center),abstracts.collapse"> &uarr; </button>
 
 </div>
