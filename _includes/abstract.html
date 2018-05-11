@@ -7,9 +7,9 @@
 
 <p>{{include.abstract}}</p>
 
-{% if {{include.slides}} %}
-<a href="/assets/slides/{{include.slides}}" target=_new>Slides for the Presentation</a>
-{% endif %}
+{% for slide in include.slides %}
+<a href="/assets/slides/{{slide}}" target=_blank>Slides/Resource for the Presentation</a>
+{% endfor %}
 
 <button class="scrollToTop" on="tap:schedule.scrollTo(position=center),abstracts.collapse"> &uarr; </button>
 
