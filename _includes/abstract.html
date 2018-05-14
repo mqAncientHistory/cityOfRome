@@ -8,8 +8,13 @@
 <p>{{include.abstract}}</p>
 
 {% for slide in include.slides %}
-<a href="/assets/slides/{{slide}}" target=_blank>Slides/Resource for the Presentation</a>
+<dd><a href="/assets/slides/{{slide}}" target=_blank>Slides</a></dd>
 {% endfor %}
+
+{% for handout in include.handouts %}
+<dd><a href="/assets/slides/{{handout}}" target=_blank>Handout</a></dd>
+{% endfor %}
+
 
 <button class="scrollToTop" on="tap:schedule.scrollTo(position=center),abstracts.collapse"> &uarr; </button>
 

@@ -6,5 +6,9 @@
 
 {% endif %}
 {% for slide in include.slides %}
-<dd><a href="/assets/slides/{{slide}}" target=_blank>Slides/Resource for the Presentation</a></dd>
+<dd><a href="/assets/slides/{{slide}}" target=_blank>Slides</a></dd>
+{% endfor %}
+
+{% for handout in include.handouts %}
+<dd><a href="/assets/slides/{{handout}}" target=_blank>Handout</a></dd>
 {% endfor %}
