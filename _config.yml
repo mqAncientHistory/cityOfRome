@@ -1,23 +1,23 @@
 # Site settings
-title: Macquarie Ancient History & Studies of Religion Teachers Conference
-description: Find tickets, schedules, and resources for the blockbuster Ancient History Teachers Conference and Studies of Religion Teachers conference.
-cover: assets/images/columns.jpg
+title: Macquarie University TeX Users' Group
+description: A group celebrating and helping each other with all aspects of typesetting.
+cover: assets/images/usersGroupLogo.png
 logo: /assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://www.mqatthemuseums.com" # the base hostname & protocol for your site
+url: "https://mqTeXUsers.github.io" # the base hostname & protocol for your site
 paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
-facebook:
-twitter: AncientHistMQ
-github:  mqAncientHistory
+#facebook:
+#twitter: AncientHistMQ
+github:  mqTeXUsers
 
 #Additional Pages
 about: about
 contact: contact
 privacy-policy: https://mq.edu.au/privacy
-name: Macquarie University Department of Ancient History
+name: Macquarie University TeX Users' Group
 
 permalink: /:title
 
