@@ -2,7 +2,7 @@
 title: Macquarie University TeX Users' Group
 description: A group celebrating and helping each other with all aspects of typesetting.
 cover: assets/images/usersGroupLogo.png
-logo: /assets/images/MQ_INT_HOR_RGB_POS.png
+logo: assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://mqTeXUsers.github.io" # the base hostname & protocol for your site
