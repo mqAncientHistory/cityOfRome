@@ -40,11 +40,11 @@ layout: default
 {% for post in site.posts %}
  {% assign author = site.data.author.authors[post.author] %}
 
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2><a href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
   <div class="content">
-    {% if author %} <a href='{{ site.url }}authors#{{post.author}}-ref'>{{author["name"]}}</a> <span> {% else %} <span> {% endif %}
+    {% if author %}{{author["name"]}} <span> {% else %} <span> {% endif %}
     <p class="post-description">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-    <p><a href="{{post.url}}">Read More...</a></p>
+    <p><a href="{{site.url}}{{site.baseurl}}{{post.url}}">Read More...</a></p>
   </div>
 {% endfor %}
 
