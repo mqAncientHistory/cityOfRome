@@ -1,26 +1,9 @@
-
-paul:
-  username: paul
-  name: Paul McKechnie
-  location: Department of Ancient History
-  url_full: https://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/department_of_ancient_history/staff/associate_professor_paul_mckechnie/
-  url: https://www.mq.edu.au
-  bio: Associate Professor Paul McKechnie has a DPhil  (1985; Ancient History) from University College, Oxford.  From 1984-1987 he was Assistant Master in Classics and Religious Education, The Perse School, Cambridge, and from 1987-1991 Head of Department of Classics at Kamuzu Academy, Malawi.  From 1991-1998 he held a Lectureship in Classics and Ancient History at the University of Auckland. In 1998 he became Senior Lecturer, a position he held until joining Macquarie in 2007 as Associate Professor, CORE in Ancient Cultures, in the Department of Ancient History and a member of the Ancient Cultures Research Centre.
-  assets: assets/people/anhist-associate_professor_paul_mckechnie.jpg
-ray:
-  username: ray
-  name: Ray Laurence
-  location: Department of Ancient History
-  url_full: https://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/department_of_ancient_history/staff/professor_ray_laurence/
-  url: https://www.mq.edu.au
-  bio: "<p>Ray Laurence is Professor of Ancient History.  Prior to his appointment at Macquarie in 2017, he held positions at the Universities of Reading, Birmingham and Kent in the UK.  His research is centred on the study of Roman Urbanism.  He also works on the study of childhood and ageing in antiquity, as well as roads and communications technologies in the Roman Empire.</p><p>Ray's work often involves the use of innovative techniques, whether drawn from approaches in the Digital Humanities or in Archaeological Science. He has also developed collaborative projects with animators and an animation studio to produce six films, which have been viewed more than 8 million times. He is the editor of the series Studies in Roman Space and Urbanism (Routledge).</p>"
-  assets: assets/people/anchist-professor_ray_laurence_image.jpg
-linda:
-  username: linda
-  name: Linda Evans
-  location: Department of Ancient History
-  url_full: https://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/department_of_ancient_history/staff/dr_linda_evans/
-  url: https://www.mq.edu.au
-  bio: "<p>Linda Evans is Senior Lecturer in the Department of Ancient History, and a member of the Ancient Cultures Research Centre. She studied Classical Studies and Psychology at the University of Adelaide (1980) and completed an Honours degree in Psychology (1981) before working in the field of Biology in the United States (at Washington University in St Louis, Missouri; Rockefeller University, New York; and the University of California, Davis). Upon returning to Australia in 1993, she completed both an MA (1998) and PhD (2007) in Egyptology at Macquarie University.</p>"
-  assets: assets/people/ancient-staff_lindaevans.jpg
-  
+authors:
+  ray:
+    username: ray
+    name: Ray Laurence
+    location: Department of Ancient History
+    url_full: https://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/department_of_ancient_history/staff/professor_ray_laurence/
+    url: https://www.mq.edu.au
+    bio: "<p>Ray Laurence is Professor of Ancient History.  Prior to his appointment at Macquarie in 2017, he held positions at the Universities of Reading, Birmingham and Kent in the UK.  His research is centred on the study of Roman Urbanism.  He also works on the study of childhood and ageing in antiquity, as well as roads and communications technologies in the Roman Empire.</p><p>Ray's work often involves the use of innovative techniques, whether drawn from approaches in the Digital Humanities or in Archaeological Science. He has also developed collaborative projects with animators and an animation studio to produce six films, which have been viewed more than 8 million times. He is the editor of the series Studies in Roman Space and Urbanism (Routledge).</p>"
+    assets: assets/people/anchist-professor_ray_laurence_image.jpg

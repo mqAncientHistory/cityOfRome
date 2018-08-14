@@ -1,0 +1,61 @@
+# Site settings
+title: "Macquarie University Ancient History: City of Rome Test Blog"
+description: A group celebrating and helping each other with all aspects of typesetting.
+cover: assets/images/usersGroupLogo.png
+logo: assets/images/MQ_INT_HOR_RGB_POS.png
+favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+paginate: 5 # The number of posts to show per page on your homepage
+
+# Social
+#facebook:
+#twitter: AncientHistMQ
+github:  mqancienthistory/cityOfRome
+
+#Additional Pages
+about: about
+contact: contact
+privacy-policy: https://mq.edu.au/privacy
+name: Macquarie University Department of Ancient History
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id: "UA-109032276-2"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  
+
+
+# Settings for rake task
+safe: False
+lsi: False
+username: samanyougarg #github username
+repo: hanuman #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://samanyougarg.com/
+source_url:  https://github.com/samanyougarg/hanuman #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - "*.sh"
+  - "*.bak"
