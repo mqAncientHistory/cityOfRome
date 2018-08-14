@@ -4,16 +4,14 @@ layout: default
 
 
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-    <amp-img width="404" height="720" alt="Cover" layout="responsive" src="/{{ site.cover }}" media="(max-width: 415px)"></amp-img>
-    <amp-img height="720" alt="Cover" layout="fixed-height" src="/{{ site.cover }}" media="(min-width: 416px)"></amp-img>
+    <amp-img width="404" height="720" alt="Cover" layout="responsive" src="{{ site.url }}/{{ site.cover }}" media="(max-width: 415px)"></amp-img>
+    <amp-img height="720" alt="Cover" layout="fixed-height" src="{{ site.url }}/{{ site.cover }}" media="(min-width: 416px)"></amp-img>
     <figcaption class="absolute top-0 right-0 bottom-0 left-0">
       <header class="p3">
-        
-        
-        
-        <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">          
-           <amp-img class="center" width="750" height="214" alt="Cover" layout="fixed" src="/assets/logo/mqtex750.png" ></amp-img><br/>
-          
+        <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
+          <span class="ampstart-fullpage-hero-heading-text title">
+            {{ site.title }}
+          </span>
         </h1>
         <!-- <h2 class="ampstart-fullpage-hero-heading mb0">
           <span class="ampstart-fullpage-hero-heading-text description">
@@ -32,7 +30,6 @@ layout: default
     {% endif %}
     </figcaption>
   </figure>
-
 <main id="content" role="main" class="content">
 <div class="cf">
 
