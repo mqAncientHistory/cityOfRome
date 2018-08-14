@@ -36,26 +36,16 @@ layout: default
 <main id="content" role="main" class="content">
 <div class="cf">
 
-<p>The Macquarie University <span class="tex">T<sub>e</sub>X</span> Users group is for all students, staff, researchers, and interested folk wanting to learn, enjoy, and help others with publishing documents. We help people at MQ to publish professional and academic assignments, documents, and journal articles. We explore the technologies of Markdown, <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>
-, Overleaf, Con<span class="tex">T<sub>e</sub>X</span>t, and Pandoc. </p>
 
-<p>Everyone is welcome, from people with no prior knowledge to experts. </p>
-
-<p>Our default meeting agenda is:</p>
-
-<ol>
-<li>Showing off our recent <span class="tex">T<sub>e</sub>X</span> awesomeness.</li>
-<li>A practical and hands-on demonstration of a <span class="tex">T<sub>e</sub>X</span>nique.</li>
-<li>Help, brainstorming, advice, and troubleshooting of  <span class="tex">T<sub>e</sub>X</span>. </li>
-</ol>
-
-<p>Our next meeting will be at: 11:00 AM -12:30 PM on 10 August, Australian Hearing Hub, Level 2, Room 2.605. </p>
-
-<p> In this meeting we will continue work on <a href="https://www.overleaf.com/read/bgjwrsnjpvhx">The Macquarie Branded slide template</a> in Overleaf.</p>
-
-
-
-<p>Join us on Slack. Ask <a href="mailto:brian.ballsun-stanton@mq.edu.au">Brian</a> for an invite, or if you have an MQ email address you can <a href="http://mqtex.slack.com/signup/">join the mqTeX.slack.com slack directly</a>. </p>
+{% for post in site.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
 
 </div>
 </main>
