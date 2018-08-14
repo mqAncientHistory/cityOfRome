@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: '/assets/images/Fresco_from_the_House_of_Julia_Felix_Pompeii_depicting_scenes_from_the_Forum_market.jpg'
+cover: '/assets/images/Ray/Fresco_from_the_House_of_Julia_Felix_Pompeii_depicting_scenes_from_the_Forum_market.jpg'
 caption: 'Fresco illustrating shopping in the forum from the House of Julia Felix in Pompeii. By Wmpearl [Public domain], from Wikimedia Commons'
 captionLink: https://commons.wikimedia.org/wiki/File:Fresco_from_the_House_of_Julia_Felix,_Pompeii_depicting_scenes_from_the_Forum_market.JPG
 title: "Shopping in the Roman World"
