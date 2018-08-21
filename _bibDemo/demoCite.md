@@ -1,0 +1,16 @@
+---
+bibliography: demo.bib
+link-citations: true
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultricies at metus sit amet vestibulum. Morbi ut odio id dolor ultricies vestibulum non et quam. Ut commodo vulputate justo ac lacinia. Integer ornare nisi non mattis tristique. Proin ut consectetur ligula, nec luctus massa. Maecenas convallis pretium orci, sed ultricies urna tincidunt at. Vestibulum a urna quis lectus convallis suscipit vel sed lectus. Mauris suscipit porta sapien. Ut tincidunt varius rutrum. Donec viverra ultrices mi, ut fermentum purus molestie ut. Praesent ultrices elementum dui. Suspendisse leo nulla, vulputate a dapibus non, convallis at risus. Sed iaculis ut quam in finibus. Curabitur sit amet diam aliquet quam mattis gravida. Curabitur faucibus quam vitae nisi viverra egestas. [@Knuth92]
+
+Sed finibus lacinia sem, vitae aliquet nunc efficitur sit amet. Pellentesque posuere metus id ex posuere, sit amet tristique ligula vestibulum. Curabitur nec erat volutpat, fringilla eros a, ultricies magna. Donec lobortis sapien mollis nisl commodo ornare[@ConcreteMath]. Aliquam at turpis dui. Praesent leo arcu, molestie a aliquet ac, semper vitae lectus. Mauris ante massa, bibendum nec nisi non, maximus pellentesque tellus.
+
+Aenean ultricies maximus turpis rhoncus volutpat. Cras dictum ullamcorper augue, venenatis porttitor lacus laoreet ac[see @Simpson; @Er01]. Cras lacinia, lacus eget tempor volutpat, velit felis iaculis ex, sed laoreet sem augue id metus. Pellentesque erat orci, vestibulum at turpis et, tristique feugiat sapien. Nullam a posuere velit. Integer ut turpis nisl. Maecenas placerat pharetra ex sit amet malesuada. Quisque consectetur mi quis turpis luctus condimentum. Fusce elementum sapien vel mauris fermentum efficitur.
+
+In vel commodo ligula, posuere sollicitudin arcu. Praesent interdum enim in viverra eleifend. Vivamus viverra feugiat ultricies. Nullam fermentum mattis sapien, quis faucibus magna condimentum at. Vivamus cursus consectetur lobortis. Nunc egestas et libero iaculis placerat. Integer ex leo, pellentesque et leo id, viverra ultricies diam. Maecenas a mi nisl. Phasellus quis posuere nibh, et eleifend velit. Aliquam tempor, dui at imperdiet euismod, odio nisi auctor lorem, vitae rutrum diam justo non velit.
+
+Suspendisse ac erat nec leo laoreet consequat et a mi. Nam iaculis porttitor mi in sollicitudin. Integer tristique dui id sapien luctus commodo nec ultrices arcu. Mauris ligula odio, tincidunt nec pellentesque eu, blandit ullamcorper arcu. Pellentesque sodales, mi sit amet finibus sagittis, eros sapien efficitur orci, nec imperdiet arcu orci aliquet diam. Proin ultrices sem augue, ut sodales neque commodo sit amet. Suspendisse efficitur lectus sed quam interdum laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim nisl eget magna vestibulum, iaculis varius magna efficitur. Suspendisse sed sollicitudin turpis, vel sodales odio. Duis iaculis tortor quis quam semper congue. Praesent ligula est, rutrum convallis auctor nec, interdum viverra turpis. Nunc at lorem nulla. Maecenas sed ipsum lacus. Phasellus laoreet ipsum tellus, vitae egestas lacus porttitor quis.
+
+# References
