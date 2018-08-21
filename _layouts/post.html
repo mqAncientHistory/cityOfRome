@@ -25,6 +25,19 @@ layout: default
       <footer class="absolute left-0 right-0 bottom-0">
         <a class="ampstart-readmore py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
       </footer>
+      {% if page.caption %}
+      <footer class="absolute left-0 right-0 bottom-0">
+<span class="right">
+  {% if page.captionlink %}
+  <a href="{{page.captionlink}}">
+    {%endif%}
+{{page.caption}}
+{% if page.captionlink %}
+</a>
+{% endif %}
+</span>
+</footer>
+      {% endif %}
     </figcaption>
   </figure>
 

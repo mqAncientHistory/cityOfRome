@@ -1,7 +1,7 @@
 # Site settings
 title: "Macquarie University Ancient History: City of Rome Test Blog"
-description: A group celebrating and helping each other with all aspects of typesetting.
-cover: assets/images/usersGroupLogo.png
+description: MQ Rome focuses on the history of ancient Rome. The city was founded in myth in the year 753 BCE and became the first metropolis with an empire stretching from Scotland to the Sahara and from the Atlantic Ocean to the Euphrates (Iraq).
+cover: assets/images/LJ-RF-1872-024.jpg
 logo: assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
 baseurl: "/cityOfRome" # the subpath of your site, e.g. /blog/ or / for root
