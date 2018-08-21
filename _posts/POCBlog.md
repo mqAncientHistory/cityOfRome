@@ -15,53 +15,16 @@ category:
 author: ewan
 ---
 
-Shopping is such a familiar part of our lives that it seldom crops up
-as a topic of historical interest. However, a recent conference session
-at the [Roman Archaeology Conference](http://romansocietyrac.ac.uk/) at
-the [University of
-Edinburgh](https://www.ed.ac.uk/history-classics-archaeology/archaeology)
-explored the nature of shopping in antiquity. It was a session of
-surprises.
+Built in **55BC**, at least according to the Roman historian [_Velleius Paterculus_](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2B*.html#48/ "A Roman Historian of the first century AD"), the structure comprises of **four** main components:  
 
-First up, the Romans would appear to have invented the architectural
-form of a shop. There is no precedent for the shop or *taberna* within
-the Greek or Hellenistic world. Thus, the Romans invented the shop that
-is so familiar to us from the sites of
-[Pompeii](http://www.pompeiiinpictures.org/),
-[Herculaneum](http://www.herculaneum.uk/index.htm), and
-[Stabiae](http://www.stabiae.org/foundation/en/). Typically, a Roman
-shop had a wide opening which was closed using a grooved threshold to
-[house wooden
-shuttering](http://www.pompeiiinpictures.com/pompeiiinpictures/r9/9%2007%2010.htm).
+* Theatre
+* _curia_
+* Temple
+* _quadriporticus_
 
-Second surprise, there is some evidence of governors building shops in
-some of the more remote parts of modern Turkey. This parallels the
-building of shops in Rome paid for by the state and then sold to private
-individuals.
+It is an example of spectacular Roman architecture
 
-Yet, how do we consider a shift from forms of exchange associated with
-the Iron Age in Britain to the purchase of goods via shops? The
-transition to shopping was not just a cultural change or a shift to a
-new form of economic distribution. Indeed, the development of shops in
-the Roman Northwest provinces caused a total dislocation from forms of
-exchange present in the earlier Iron Age.
-
-This viewpoint causes us to take stock of when this development
-happened. Detailed analysis of shops in Pompeii shows that many were not
-created when much of the urban fabric of the city was built. Instead,
-they are later additions dating to the late first century BC or early
-first century AD. This provides a time horizon for understanding what
-may be described as a "Roman retail revolution" (to quote the title of
-[Steven Ellis' new
-book](https://global.oup.com/academic/product/the-roman-retail-revolution-9780198769934?cc=au&lang=en&)).
-
-However, we need to be clear about what we wish to look at in analyzing
-the possibilities of studying "shopping". Papers in the session tended
-to focus on the selling of goods. This fits with [earlier
-work](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-0289.12055_11)
-on the topic. Thus, to date, the social act of shopping remains
-understudied in favour of the perspective of economic historians focused
-on the seller, rather than the purchaser.
+![The Theatre](https://upload.wikimedia.org/wikipedia/commons/8/85/Theatre_of_Pompey_highlighted_diagram.png)
 
 {% include lightbox.html
 caption="Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
