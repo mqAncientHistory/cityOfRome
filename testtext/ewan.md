@@ -30,9 +30,8 @@ modern city of Rome (*fig. 4)*, and Severan Marble Plan of Rome (*fig.
 
 Pompey combined multiple traditional Roman structures within his
 building complex (*fig. 1*) [@Temelini]; These were a temple, a theatre,
-and a *quadriportico* (a four-sided portico). The structure was also
-home to a garden and a *curia* (a Roman building typically used for
-senatorial meetings). The structure faced east; something Vitruvius
+and a *quadriportico*[^1]. The structure was also
+home to a garden and a *curia*[^2]. The structure faced east; something Vitruvius
 [(4.5.1)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/4*.html)
 tell us was typical for Greek and Roman temples of the time.
 
@@ -73,7 +72,7 @@ X)](http://www.tertullian.org/lfc/LFC10-13_de_spectaculis.htm) and Pliny
 the Elder [(Plin. *NH*.
 8.7.20)](http://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+8.7&fromdoc=Perseus%3Atext%3A1919.02.0137)
 tell us that Pompey validated his theatre by dedicating it as a Temple
-of *Venus Victrix*[^1]. According to Plutarch [(Plut. *Pomp*.
+of *Venus Victrix*[^3]. According to Plutarch [(Plut. *Pomp*.
 42.4)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html#42.4),
 Pompey drew inspiration for his theatre from that of Mytilene in Greece,
 asking for detailed drawings to be made of its plan.
@@ -258,4 +257,7 @@ part of the 'Stanford Digital Forma Urbis Romae Project'.
 References
 ==========
 
-[^1]: Victorious Venus
+[^1]: A four-sided portico
+[^2]: A Roman building typically used for
+senatorial meetings
+[^3]: Victorious Venus
