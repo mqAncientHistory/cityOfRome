@@ -198,8 +198,8 @@ and Suetonius [(Suet. *Nero*.
 46)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html#46)
 tell us that within the porticos there were fourteen statues
 personifying the nations conquered by Rome. A statue of a group of muses
-has also recently been found in the archaeological record [@Gleason];
-[@Russell], as well as a gilded bronze statue of Hercules (*fig.12*).
+has also recently been found in the archaeological record [@Gleason;
+@Russell], as well as a gilded bronze statue of Hercules (*fig.12*).
 
 We are told by Propertius [(Prop.
 II.32.11‑12)](https://www.poetryintranslation.com/PITBR/Latin/PropertiusBkTwo.php#anchor_Toc201112289)
@@ -230,9 +230,14 @@ and Claudius [(Suet. *Claud*.
 rebuilt sections of the theatre. Additionally, Cassius Dio [(Cass. Dio.
 62.6.1‑2)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/62*.html#6)
 claims that Nero gilded the entire theatre and erected purple curtains
-above the theatre for shade, which depicted him upon a chariot. While
-the first claim may be an exaggeration, the second illustrates that the
-theatre was sometimes shaded.
+above the theatre for shade. In typical Nero fashion, these curtains
+depicted him upon a chariot. While Cassius Dio may be reporting events
+with a level of exaggeration, his account illustrates that the theatre
+was sometimes shaded. This was evidently not always the case, as
+evidenced by Martial [(Mart.
+xiv.29.1.)](http://www.tertullian.org/fathers/martial_epigrams_book14.htm).
+Martial writes that, when windy, awnings could not be drawn up, and
+people had to wear broad-brimmed hats to shade themselves.
 
 The Theatre of Pompey: Home of the performing arts, religion, leisure, politics and murder.
 ===========================================================================================
