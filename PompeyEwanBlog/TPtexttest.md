@@ -1,14 +1,11 @@
 Nice theatre, but didn't they kill Caesar here?
-===============================================
+================================================
 
- 
-=
-
-This week, Ewan C. examines the form and function of Rome's first
+*This week, Ewan C. examines the form and function of Rome's first
 permanent theatre and its related complex. The site is home to arguably
 the most infamous betrayal in political history, as well as other, less
 perilous dramas, yet was also a centre of arts and horticulture. Let's
-take a further look at the Theatre of Pompey!
+take a further look at the Theatre of Pompey!*
 
 Built by Pompey the Great (*fig. 1 a*), one of Republican Rome's most
 accomplished generals, in 55 BC, the theatre of Pompey and its
@@ -19,7 +16,7 @@ the location of Caesar's (*fig. 1 b*) murder on the Ides of March 44 BC,
 it was restored by his adopted son, Augustus, in 32 BC. The complex
 underwent numerous repairs, restorations and reconstructions in its life
 time, remaining in use right up until the 6^th^ century AD
-\@GagliardoPacker, always functioning, at least partially, as a 'public'
+[@GagliardoPacker], always functioning, at least partially, as a 'public'
 space.
 
 The Complex
@@ -33,7 +30,7 @@ inform us that the building was finished in 55 BC during Pompey's 2^nd^
 consulship. Thanks to Cicero's oration against Piso [(Cic. *Pis*.
 27.65)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0020%3Atext%3DPis.%3Achapter%3D27);,
 the opening of the whole complex by Pompey can also be dated to 55 BC
-\@GagliardoPacker.
+[@GagliardoPacker].
 
 Through a number of different sources, we know exactly where it was
 located (*fig. 3*). Thanks to archaeological remains (*fig. 4)*, the
@@ -43,10 +40,10 @@ Campus Martius, a name given to the large area of public land north-west
 of the geographic centre of the city.
 
 Pompey combined numerous traditional Roman structures within his
-building complex (*fig. 2*) \@Temelini; These were a temple, a theatre,
-and a *quadriportico*[^1]. The structure was also home to a garden and a
-*curia*[^2]. The structure faced east; something Vitruvius
-[(4.5.1)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/4*.html)
+building complex (*fig. 2*) [@Temelini]; These were a temple, a theatre,
+and a *quadriportico*.[^1] The structure was also home to a garden and a
+*curia*.[^2] The structure faced east; something Vitruvius [(Vitr.
+4.5.1)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/4*.html)
 tells us was typical for Greek and Roman temples of the time.
 
 Archaeological Remains and other evidence
@@ -84,12 +81,12 @@ X)](http://www.tertullian.org/lfc/LFC10-13_de_spectaculis.htm) and Pliny
 the Elder [(Plin. *NH*.
 8.7.20)](http://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+8.7&fromdoc=Perseus%3Atext%3A1919.02.0137)
 tell us that Pompey legitimised his theatre by dedicating it as a Temple
-of *Venus Victrix.*[^3] According to Plutarch [(Plut. *Pomp*.
+of *Venus Victrix*.[^3] According to Plutarch [(Plut. *Pomp*.
 42.4)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html#42.4),
 Pompey drew inspiration for his theatre from that of Mytilene in Greece,
 asking for detailed drawings to be made of its plan.
 
-The theatre was 35 m tall and 150 m in diameter \@Temelini. It was
+The theatre was 35 m tall and 150 m in diameter [@Temelini]. It was
 semi-circular in shape and consisted of five major components:
 
 -   *cavea* (seating)
@@ -102,7 +99,7 @@ semi-circular in shape and consisted of five major components:
 
 -   Temple of *Venus Victrix*.
 
-The *cavea* is thought to have seated at least 20,000 people \@Temelini.
+The *cavea* is thought to have seated at least 20,000 people [@Temelini].
 Some modern reconstructions, including those by
 [Canina](http://www.pompey.cch.kcl.ac.uk/Canina.htm) and
 [Blazeby](http://www.pompey.cch.kcl.ac.uk/blazeby_files/blazeby3d04.htm),
@@ -120,9 +117,9 @@ frons* seen in the *Forma Urbis Romae,* and thus most modern
 reconstructions (e.g. *figs. 2 & 8*), is from the reign of Septimius
 Severus. As Gleason notes, it is very possible that the theatre's
 original *scaenae frons* were temporary, constructed primarily from wood
-\@Gleason. Once made permanent however, as argued by Sear, there is
+[@Gleason]. Once made permanent however, as argued by Sear, there is
 evidence that the theatre's *scaenae frons* were copied at other sites
-across the empire \@Sear.
+across the empire [@Sear].
 
 Temple of Venus Victrix
 =======================
@@ -135,10 +132,10 @@ protruding out the back of the theatre (*figs. 2 & 9*). However,
 [Richardson](https://formaurbis.stanford.edu/docs/FURbiblio.html#Richardson198)
 argues that the size and form of the Temple has been exaggerated,
 largely due to misinterpretation of the *Forma Urbis Romae* fragments
-\@Richardson. He claims that the rectangular structure protruding from
+[@Richardson]. He claims that the rectangular structure protruding from
 the back of the theatre on the plan is in fact a street (*fig. 6*), and
 that the temple was instead of modest architecture, harmonious with the
-rest of the *cavea* \@Richardson*.* This disagreement in modern
+rest of the *cavea* [@Richardson]. This disagreement in modern
 scholarship illustrates the need for caution when using modern
 reconstructions.
 
@@ -154,7 +151,7 @@ itself, and that it housed a statue of Pompey [(Plut. *Brut*.
 
 After the *curia* in the *forum*[^4] was destroyed by a fire in 52 BC,
 the Curia of Pompey became a place for the senate to hold meetings
-\@Temelini. Suetonius [(Suet. *Caes*. 80,
+[@Temelini]. Suetonius [(Suet. *Caes*. 80,
 81)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)
 and Plutarch [(Plut. *Brut*.
 17-8)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#17)
@@ -165,16 +162,16 @@ and Cassius Dio [(Cass. Dio.
 47.19)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/47*.html#19)
 inform us that during the reign of Augustus (27 BC -- AD 14) the space
 was closed off, and the statue of Pompey was removed upon Augustus'
-orders;.
+orders.
 
-[ ]{.underline}The *quadriportico*
-==================================
+ The *quadriportico*
+====================
 
 The *quadriportico* (*figs. 2 & 11*) was an immense enclosed space,
-approximately 180 m long and 135 m wide \@Temelini. The *quadriportico*
+approximately 180 m long and 135 m wide [@Temelini]. The *quadriportico*
 consisted of a double colonnade outlining a large open public space,
 which was most likely a park consisting of a number of gardens
-\@Temelini.
+[@Temelini].
 
 As recorded by Vitruvius [(Vitr.
 5.9.1)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/5*.html#9.1),
@@ -183,7 +180,7 @@ allowing for the space to be used all year-round. There were also a
 series of rooms connected to this exterior colonnade, with various
 social, administrative and economic uses. For instance, some rooms were
 given to local guilds, and others acted as storage units for grain
-\@Temelini.
+[@Temelini].
 
 The interior colonnade surrounded a large peristyle consisting of
 several gardens*.* The colonnade was also embellished with a great
@@ -201,8 +198,8 @@ and Suetonius [(Suet. *Nero*.
 46)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html#46)
 tell us that within the porticos there were fourteen statues
 personifying the nations conquered by Rome. A statue of a group of muses
-has also recently been found in the archaeological record \@Gleason;
-\@Russel, as well as a gilded bronze statue of Hercules (*fig.12*).
+has also recently been found in the archaeological record [@Gleason;
+@Russell], as well as a gilded bronze statue of Hercules (*fig.12*).
 
 We are told by Propertius [(Prop.
 II.32.11‑12)](https://www.poetryintranslation.com/PITBR/Latin/PropertiusBkTwo.php#anchor_Toc201112289)
@@ -210,18 +207,17 @@ that within the gardens there were densely arranged parallel
 *plane-trees*, statues and running water features, effectively imagined
 in *Figure* *11*. The Garden was also the first garden outside the
 religious boundary of Rome which was opened to the public by a private
-donor (Pompey) \@Russel. Peristyle gardens were a very common feature of
-private villas and mansions of the period. As such, this public
+donor (Pompey) [@Russell]. Peristyle gardens were a very common feature
+of private villas and mansions of the period. As such, this public
 peristyle would have provided the average Roman with a glimpse into the
-private villas of the elite \@Russel.
+private villas of the elite [@Russell].
 
 People could thus walk amongst these beautiful gardens under the shade
 of trees and admire the surrounding art, or perhaps choose to socialise,
-surrounded by greenery and the sound of running water. As \@Temelini
+surrounded by greenery and the sound of running water. As [@Temelini]
 effectively summarises, "*The porticus-garden was intended to provide
 the Roman community with a formal setting for rest, relaxation, and
-quiet contemplation."\
-*
+quiet contemplation."*
 
 Restorations and alterations
 ============================
@@ -234,9 +230,14 @@ and Claudius [(Suet. *Claud*.
 rebuilt sections of the theatre. Additionally, Cassius Dio [(Cass. Dio.
 62.6.1‑2)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/62*.html#6)
 claims that Nero gilded the entire theatre and erected purple curtains
-above the theatre for shade, which depicted him upon a chariot. While
-the first claim may be an exaggeration, the second illustrates that the
-theatre was sometimes shaded.
+above the theatre for shade. In typical Nero fashion, these curtains
+depicted him upon a chariot. While Cassius Dio may be reporting events
+with a level of exaggeration, his account illustrates that the theatre
+was sometimes shaded. This was evidently not always the case, as
+evidenced by Martial [(Mart.
+xiv.29.1.)](http://www.tertullian.org/fathers/martial_epigrams_book14.htm).
+Martial writes that, when windy, awnings could not be drawn up, and
+people had to wear broad-brimmed hats to shade themselves.
 
 The Theatre of Pompey: Home of the performing arts, religion, leisure, politics and murder.
 ===========================================================================================
@@ -252,8 +253,8 @@ seat in the *cavea* along with thousands of others and watch a Greek
 tragedy under the shade of Nero's purple curtains. However, what they
 could not do, was visit the site of Julius Caesar's assassination.
 
-**Further Reading:**
-====================
+Further Reading
+===============
 
 A good amount of information used in this blog has been sourced from:
 
@@ -270,6 +271,9 @@ as providing some 2D and 3D reconstructions of the theatre.
 The [surviving fragments of the *Forma Urbis
 Romae*](https://formaurbis.stanford.edu/index.html) are published as
 part of the 'Stanford Digital Forma Urbis Romae Project'.
+
+Bibliography
+============
 
 [^1]: A four-sided portico
 
