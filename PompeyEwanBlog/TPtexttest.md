@@ -87,8 +87,8 @@ of *Venus Victrix*.[^3] According to Plutarch [(Plut. *Pomp*.
 Pompey drew inspiration for his theatre from that of Mytilene in Greece,
 asking for detailed drawings to be made of its plan.
 
-The theatre was 35 m tall and 150 m in diameter [@Temelini: 42]. It was
-semi-circular in shape and consisted of five major components:
+The theatre was 35 m tall and 150 m in diameter [@Temelini: 42]. It
+was semi-circular in shape and consisted of five major components:
 
 -   *cavea* (seating)
 
@@ -100,8 +100,8 @@ semi-circular in shape and consisted of five major components:
 
 -   Temple of *Venus Victrix*.
 
-The *cavea* is thought to have seated at least 20,000 people [@Temelini:
-42]. Some modern reconstructions, including those by
+The *cavea* is thought to have seated at least 20,000 people
+[@Temelini: 42]. Some modern reconstructions, including those by
 [Canina](http://www.pompey.cch.kcl.ac.uk/Canina.htm) and
 [Blazeby](http://www.pompey.cch.kcl.ac.uk/blazeby_files/blazeby3d04.htm),
 split the seating in the *cavea* into two sections, as is seen in the
@@ -115,12 +115,12 @@ Besides the temple, the focus of the theatre was the *pulpitum* and the
 theatrical performances would have taken place. The *scaenae frons* was
 situated right behind it, as a backdrop. The enormous permanent *scanae
 frons* seen in the *Forma Urbis Romae,* and thus most modern
-reconstructions (e.g. *figs. 2 & 8*), is from the reign of Septimius
+reconstructions (e.g. *figs. 2 & 7*), is from the reign of Septimius
 Severus. As Gleason notes, it is very possible that the theatre's
 original *scaenae frons* were temporary, constructed primarily from wood
-[@Gleason: 24]. Once made permanent however, as argued by Sear, there is
-evidence that the theatre's *scaenae frons* were copied at other sites
-across the empire [@Sear].
+[@Gleason: 24]. Once made permanent however, as argued by Sear, there
+is evidence that the theatre's *scaenae frons* were copied at other
+sites across the empire [@Sear].
 
 Temple of Venus Victrix
 =======================
@@ -129,22 +129,22 @@ Besides the fact that it sat at the top of the *cavea* and was dedicated
 to the goddess *Venus Victrix*, not much is known about the temple in
 Pompey's theatrical complex. The common consensus among scholars is that
 it was very large and ornate, rising above the roof of *cavea*, and
-protruding out the back of the theatre (*figs. 2 & 9*). However,
+protruding out the back of the theatre (*figs. 2 & 7*). However,
 [Richardson](https://formaurbis.stanford.edu/docs/FURbiblio.html#Richardson198)
 argues that the size and form of the Temple has been exaggerated,
 largely due to misinterpretation of the *Forma Urbis Romae* fragments
-[@Richardson: 124-6]. He claims that the rectangular structure protruding
-from the back of the theatre on the plan is in fact a street (*fig. 6*),
-and that the temple was instead of modest architecture, harmonious with
-the rest of the *cavea* [@Richardson: 124-6]. This disagreement in modern
-scholarship illustrates the need for caution when using modern
-reconstructions.
+[@Richardson: 124-6]. He claims that the rectangular structure
+protruding from the back of the theatre on the plan is in fact a street
+(*fig. 6*), and that the temple was instead of modest architecture,
+harmonious with the rest of the *cavea* [@Richardson: 124-6]. This
+disagreement in modern scholarship illustrates the need for caution when
+using modern reconstructions.
 
 The Curia
 =========
 
 The Curia of Pompey was located at the eastern end of the
-*quadriportico* (*figs.* *2* & *10*). It is thought that the space would
+*quadriportico* (*figs.* *2* & *8*). It is thought that the space would
 have been able to accommodate 600 senators as well as visitors. Plutarch
 tells us that it was structurally incorporated into the *quadriportico*
 itself, and that it housed a statue of Pompey [(Plut. *Brut*.
@@ -168,7 +168,7 @@ orders.
  The *quadriportico*
 ====================
 
-The *quadriportico* (*figs. 2 & 11*) was an immense enclosed space,
+The *quadriportico* (*figs. 2 & 8*) was an immense enclosed space,
 approximately 180 m long and 135 m wide [@Temelini: 44]. The
 *quadriportico* consisted of a double colonnade outlining a large open
 public space, which was most likely a park consisting of a number of
@@ -199,14 +199,15 @@ and Suetonius [(Suet. *Nero*.
 46)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html#46)
 tell us that within the porticos there were fourteen statues
 personifying the nations conquered by Rome. A statue of a group of muses
-has also recently been found in the archaeological record [@Gleason: 19; @Russell: 131], as well as a gilded bronze statue of Hercules
-(*fig.12*).
+has also recently been found in the archaeological record [@Gleason:
+19; @Russell: 131], as well as a gilded bronze statue of Hercules
+(*fig.9*).
 
 We are told by Propertius [(Prop.
 II.32.11‑12)](https://www.poetryintranslation.com/PITBR/Latin/PropertiusBkTwo.php#anchor_Toc201112289)
 that within the gardens there were densely arranged parallel
 *plane-trees*, statues and running water features, effectively imagined
-in *Figure* *11*. The Garden was also the first garden outside the
+in *figure* *8*. The Garden was also the first garden outside the
 religious boundary of Rome which was opened to the public by a private
 donor (Pompey) [@Russell: 130]. Peristyle gardens were a very common
 feature of private villas and mansions of the period. As such, this
@@ -215,10 +216,10 @@ into the private villas of the elite [@Russell: 132].
 
 People could thus walk amongst these beautiful gardens under the shade
 of trees and admire the surrounding art, or perhaps choose to socialise,
-surrounded by greenery and the sound of running water. As [@Temelini: 54]
-effectively summarises, "*The porticus-garden was intended to provide
-the Roman community with a formal setting for rest, relaxation, and
-quiet contemplation."*
+surrounded by greenery and the sound of running water. As Temelini
+[@Temelini: 54] effectively summarises, "*The porticus-garden was
+intended to provide the Roman community with a formal setting for rest,
+relaxation, and quiet contemplation."*
 
 Restorations and alterations
 ============================
