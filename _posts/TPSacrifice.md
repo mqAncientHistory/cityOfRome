@@ -15,13 +15,6 @@ category:
 author: ewan
 ---
 
-{% include lightbox.html
-caption="Coin depicting Pompey the Great"
-image="Ewan/Baltard_1837_pompey_pompey.png"
-width="2744"
-height="1828" %}
-
-
 *This week, Ewan C. examines the form and function of Rome's first
 permanent theatre and its related complex. The site is home to arguably
 the most infamous betrayal in political history, as well as other, less
@@ -40,8 +33,26 @@ time, remaining in use right up until the 6^th^ century AD
 [@GagliardoPacker: 95], always functioning, at least partially, as a
 'public' space.
 
+{% include lightbox.html
+caption="*Figure 1a.* Coin depicting Pompey the Great: Obverse of RIC 511-3a, ACANS Gale Collection"
+image="Ewan/fig.1.Pompey-RRC-511-3a-Obverse"
+width="450"
+height="443" %}
+
+{% include lightbox.html
+caption="*Figure 1b.* Coin depicting Julius Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
+image="Ewan/fig.1.Caesar-CNG-RRC-480-2a"
+width="377"
+height="356" %}
+
 The Complex
 ===========
+
+{% include lightbox.html
+caption="*Figure 2.* A virtual reconstruction of the whole theatrical complex"
+image="Ewan/FIG2,8,10-Theatre_of_Pompey_Sketch_up_model"
+width="1350"
+height="914" %}
 
 Dio Cassius [(Cass. Dio.
 39.38)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/39*.html#38)
