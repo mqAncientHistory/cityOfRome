@@ -198,9 +198,12 @@ largely due to misinterpretation of the *Forma Urbis Romae* fragments
 [@Richardson: 124-6]. He claims that the rectangular structure
 protruding from the back of the theatre on the plan is in fact a street
 (*fig. 6*), and that the temple was instead of modest architecture,
-harmonious with the rest of the *cavea* [@Richardson: 124-6]. This
-disagreement in modern scholarship illustrates the need for caution when
-using modern reconstructions.
+harmonious with the rest of the *cavea* [@Richardson: 124-6]. Gagliardo and
+Packer, who led excavations of the Theatre in 2002 and 2003, critique
+Richardson, arguing that there is indeed archaeological
+evidence for its existence [@GagliardoPacker: 115]. This disagreement in modern
+scholarship illustrates the need for caution when using modern
+reconstructions.
 
 The Curia
 =========
