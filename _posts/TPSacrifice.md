@@ -49,7 +49,7 @@ The Complex
 ===========
 
 {% include lightbox.html
-caption="*Figure 2.* A virtual reconstruction of the whole theatrical complex"
+caption="*Figure 2.* A virtual reconstruction of the whole theatrical complex by [Lasha Tskhondia](https://commons.wikimedia.org/w/index.php?curid=18279604), used under CC BY-SA 3.0."
 image="Ewan/FIG2,8,10-Theatre_of_Pompey_Sketch_up_model"
 width="1350"
 height="914" %}
@@ -71,6 +71,12 @@ of Rome (*fig. 6)*, we can deduce that the building was situated on the
 Campus Martius, a name given to the large area of public land north-west
 of the geographic centre of the city.
 
+{% include lightbox.html
+caption="*Figure 3.* Map of Rome with the Theatre marked out in Red by [Cold Eel and Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
+image="Ewan/FIG3-Plan-Rome-Theater-van-Pompeius"
+width="1128"
+height="900" %}
+
 Pompey combined numerous traditional Roman structures within his
 building complex (*fig. 2*) [@Temelini: 40]; These were a temple, a
 theatre, and a *quadriportico*.[^1] The structure was also home to a
@@ -81,6 +87,12 @@ tells us was typical for Greek and Roman temples of the time.
 
 Archaeological Remains and other evidence
 =========================================
+
+{% include lightbox.html
+caption="*Figure 4.* Photo of the remains within the *Largo di Torre Argentina* with the assumed location of the Curia highlighted, Photo By Ray Laurence"
+image="Ewan/fig.4.Ray-Photo"
+width="1019"
+height="765" %}
 
 Besides the written evidence, our understanding of the complex of Pompey
 is largely derived from the archaeological remains of the structure and
@@ -93,6 +105,12 @@ Portico and Curia have been found underneath the *Largo di Torre
 Argentina* (*fig. 4*), and housing on the *via di Grottapinta* follows
 the curve of the ancient theatre (*fig.* *5*).
 
+{% include lightbox.html
+caption="*Figure 5.* Photo of the housing on the *via di Grottapinta* which preserves the curve of the Theatre, Photo by [Lalupa, 2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG), used under CC BY-SA 3.0."
+image="Ewan/FIG5-1024px-Parione-via-di-Grottapinta-e-largo-del-Pallaro-case-sul-teatro-di-Pompeo-1010680"
+width="1024"
+height="768" %}
+
 The [*Forma Urbis
 Romae*](https://formaurbis.stanford.edu/docs/FURslabmap.html) is a plan
 of Rome from the reign of Emperor Septimius Severus (AD 193 -- AD 211)
@@ -103,6 +121,12 @@ III-11](https://formaurbis.stanford.edu/slab.php?slab=110) (*fig. 6*)
 and [IV-6](https://formaurbis.stanford.edu/slab.php?slab=96) of the
 plan. While some have been lost, they were all documented by
 [Carettoni](https://formaurbis.stanford.edu/plate.php?plateindex=31).
+
+{% include lightbox.html
+caption="*Figure 6.* Several surviving fragments of the *Forma Urbis Romae* from Slab.III 11 before they were lost, Photo by [Ulysses K. Vestal (1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg), Public Domain"
+image="Ewan/FIG6-Mapancientformaurbisromae"
+width="398"
+height="591" %}
 
 The Theatre of Pompey
 =====================
@@ -131,6 +155,12 @@ was semi-circular in shape and consisted of five major components:
 -   *scaenae frons* (architectural backdrop)
 
 -   Temple of *Venus Victrix*.
+
+{% include lightbox.html
+caption="*Figure 7.* A 3D virtual reconstruction of the Theatre, with its various components highlighted, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
+image="Ewan/FIG7-Theatre-of-Pompey-highlighted-diagram"
+width="1896"
+height="933" %}
 
 The *cavea* is thought to have seated at least 20,000 people
 [@Temelini: 42]. Some modern reconstructions, including those by
@@ -181,6 +211,12 @@ have been able to accommodate 600 senators as well as visitors. Plutarch
 tells us that it was structurally incorporated into the *quadriportico*
 itself, and that it housed a statue of Pompey [(Plut. *Brut*.
 14)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#14).
+
+{% include lightbox.html
+caption="*Figure 8.* A visual reconstruction of the Curia of Pompey as seen from inside the quadriportico, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
+image="Ewan/FIG8_Curia_Pompey"
+width="1896"
+height="932" %}
 
 After the *curia* in the *forum*[^4] was destroyed by a fire in 52 BC,
 the Curia of Pompey became a place for the senate to hold meetings
@@ -245,6 +281,12 @@ donor (Pompey) [@Russell: 130]. Peristyle gardens were a very common
 feature of private villas and mansions of the period. As such, this
 public peristyle would have provided the average Roman with a glimpse
 into the private villas of the elite [@Russell: 132].
+
+{% include lightbox.html
+caption="*Figure 9.* A gilded bronze statue of Hercules found near the Theatre of Pompey, Photo by [Jastrow (2006)](https://commons.wikimedia.org/wiki/File:Heracles_Pio-Clementino_Inv252.jpg), Public Domain"
+image="Ewan/FIG9-Heracles-Pio-Clementino-Inv252"
+width="1530"
+height="2780" %}
 
 People could thus walk amongst these beautiful gardens under the shade
 of trees and admire the surrounding art, or perhaps choose to socialise,
