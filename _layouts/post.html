@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign author = site.data.author[page.author] %}
+{% assign author = site.data.authors[page.author] %}
 
   {% if page.cover %}
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
@@ -44,7 +44,7 @@ layout: default
   <main id="content" role="main" class="content">
     <article class="content">
       <div class="post-meta mb4 px3">
-       
+
 
         {% if page.tags.size > 0 %}
             in
@@ -85,7 +85,7 @@ layout: default
           {% endif %}
           <h1 class="mb1 px3">{{page.title}}</h1>
 
-         
+
         </header>
 
   {% endif %}
@@ -111,7 +111,7 @@ layout: default
   <amp-social-share type="gplus" aria-label="Share this on Google Plus"></amp-social-share>
   <amp-social-share type="email" aria-label="Share this with E-mail"></amp-social-share>
 </div>
-End Socialbox --> 
+End Socialbox -->
 
 {% include analytics.html %}
 

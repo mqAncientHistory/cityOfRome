@@ -1,20 +1,3 @@
----
-layout: post
-cover: '/assets/images/Ewan/Baltard_1837_pompey_pompey.png'
-caption: 'A drawing by Baltard of the remains of the Theatre of Pompey as they were in 1837'
-captionLink: https://upload.wikimedia.org/wikipedia/commons/3/32/Baltard_1837_pompey.png
-title: "Nice theatre, but didn't they kill Caesar here?"
-date: 2018-10-08 16:00:00
-tags:
- - rome
- - archaeology
- - pompeius Magnus
- - theatre of pompey
-category:
- - post
-author: ewan
----
-
 *This week, Ewan C. examines the form and function of Rome's first
 permanent theatre and its related complex. The site is home to arguably
 the most infamous betrayal in political history, as well as other, less
@@ -30,29 +13,26 @@ the location of Caesar's (*fig. 1 b*) murder on the Ides of March 44 BC,
 it was restored by his adopted son, Augustus, in 32 BC. The complex
 underwent numerous repairs, restorations and reconstructions in its life
 time, remaining in use right up until the 6^th^ century AD
-[@GagliardoPacker: 95], always functioning, at least partially, as a
+[@GagliardoPacker : 95], always functioning, at least partially, as a
 'public' space.
 
-{% include lightbox.html
-caption="*Figure 1a.* Coin depicting Pompey the Great: Obverse of RIC 511-3a, ACANS Gale Collection"
-image="Ewan/fig.1.Pompey-RRC-511-3a-Obverse"
-width="450"
-height="443" %}
+{% include lightbox.html caption="*Figure 1a.* Coin depicting Pompey the
+Great: Obverse of RIC 511-3a, ACANS Gale Collection"
+image="Ewan/fig.1.Pompey-RRC-511-3a-Obverse" width="450" height="443" %}
 
-{% include lightbox.html
-caption="*Figure 1b.* Coin depicting Julius Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
-image="Ewan/fig.1.Caesar-CNG-RRC-480-2a"
-width="377"
-height="356" %}
+{% include lightbox.html caption="*Figure 1b.* Coin depicting Julius
+Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
+image="Ewan/fig.1.Caesar-CNG-RRC-480-2a" width="377" height="356" %}
 
 The Complex
 ===========
 
-{% include lightbox.html
-caption="*Figure 2.* A virtual reconstruction of the whole theatrical complex by [Lasha Tskhondia](https://commons.wikimedia.org/w/index.php?curid=18279604), used under CC BY-SA 3.0."
-image="Ewan/FIG2,8,10-Theatre_of_Pompey_Sketch_up_model"
-width="1350"
-height="914" %}
+{% include lightbox.html caption="*Figure 2.* A virtual reconstruction
+of the whole theatrical complex by [Lasha
+Tskhondia](https://commons.wikimedia.org/w/index.php?curid=18279604),
+used under CC BY-SA 3.0."
+image="Ewan/FIG2,8,10-Theatre\_of\_Pompey\_Sketch\_up\_model"
+width="1350" height="914" %}
 
 Dio Cassius [(Cass. Dio.
 39.38)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/39*.html#38)
@@ -62,7 +42,7 @@ inform us that the building was finished in 55 BC during Pompey's 2^nd^
 consulship. Thanks to Cicero's oration against Piso [(Cic. *Pis*.
 27.65)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0020%3Atext%3DPis.%3Achapter%3D27);,
 the opening of the whole complex by Pompey can also be dated to 55 BC
-[@GagliardoPacker: 93].
+[@GagliardoPacker : 93].
 
 Through a number of different sources, we know exactly where it was
 located (*fig. 3*). Thanks to archaeological remains (*fig. 4)*, the
@@ -71,14 +51,14 @@ of Rome (*fig. 6)*, we can deduce that the building was situated on the
 Campus Martius, a name given to the large area of public land north-west
 of the geographic centre of the city.
 
-{% include lightbox.html
-caption="*Figure 3.* Map of Rome with the Theatre marked out in Red by [Cold Eel and Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
-image="Ewan/FIG3-Plan-Rome-Theater-van-Pompeius"
-width="1128"
+{% include lightbox.html caption="*Figure 3.* Map of Rome with the
+Theatre marked out in Red by [Cold Eel and
+Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
+image="Ewan/FIG3-Plan-Rome-Theater-van-Pompeius" width="1128"
 height="900" %}
 
 Pompey combined numerous traditional Roman structures within his
-building complex (*fig. 2*) [@Temelini: 40]; These were a temple, a
+building complex (*fig. 2*) [@Temelini : 40]; These were a temple, a
 theatre, and a *quadriportico*.[^1] The structure was also home to a
 garden and a *curia*.[^2] The structure faced east; something Vitruvius
 [(Vitr.
@@ -88,11 +68,10 @@ tells us was typical for Greek and Roman temples of the time.
 Archaeological Remains and other evidence
 =========================================
 
-{% include lightbox.html
-caption="*Figure 4.* Photo of the remains within the *Largo di Torre Argentina* with the assumed location of the Curia highlighted, Photo By Ray Laurence"
-image="Ewan/fig.4.Ray-Photo"
-width="1019"
-height="765" %}
+{% include lightbox.html caption="*Figure 4.* Photo of the remains
+within the *Largo di Torre Argentina* with the assumed location of the
+Curia highlighted, Photo By Ray Laurence" image="Ewan/fig.4.Ray-Photo"
+width="1019" height="765" %}
 
 Besides the written evidence, our understanding of the complex of Pompey
 is largely derived from the archaeological remains of the structure and
@@ -105,11 +84,13 @@ Portico and Curia have been found underneath the *Largo di Torre
 Argentina* (*fig. 4*), and housing on the *via di Grottapinta* follows
 the curve of the ancient theatre (*fig.* *5*).
 
-{% include lightbox.html
-caption="*Figure 5.* Photo of the housing on the *via di Grottapinta* which preserves the curve of the Theatre, Photo by [Lalupa, 2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG), used under CC BY-SA 3.0."
+{% include lightbox.html caption="*Figure 5.* Photo of the housing on
+the *via di Grottapinta* which preserves the curve of the Theatre, Photo
+by [Lalupa,
+2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG),
+used under CC BY-SA 3.0."
 image="Ewan/FIG5-1024px-Parione-via-di-Grottapinta-e-largo-del-Pallaro-case-sul-teatro-di-Pompeo-1010680"
-width="1024"
-height="768" %}
+width="1024" height="768" %}
 
 The [*Forma Urbis
 Romae*](https://formaurbis.stanford.edu/docs/FURslabmap.html) is a plan
@@ -122,10 +103,11 @@ and [IV-6](https://formaurbis.stanford.edu/slab.php?slab=96) of the
 plan. While some have been lost, they were all documented by
 [Carettoni](https://formaurbis.stanford.edu/plate.php?plateindex=31).
 
-{% include lightbox.html
-caption="*Figure 6.* Several surviving fragments of the *Forma Urbis Romae* from Slab.III 11 before they were lost, Photo by [Ulysses K. Vestal (1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg), Public Domain"
-image="Ewan/FIG6-Mapancientformaurbisromae"
-width="398"
+{% include lightbox.html caption="*Figure 6.* Several surviving
+fragments of the *Forma Urbis Romae* from Slab.III 11 before they were
+lost, Photo by [Ulysses K. Vestal
+(1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg),
+Public Domain" image="Ewan/FIG6-Mapancientformaurbisromae" width="398"
 height="591" %}
 
 The Theatre of Pompey
@@ -143,8 +125,8 @@ of *Venus Victrix*.[^3] According to Plutarch [(Plut. *Pomp*.
 Pompey drew inspiration for his theatre from that of Mytilene in Greece,
 asking for detailed drawings to be made of its plan.
 
-The theatre was 35 m tall and 150 m in diameter [@Temelini: 42]. It
-was semi-circular in shape and consisted of five major components:
+The theatre was 35 m tall and 150 m in diameter [@Temelini : 42]. It was
+semi-circular in shape and consisted of five major components:
 
 -   *cavea* (seating)
 
@@ -156,14 +138,16 @@ was semi-circular in shape and consisted of five major components:
 
 -   Temple of *Venus Victrix*.
 
-{% include lightbox.html
-caption="*Figure 7.* A 3D virtual reconstruction of the Theatre, with its various components highlighted, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
-image="Ewan/FIG7-Theatre-of-Pompey-highlighted-diagram"
-width="1896"
+{% include lightbox.html caption="*Figure 7.* A 3D virtual
+reconstruction of the Theatre, with its various components highlighted,
+a derivative work by [Amadscientist
+(2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png)
+of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
+image="Ewan/FIG7-Theatre-of-Pompey-highlighted-diagram" width="1896"
 height="933" %}
 
-The *cavea* is thought to have seated at least 20,000 people
-[@Temelini: 42]. Some modern reconstructions, including those by
+The *cavea* is thought to have seated at least 20,000 people [@Temelini
+: 42]. Some modern reconstructions, including those by
 [Canina](http://www.pompey.cch.kcl.ac.uk/Canina.htm) and
 [Blazeby](http://www.pompey.cch.kcl.ac.uk/blazeby_files/blazeby3d04.htm),
 split the seating in the *cavea* into two sections, as is seen in the
@@ -180,7 +164,7 @@ frons* seen in the *Forma Urbis Romae,* and thus most modern
 reconstructions (e.g. *figs. 2 & 7*), is from the reign of Septimius
 Severus. As Gleason notes, it is very possible that the theatre's
 original *scaenae frons* were temporary, constructed primarily from wood
-[@Gleason: 24]. Once made permanent however, as argued by Sear, there
+[@Gleason : 24]. Once made permanent however, as argued by Sear, there
 is evidence that the theatre's *scaenae frons* were copied at other
 sites across the empire [@Sear].
 
@@ -195,14 +179,14 @@ protruding out the back of the theatre (*figs. 2 & 7*). However,
 [Richardson](https://formaurbis.stanford.edu/docs/FURbiblio.html#Richardson198)
 argues that the size and form of the Temple has been exaggerated,
 largely due to misinterpretation of the *Forma Urbis Romae* fragments
-[@Richardson: 124-6]. He claims that the rectangular structure
+[@Richardson : 124-6]. He claims that the rectangular structure
 protruding from the back of the theatre on the plan is in fact a street
 (*fig. 6*), and that the temple was instead of modest architecture,
-harmonious with the rest of the *cavea* [@Richardson: 124-6]. Gagliardo and
-Packer, who led excavations of the Theatre in 2002 and 2003, critique
-Richardson, arguing that there is indeed archaeological
-evidence for its existence [@GagliardoPacker: 115]. This disagreement in modern
-scholarship illustrates the need for caution when using modern
+harmonious with the rest of the *cavea* [@Richardson : 124-6]. Gagliardo
+and Packer, who led excavations of the Theatre in 2002 and 2003,
+critique Richardson, arguing that there is indeed archaeological
+evidence for its existence [@GagliardoPacker : 115]. This disagreement
+in modern scholarship illustrates the need for caution when using modern
 reconstructions.
 
 The Curia
@@ -215,15 +199,16 @@ tells us that it was structurally incorporated into the *quadriportico*
 itself, and that it housed a statue of Pompey [(Plut. *Brut*.
 14)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#14).
 
-{% include lightbox.html
-caption="*Figure 8.* A visual reconstruction of the Curia of Pompey as seen from inside the quadriportico, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
-image="Ewan/FIG8_Curia_Pompey"
-width="1896"
-height="932" %}
+{% include lightbox.html caption="*Figure 8.* A visual reconstruction of
+the Curia of Pompey as seen from inside the quadriportico, a derivative
+work by [Amadscientist
+(2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png)
+of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
+image="Ewan/FIG8\_Curia\_Pompey" width="1896" height="932" %}
 
 After the *curia* in the *forum*[^4] was destroyed by a fire in 52 BC,
 the Curia of Pompey became a place for the senate to hold meetings
-[@Temelini: 74]. Suetonius [(Suet. *Caes*. 80,
+[@Temelini : 74]. Suetonius [(Suet. *Caes*. 80,
 81)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)
 and Plutarch [(Plut. *Brut*.
 17-8)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#17)
@@ -236,14 +221,14 @@ inform us that during the reign of Augustus (27 BC -- AD 14) the space
 was closed off, and the statue of Pompey was removed upon Augustus'
 orders.
 
- The *quadriportico*
-====================
+The *quadriportico*
+===================
 
 The *quadriportico* (*figs. 2 & 8*) was an immense enclosed space,
-approximately 180 m long and 135 m wide [@Temelini: 44]. The
+approximately 180 m long and 135 m wide [@Temelini : 44]. The
 *quadriportico* consisted of a double colonnade outlining a large open
 public space, which was most likely a park consisting of a number of
-gardens [@Temelini: 45].
+gardens [@Temelini : 45].
 
 As recorded by Vitruvius [(Vitr.
 5.9.1)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/5*.html#9.1),
@@ -252,7 +237,7 @@ allowing for the space to be used all year-round. There were also a
 series of rooms connected to this exterior colonnade, with various
 social, administrative and economic uses. For instance, some rooms were
 given to local guilds, and others acted as storage units for grain
-[@Temelini: 33].
+[@Temelini : 33].
 
 The interior colonnade surrounded a large peristyle consisting of
 several gardens*.* The colonnade was also embellished with a great
@@ -270,8 +255,8 @@ and Suetonius [(Suet. *Nero*.
 46)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html#46)
 tell us that within the porticos there were fourteen statues
 personifying the nations conquered by Rome. A statue of a group of muses
-has also recently been found in the archaeological record [@Gleason:
-19; @Russell: 131], as well as a gilded bronze statue of Hercules
+has also recently been found in the archaeological record [@Gleason :
+19; @Russell : 131], as well as a gilded bronze statue of Hercules
 (*fig.9*).
 
 We are told by Propertius [(Prop.
@@ -280,23 +265,23 @@ that within the gardens there were densely arranged parallel
 *plane-trees*, statues and running water features, effectively imagined
 in *figure* *8*. The Garden was also the first garden outside the
 religious boundary of Rome which was opened to the public by a private
-donor (Pompey) [@Russell: 130]. Peristyle gardens were a very common
+donor (Pompey) [@Russell : 130]. Peristyle gardens were a very common
 feature of private villas and mansions of the period. As such, this
 public peristyle would have provided the average Roman with a glimpse
-into the private villas of the elite [@Russell: 132].
+into the private villas of the elite [@Russell : 132].
 
-{% include lightbox.html
-caption="*Figure 9.* A gilded bronze statue of Hercules found near the Theatre of Pompey, Photo by [Jastrow (2006)](https://commons.wikimedia.org/wiki/File:Heracles_Pio-Clementino_Inv252.jpg), Public Domain"
-image="Ewan/FIG9-Heracles-Pio-Clementino-Inv252"
-width="1530"
-height="2780" %}
+{% include lightbox.html caption="*Figure 9.* A gilded bronze statue of
+Hercules found near the Theatre of Pompey, Photo by [Jastrow
+(2006)](https://commons.wikimedia.org/wiki/File:Heracles_Pio-Clementino_Inv252.jpg),
+Public Domain" image="Ewan/FIG9-Heracles-Pio-Clementino-Inv252"
+width="1530" height="2780" %}
 
 People could thus walk amongst these beautiful gardens under the shade
 of trees and admire the surrounding art, or perhaps choose to socialise,
 surrounded by greenery and the sound of running water. As Temelini
-[@Temelini: 54] effectively summarises, "*The porticus-garden was
+[@Temelini : 54] effectively summarises, \"*The porticus-garden was
 intended to provide the Roman community with a formal setting for rest,
-relaxation, and quiet contemplation."*
+relaxation, and quiet contemplation.\"*
 
 Restorations and alterations
 ============================
@@ -351,7 +336,7 @@ The [surviving fragments of the *Forma Urbis
 Romae*](https://formaurbis.stanford.edu/index.html) are published as
 part of the 'Stanford Digital Forma Urbis Romae Project'.
 
-Bibliography
+Bibliography {#bibliography .unnumbered}
 ============
 
 [^1]: A four-sided portico
