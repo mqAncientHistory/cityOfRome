@@ -1,3 +1,20 @@
+---
+layout: post
+cover: '/assets/images/ArcusAugusti/ArchofAugustus.png'
+caption: 'Location of the ruins of the Arch of Augustus in Rome'
+captionLink: https://commons.wikimedia.org/w/index.php?title=File:Arch_of_Augustus.png&oldid=299542765
+title: "Foundations for a triumphal arch, but which victory might it commemorate?"
+date: 2018-10-22 00:00:00
+tags:
+ - rome
+ - archaeology
+ - Augustus
+ - triumphal arch
+category:
+ - post
+author: ewan
+---
+
 Foundations for a triumphal arch, but which victory might it commemorate?
 ==========================================================================
 
@@ -12,7 +29,12 @@ rectangular concrete beds topped with travertine blocks, with the outer
 two bases being considerably narrower than the inner two. It was later
 recorded by Italian archaeologist Rodolfo Lanciani that the arch
 corresponding to these foundations had been "found and destroyed" by
-workmen in the 16^th^ century [@Lanciani].
+workmen in the 16th century [@Lanciani].
+
+{% include lightbox.html caption="*Figure 1.* Arch of Augustus (https://commons.wikimedia.org/w/index.php?title=File:Arch_of_Augustus.png&oldid=299542765)"
+image="ArcusAugusti/ArchofAugustus.png
+" width="613"
+height="456" %}
 
 Richter had initially identified the foundations as belonging to an arch
 that was reportedly built in honour of Augustus after his victory at the
@@ -203,40 +225,7 @@ both modern and ancient sources to test hypotheses and examine past
 research. It is through this multi-faceted approach that we strive to
 create a more wholistic understanding of the nature of ancient Rome.
 
-**Figures**
 
-Figure 1: The location of the Arcus Augusti between the Temples of
-Caesar and Castor.
-
-![](media/image1.png){width="5.158333333333333in"
-height="3.783333333333333in"}
-
-**\
-\
-**
-
-Figure 2: The foundations discovered by Richter highlighted in red, with
-the Temple of Divus Iulius (Caesar) and Temple of Vesta.
-
-![](media/image2.png){width="3.640972222222222in" height="2.21875in"}
-
-Figure 3: Denarius dated between 29 and 27 B.C.
-
-![](media/image3.png){width="1.8229166666666667in" height="2.0in"}
-
-Figure 4: Denarius dated between 18 and 17 B.C.
-
-![](media/image4.png){width="1.8229166666666667in" height="1.75in"}
-
-Figure 5: Denarius dated to 16 B.C.
-
-![](media/image5.png){width="1.8229166666666667in" height="1.84375in"}
-
-Figure 6: Fragments of the Fasti Consulares, now located in the Musei
-Capitolini in Rome.
-
-![](media/image6.png){width="4.510416666666667in"
-height="3.0069444444444446in"}
 
 **Bibliography**
 
@@ -255,5 +244,3 @@ Classics Archive*,
 
 > \<[[http://classics.mit.edu/Augustus/deeds.html]{.underline}](http://classics.mit.edu/Augustus/deeds.html)\>
 > (viewed 18th May, 2018).
-
-**Modern Sources**
