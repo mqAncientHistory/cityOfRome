@@ -4,7 +4,7 @@ cover: '/assets/images/Ewan/cover-Baltard.png'
 caption: 'A drawing by Baltard of the remains of the Theatre of Pompey as they were in 1837'
 captionLink: https://upload.wikimedia.org/wikipedia/commons/3/32/Baltard_1837_pompey.png
 title: "Nice theatre, but didn't they kill Caesar here?"
-date: 2018-10-16 00:00:00
+date: 2018-10-08 16:00:00
 tags:
  - rome
  - archaeology
@@ -15,16 +15,17 @@ category:
 author: ewan
 ---
 <p><em>This week, Ewan C. examines the form and function of Rome’s first permanent theatre and its related complex. The site is home to arguably the most infamous betrayal in political history, as well as other, less perilous dramas, yet was also a centre of arts and horticulture. Let’s take a further look at the Theatre of Pompey!</em></p>
-<p>Built by Pompey the Great (<em>fig. 1 a</em>), one of Republican Rome’s most accomplished generals, in 55 BC, the theatre of Pompey and its surrounding building complex (<em>fig. 2</em>) is considered one of Rome’s greatest monuments, both by its contemporaries and modern scholars. Testament to the complex’s significance is the fact that, despite being the location of Julius Caesar’s (<em>fig. 1 b</em>) murder on the Ides of March 44 BC, it was restored by his adopted son, Augustus, in 32 BC. The complex underwent numerous repairs, restorations and reconstructions in its life time, remaining in use right up until the 6<sup>th</sup> century AD <span class="citation" data-cites="GagliardoPacker">(Gagliardo and Packer <a href="#ref-GagliardoPacker">2006</a>: 95)</span>, always functioning, at least partially, as a ‘public’ space.</p>
+<p>Built by Pompey the Great (<em>fig. 1 a</em>), one of Republican Rome’s most accomplished generals, in 55 BC, the theatre of Pompey and its surrounding building complex (<em>fig. 2</em>) is considered one of Rome’s greatest monuments, both by its contemporaries and modern scholars. Testament to the complex’s significance is the fact that, despite being the location of Caesar’s (<em>fig. 1 b</em>) murder on the Ides of March 44 BC, it was restored by his adopted son, Augustus, in 32 BC. The complex underwent numerous repairs, restorations and reconstructions in its life time, remaining in use right up until the 6<sup>th</sup> century AD <span class="citation" data-cites="GagliardoPacker">(Gagliardo and Packer <a href="#ref-GagliardoPacker">2006</a>: 95)</span>, always functioning, at least partially, as a ‘public’ space.</p>
 
-
-{% include lightbox.html caption="*Figure 1a.* Coin depicting Pompey the
+{% include lightbox.html
+caption="*Figure 1a.* Coin depicting Pompey the
 Great: Obverse of RIC 511-3a, ACANS Gale Collection"
 image="Ewan/fig1a-Pompey.jpg"
 width="450"
 height="443" %}
 
-{% include lightbox.html caption="*Figure 1b.* Coin depicting Julius
+{% include lightbox.html
+caption="*Figure 1b.* Coin depicting Julius
 Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
 image="Ewan/fig1b-Caesar.jpg"
 width="377"
@@ -32,49 +33,44 @@ height="356" %}
 
 <h1 id="the-complex">The Complex</h1>
 
-{% include lightbox.html caption="*Figure 2.* A virtual reconstruction
-of the whole theatrical complex by [Lasha
-Tskhondia](https://commons.wikimedia.org/w/index.php?curid=18279604),
-used under CC BY-SA 3.0."
+{% include lightbox.html
+caption="*Figure 2.* A virtual reconstruction of the whole theatrical complex by [Lasha Tskhondia](https://commons.wikimedia.org/w/index.php?curid=18279604), used under CC BY-SA 3.0."
 image="Ewan/fig2-complex.png"
-width="1350" height="914" %}
+width="1350"
+height="914" %}
 
 <p>Dio Cassius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/39*.html#38">(Cass. Dio. 39.38)</a> and Plutarch <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html#52">(Plut. <em>Pomp</em>. 52)</a> inform us that the building was finished in 55 BC during Pompey’s 2<sup>nd</sup> consulship. Thanks to Cicero’s oration against Piso <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0020%3Atext%3DPis.%3Achapter%3D27">(Cic. <em>Pis</em>. 27.65)</a>;, the opening of the whole complex by Pompey can also be dated to 55 BC <span class="citation" data-cites="GagliardoPacker">(Gagliardo and Packer <a href="#ref-GagliardoPacker">2006</a>: 93)</span>.</p>
 <p>Through a number of different sources, we know exactly where it was located (<em>fig. 3</em>). Thanks to archaeological remains (<em>fig. 4)</em>, the shape of the modern city of Rome (<em>fig. 5)</em>, and the Severan Marble Plan of Rome (<em>fig. 6)</em>, we can deduce that the building was situated on the Campus Martius, a name given to the large area of public land north-west of the geographic centre of the city.</p>
 
-{% include lightbox.html caption="*Figure 3.* Map of Rome with the
-Theatre marked out in Red by [Cold Eel and
-Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
+{% include lightbox.html
+caption="*Figure 3.* Map of Rome with the Theatre marked out in Red by [Cold Eel and Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
 image="Ewan/fig3-map.png"
 width="1128"
 height="900" %}
 
-
 <p>Pompey combined numerous traditional Roman structures within his building complex (<em>fig. 2</em>) <span class="citation" data-cites="Temelini">(Temelini <a href="#ref-Temelini">1993</a>: 40)</span>; These were a temple, a theatre, and a <em>quadriportico</em>.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> The structure was also home to a garden and a <em>curia</em>.<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> The structure faced east; something Vitruvius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/4*.html">(Vitr. 4.5.1)</a> tells us was typical for Greek and Roman temples of the time.</p>
 <h1 id="archaeological-remains-and-other-evidence">Archaeological Remains and other evidence</h1>
 
-{% include lightbox.html caption="*Figure 4.* Photo of the remains
-within the *Largo di Torre Argentina* with the assumed location of the
-Curia highlighted, Photo By Ray Laurence" image="Ewan/fig4-rayphoto.jpg"
-width="1019" height="765" %}
+{% include lightbox.html
+caption="*Figure 4.* Photo of the remains within the *Largo di Torre Argentina* with the assumed location of the Curia highlighted, Photo By Ray Laurence"
+image="Ewan/fig4-rayphoto.jpg"
+width="1019"
+height="765" %}
 
 <p>Besides the written evidence, our understanding of the complex of Pompey is largely derived from the archaeological remains of the structure and the <a href="https://formaurbis.stanford.edu/">Severan Marble Plan of Rome</a> (<em>Forma Urbis Romae</em>).</p>
 <p>The archaeological remains of the complex are mostly underground or have been integrated into the modern city-scape. For instance, remains of the Portico and Curia have been found underneath the <em>Largo di Torre Argentina</em> (<em>fig. 4</em>), and housing on the <em>via di Grottapinta</em> follows the curve of the ancient theatre (<em>fig.</em> <em>5</em>).</p>
 
-{% include lightbox.html caption="*Figure 5.* Photo of the housing on
-the *via di Grottapinta* which preserves the curve of the Theatre, Photo
-by [Lalupa,
-2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG),
-used under CC BY-SA 3.0."
+{% include lightbox.html
+caption="*Figure 5.* Photo of the housing on the *via di Grottapinta* which preserves the curve of the Theatre, Photo by [Lalupa, 2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG), used under CC BY-SA 3.0."
 image="Ewan/fig5-Grottapinta.JPG"
-width="1024" height="768" %}
+width="1024"
+height="768" %}
 
 <p>The <a href="https://formaurbis.stanford.edu/docs/FURslabmap.html"><em>Forma Urbis Romae</em></a> is a plan of Rome from the reign of Emperor Septimius Severus (AD 193 – AD 211) with a scale of 1:240 that was 18.22 m x 12.87 m. Since the first pieces were found in AD 1562, 1,186 fragments have been recovered. The complex of Pompey is preserved in several fragments from <a href="https://formaurbis.stanford.edu/slab.php?slab=110">Slabs III-11</a> (<em>fig. 6</em>) and <a href="https://formaurbis.stanford.edu/slab.php?slab=96">IV-6</a> of the plan. While some have been lost, they were all documented by <a href="https://formaurbis.stanford.edu/plate.php?plateindex=31">Carettoni</a>.</p>
-{% include lightbox.html caption="*Figure 6.* Several surviving
-fragments of the *Forma Urbis Romae* from Slab.III 11 before they were
-lost, Photo by [Ulysses K. Vestal
-(1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg),
-Public Domain" image="Ewan/fig6-fur.jpg"
+
+{% include lightbox.html
+caption="*Figure 6.* Several surviving fragments of the *Forma Urbis Romae* from Slab.III 11 before they were lost, Photo by [Ulysses K. Vestal (1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg), Public Domain"
+image="Ewan/fig6-fur.jpg"
 width="398"
 height="591" %}
 
@@ -100,8 +96,6 @@ height="933" %}
 <h1 id="temple-of-venus-victrix">Temple of Venus Victrix</h1>
 <p>Besides the fact that it sat at the top of the <em>cavea</em> and was dedicated to the goddess <em>Venus Victrix</em>, not much is known about the temple in Pompey’s theatrical complex. The common consensus among scholars is that it was very large and ornate, rising above the roof of <em>cavea</em>, and protruding out the back of the theatre (<em>figs. 2 &amp; 7</em>). However, <a href="https://formaurbis.stanford.edu/docs/FURbiblio.html#Richardson198">Richardson</a> argues that the size and form of the Temple has been exaggerated, largely due to misinterpretation of the <em>Forma Urbis Romae</em> fragments <span class="citation" data-cites="Richardson">(Richardson <a href="#ref-Richardson">1987</a>: 124-6)</span>. He claims that the rectangular structure protruding from the back of the theatre on the plan is in fact a street (<em>fig. 6</em>), and that the temple was instead of modest architecture, harmonious with the rest of the <em>cavea</em> <span class="citation" data-cites="Richardson">(Richardson <a href="#ref-Richardson">1987</a>: 124-6)</span>. Gagliardo and Packer, who led excavations of the Theatre in 2002 and 2003, critique Richardson, arguing that there is indeed archaeological evidence for its existence <span class="citation" data-cites="GagliardoPacker">(Gagliardo and Packer <a href="#ref-GagliardoPacker">2006</a>: 115)</span>. This disagreement in modern scholarship illustrates the need for caution when using modern reconstructions.</p>
 <h1 id="the-curia">The Curia</h1>
-
-
 <p>The Curia of Pompey was located at the eastern end of the <em>quadriportico</em> (<em>figs.</em> <em>2</em> &amp; <em>8</em>). It is thought that the space would have been able to accommodate 600 senators as well as visitors. Plutarch tells us that it was structurally incorporated into the <em>quadriportico</em> itself, and that it housed a statue of Pompey <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#14">(Plut. <em>Brut</em>. 14)</a>.</p>
 
 {% include lightbox.html

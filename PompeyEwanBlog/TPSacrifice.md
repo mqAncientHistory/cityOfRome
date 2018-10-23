@@ -34,14 +34,16 @@ time, remaining in use right up until the 6^th^ century AD
 'public' space.
 
 {% include lightbox.html
-caption="*Figure 1a.* Coin depicting Pompey the Great: Obverse of RIC 511-3a, ACANS Gale Collection"
-image="Ewan/fig.1.Pompey-RRC-511-3a-Obverse"
+caption="*Figure 1a.* Coin depicting Pompey the
+Great: Obverse of RIC 511-3a, ACANS Gale Collection"
+image="Ewan/fig1a-Pompey.jpg"
 width="450"
 height="443" %}
 
 {% include lightbox.html
-caption="*Figure 1b.* Coin depicting Julius Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
-image="Ewan/fig.1.Caesar-CNG-RRC-480-2a"
+caption="*Figure 1b.* Coin depicting Julius
+Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
+image="Ewan/fig1b-Caesar.jpg"
 width="377"
 height="356" %}
 
@@ -50,7 +52,7 @@ The Complex
 
 {% include lightbox.html
 caption="*Figure 2.* A virtual reconstruction of the whole theatrical complex by [Lasha Tskhondia](https://commons.wikimedia.org/w/index.php?curid=18279604), used under CC BY-SA 3.0."
-image="Ewan/FIG2,8,10-Theatre_of_Pompey_Sketch_up_model"
+image="Ewan/fig2-complex.png"
 width="1350"
 height="914" %}
 
@@ -73,7 +75,7 @@ of the geographic centre of the city.
 
 {% include lightbox.html
 caption="*Figure 3.* Map of Rome with the Theatre marked out in Red by [Cold Eel and Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
-image="Ewan/FIG3-Plan-Rome-Theater-van-Pompeius"
+image="Ewan/fig3-map.png"
 width="1128"
 height="900" %}
 
@@ -90,7 +92,7 @@ Archaeological Remains and other evidence
 
 {% include lightbox.html
 caption="*Figure 4.* Photo of the remains within the *Largo di Torre Argentina* with the assumed location of the Curia highlighted, Photo By Ray Laurence"
-image="Ewan/fig.4.Ray-Photo"
+image="Ewan/fig4-rayphoto.jpg"
 width="1019"
 height="765" %}
 
@@ -107,7 +109,7 @@ the curve of the ancient theatre (*fig.* *5*).
 
 {% include lightbox.html
 caption="*Figure 5.* Photo of the housing on the *via di Grottapinta* which preserves the curve of the Theatre, Photo by [Lalupa, 2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG), used under CC BY-SA 3.0."
-image="Ewan/FIG5-1024px-Parione-via-di-Grottapinta-e-largo-del-Pallaro-case-sul-teatro-di-Pompeo-1010680"
+image="Ewan/fig5-Grottapinta.JPG"
 width="1024"
 height="768" %}
 
@@ -124,7 +126,7 @@ plan. While some have been lost, they were all documented by
 
 {% include lightbox.html
 caption="*Figure 6.* Several surviving fragments of the *Forma Urbis Romae* from Slab.III 11 before they were lost, Photo by [Ulysses K. Vestal (1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg), Public Domain"
-image="Ewan/FIG6-Mapancientformaurbisromae"
+image="Ewan/fig6-fur.jpg"
 width="398"
 height="591" %}
 
@@ -158,7 +160,7 @@ was semi-circular in shape and consisted of five major components:
 
 {% include lightbox.html
 caption="*Figure 7.* A 3D virtual reconstruction of the Theatre, with its various components highlighted, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
-image="Ewan/FIG7-Theatre-of-Pompey-highlighted-diagram"
+image="Ewan/fig7-Theatre.png"
 width="1896"
 height="933" %}
 
@@ -217,7 +219,7 @@ itself, and that it housed a statue of Pompey [(Plut. *Brut*.
 
 {% include lightbox.html
 caption="*Figure 8.* A visual reconstruction of the Curia of Pompey as seen from inside the quadriportico, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
-image="Ewan/FIG8_Curia_Pompey"
+image="Ewan/fig8-curia.jpg"
 width="1896"
 height="932" %}
 
@@ -287,7 +289,7 @@ into the private villas of the elite [@Russell: 132].
 
 {% include lightbox.html
 caption="*Figure 9.* A gilded bronze statue of Hercules found near the Theatre of Pompey, Photo by [Jastrow (2006)](https://commons.wikimedia.org/wiki/File:Heracles_Pio-Clementino_Inv252.jpg), Public Domain"
-image="Ewan/FIG9-Heracles-Pio-Clementino-Inv252"
+image="Ewan/fig9-heracles.jpg"
 width="1530"
 height="2780" %}
 
