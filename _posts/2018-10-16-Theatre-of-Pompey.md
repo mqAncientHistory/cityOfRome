@@ -19,14 +19,14 @@ author: ewan
 
 {% include lightbox.html
 caption="*Figure 1a.* Coin depicting Pompey the
-Great: Obverse of RIC 511-3a, ACANS Gale Collection"
+Great: Obverse of RRC 511-3a, 07GR511.3a ACANS Gale Collection"
 image="Ewan/fig1a-Pompey.jpg"
 width="450"
 height="443" %}
 
 {% include lightbox.html
 caption="*Figure 1b.* Coin depicting Julius
-Caesar: Obverse of RRC 480-2a, ACANS Gale Collection"
+Caesar: Obverse of RRC 480-2a, 07GR480.2a ACANS Gale Collection"
 image="Ewan/fig1b-Caesar.jpg"
 width="377"
 height="356" %}
@@ -126,6 +126,7 @@ height="2780" %}
 <h1 id="further-reading">Further Reading</h1>
 <p>A good amount of information used in this blog has been sourced from:</p>
 <p>Temelini, M. A. (1993), <a href="http://dx.doi.org/10.20381/ruor-11398"><em>The Function of Pompey’s Building Complex in the Campus Martius</em></a> (master’s thesis), Ottawa: University of Ottawa.</p>
+<p>Horne, L., and Rowan, C., <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/exhibitions/the-coinage-of-julius-caesar"><em>The Coinage of Julius Caesar</em></a>, Published online: ACANS, accessed 25.10.2018, provides a great database of coins from the Late Republic housed in the ACANS Gale collection, and demonstrates that numismatic evidence can reveal a lot about the civil wars of the Late Republic.</p>
 <p><a href="http://www.pompey.cch.kcl.ac.uk/index.htm">The ‘Pompey Project’ website</a>, created by King’s Visualisation lab (KVL), provides a great overview of the structure. It covers topics such as the theatre’s history and its excavations, as well as providing some 2D and 3D reconstructions of the theatre.</p>
 <p>The <a href="https://formaurbis.stanford.edu/index.html">surviving fragments of the <em>Forma Urbis Romae</em></a> are published as part of the ‘Stanford Digital Forma Urbis Romae Project’.</p>
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
