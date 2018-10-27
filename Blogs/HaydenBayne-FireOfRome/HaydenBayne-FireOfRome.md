@@ -1,10 +1,10 @@
 ---
 layout: post
-cover: '/assets/images/Hayden/caption-fire.JPG'
+cover: '/assets/images/Hayden/caption-fire.jpg'
 caption: '‘The Fire of Rome’ by Hubert Robert, 1787, WikiCommons, Public Domain.'
 captionLink: https://commons.wikimedia.org/wiki/File:Fire_in_Rome.jpg
 title: "The Fire of Rome AD64: A Firefighter’s Perspective"
-date: 2018-10-08 16:00:00
+date: 2018-10-22 16:00:00
 tags:
  - rome
  - fire
@@ -21,7 +21,7 @@ author: hayden
 
 {% include lightbox.html
 caption="*Figure 1.* Fire Tetrahedron. By [Gustavb](https://commons.wikimedia.org/wiki/File:Fire_tetrahedron.svg), 2006, Public Domain"
-image="fig1.tetrahedron.JPG"
+image="Hayden/fig1-tetrahedron.jpg"
 width="270"
 height="260" %}
 
@@ -35,7 +35,7 @@ height="260" %}
 
 {% include lightbox.html
 caption="*Figure 2.* Map of Rome depicting the Hills and Servian Wall. By [William Smith](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_student%27s_manual_of_ancient_geography%2C_based_upon_the_Dictionary_of_Greek_and_Roman_geography_%281861%29_%2814768984432%29.jpg), Public Domain"
-image="Hayden/fig2.hills.JPG"
+image="Hayden/fig2-hills.jpg"
 width="2102"
 height="2170" %}
 
@@ -46,7 +46,7 @@ height="2170" %}
 
 {% include lightbox.html
 caption="*Figure 3.* Figure 3: A Roman coin (RIC 143) depicting the Emperor Nero, 18A02, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
-image="Hayden/fi3.nero.JPG"
+image="Hayden/fig3-nero.jpg"
 width="500"
 height="498" %}
 
@@ -56,7 +56,7 @@ height="498" %}
 
 {% include lightbox.html
 caption="*Figure 4.* Map of Rome showing the Regions and walls of Rome c. 300 AD. An edit of an original by [fr:User:ColdEel & edited by nl:Gebruiker:Joris](https://en.wikipedia.org/wiki/File:Plan_Rome-_Servische_Muur.png), CC BY-SA 3.0."
-image="Hayden/fig4.map.JPG"
+image="Hayden/fig4-map.jpg"
 width="828"
 height="706" %}
 
