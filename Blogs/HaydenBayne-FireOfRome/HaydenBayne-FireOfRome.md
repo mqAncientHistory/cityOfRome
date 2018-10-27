@@ -1,8 +1,8 @@
 ---
 layout: post
-cover: '/assets/images/Hayden/'
-caption: ''
-captionLink: https://upload.wikimedia.org
+cover: '/assets/images/Hayden/caption-fire.JPG'
+caption: '‘The Fire of Rome’ by Hubert Robert, 1787, WikiCommons, Public Domain.'
+captionLink: https://commons.wikimedia.org/wiki/File:Fire_in_Rome.jpg
 title: "The Fire of Rome AD64: A Firefighter’s Perspective"
 date: 2018-10-08 16:00:00
 tags:
@@ -20,10 +20,10 @@ author: hayden
 <p>Before we can understand how this infamous fire came to be, the question which may seem completely obvious must first be answered; What, exactly, is fire? As a volatile oxidation of material that results in a combustion reaction, fire has shown to need four specific things for it to exist <span class="citation" data-cites="Quintiere">(Quintiere <a href="#ref-Quintiere">2017</a>: 3)</span>. These are demonstrated in what we call the fire tetrahedron (fig.1).</p>
 
 {% include lightbox.html
-caption="*Figure 1.* "
-image=""
-width=""
-height="" %}
+caption="*Figure 1.* Fire Tetrahedron. By [Gustavb](https://commons.wikimedia.org/wiki/File:Fire_tetrahedron.svg), 2006, Public Domain"
+image="fig1.tetrahedron.JPG"
+width="270"
+height="260" %}
 
 <p>From the perspective of the <em>vigile</em>, everything is fuel. The flammability of that fuel is determined by its material composition (e.g. wood vs stone) and how fine or small it is (e.g. log vs stick). Finer fuel made of material with lower ignition temperatures burn more quickly <span class="citation" data-cites="IcoveHaynes">(Icove and Haynes <a href="#ref-IcoveHaynes">2017</a>: 70)</span>. This would make structures like grain stores, bakeries, and mills much more explosive due to the flammable dust and powder within them. Heat is necessary as to induce the oxidation of nearby materials, which controls the chain reaction required for sustained combustion. As the word suggests, oxidation requires oxygen to function. As oxygen is needed in any combustion reaction, it is a crucial component of fire <span class="citation" data-cites="IcoveHaynes">(Icove and Haynes <a href="#ref-IcoveHaynes">2017</a>: 61)</span>.</p>
 <h1 id="how-does-fire-spread">How does fire spread?</h1>
@@ -34,10 +34,10 @@ height="" %}
 <p>The city of Rome is famed for its seven hills upon which it grew (fig.2). The city has been moulded around this topography, and even writer’s such as Pliny cannot describe the city without mentioning them <a href="https://sourcebooks.fordham.edu/ancient/pliny-natihist-rome.asp"><span class="underline">(Plin. <em>NH.</em> 3.66-67)</span></a>. As iconic as the hills may be, they make fire a much more real and dangerous prospect within Rome.</p>
 
 {% include lightbox.html
-caption="*Figure 2.* "
-image=""
-width=""
-height="" %}
+caption="*Figure 2.* Map of Rome depicting the Hills and Servian Wall. By [William Smith](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_student%27s_manual_of_ancient_geography%2C_based_upon_the_Dictionary_of_Greek_and_Roman_geography_%281861%29_%2814768984432%29.jpg), Public Domain"
+image="Hayden/fig2.hills.JPG"
+width="2102"
+height="2170" %}
 
 <h1 id="buildings-and-materials">Buildings and materials</h1>
 <p>Most of the buildings in Rome during the time of the fire were either destroyed in the blaze, or thereafter. This leaves us with minimal information on the way structures were built at the time. Luckily, the sites of Herculaneum and Pompeii can give clarity in this situation. Being ‘frozen’ in time from the eruption in AD79, buried under a pyroclastic flow and surge, respectively, these sites demonstrate the popular building materials and techniques used in the late republican and early imperial periods. The finding of preserved wood, such as in the House of the Relief of Relephus in 2009, prompted an investigation into the wooden ceiling panels <span class="citation" data-cites="Macchionietal">(Macchioni et al., <a href="#ref-Macchionietal">n.d.</a>: 1024-37)</span>. It also showed that Roman buildings had large amounts of wood within their structure, making them much more susceptible to the ignition and spread of fire.</p>
@@ -45,10 +45,10 @@ height="" %}
 <p>The recounts of Tacitus, Cassius Dio, and Suetonius all differ on the origins of the fire. The latter two believed the emperor Nero (fig.3) ordered the destruction and consequent plundering of the city through his soldiers <a href="http://penelope.uchicago.edu/Thayer/e/roman/texts/cassius_dio/62*.html"><span class="underline">(Cass. Dio. 62.16.2-3)</span></a>. Tacitus, however, is far more specific. He states that it occurred in the “Circus which adjoins the Palatine and Caelian Hills… among shops” <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.38.2)</span></a>. His specificity and lack of blame on Nero, amongst other reasons, gives credibility to his assertion and, perhaps, can be considered a more reliable account. This will be discussed below.</p>
 
 {% include lightbox.html
-caption="*Figure 3.* "
-image=""
-width=""
-height="" %}
+caption="*Figure 3.* Figure 3: A Roman coin (RIC 143) depicting the Emperor Nero, 18A02, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
+image="Hayden/fi3.nero.JPG"
+width="500"
+height="498" %}
 
 <h1 id="expansion-of-the-fire">Expansion of the fire</h1>
 <p>The shops that Tacitus mentioned as the genesis of the fire are incredibly important. Due to the abundance of ‘merchandise’ within them, the fuel readily available to it from the start, combined with the strong wind allowed for the fire to quickly engulf the entire circus (Region XI). Given its proximity to the origin point, and the inclination to the hill, it is reasonable to assume that the royal palace on the Palatine (Region X) was also one of the first to go up (fig. 4).</p>
