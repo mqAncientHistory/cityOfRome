@@ -21,9 +21,9 @@ author: hayden
 
 {% include lightbox.html
 caption="*Figure 1.* Fire Tetrahedron. By [Gustavb](https://commons.wikimedia.org/wiki/File:Fire_tetrahedron.svg), 2006, Public Domain"
-image="Hayden/fig1-tetrahedron.jpg"
-width="270"
-height="260" %}
+image="Hayden/fig1-tetrahedron.png"
+width="3000"
+height="3000" %}
 
 <p>From the perspective of the <em>vigile</em>, everything is fuel. The flammability of that fuel is determined by its material composition (e.g. wood vs stone) and how fine or small it is (e.g. log vs stick). Finer fuel made of material with lower ignition temperatures burn more quickly <span class="citation" data-cites="IcoveHaynes">(Icove and Haynes <a href="#ref-IcoveHaynes">2017</a>: 70)</span>. This would make structures like grain stores, bakeries, and mills much more explosive due to the flammable dust and powder within them. Heat is necessary as to induce the oxidation of nearby materials, which controls the chain reaction required for sustained combustion. As the word suggests, oxidation requires oxygen to function. As oxygen is needed in any combustion reaction, it is a crucial component of fire <span class="citation" data-cites="IcoveHaynes">(Icove and Haynes <a href="#ref-IcoveHaynes">2017</a>: 61)</span>.</p>
 <h1 id="how-does-fire-spread">How does fire spread?</h1>
@@ -45,7 +45,7 @@ height="2170" %}
 <p>The recounts of Tacitus, Cassius Dio, and Suetonius all differ on the origins of the fire. The latter two believed the emperor Nero (fig.3) ordered the destruction and consequent plundering of the city through his soldiers <a href="http://penelope.uchicago.edu/Thayer/e/roman/texts/cassius_dio/62*.html"><span class="underline">(Cass. Dio. 62.16.2-3)</span></a>. Tacitus, however, is far more specific. He states that it occurred in the “Circus which adjoins the Palatine and Caelian Hills… among shops” <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.38.2)</span></a>. His specificity and lack of blame on Nero, amongst other reasons, gives credibility to his assertion and, perhaps, can be considered a more reliable account. This will be discussed below.</p>
 
 {% include lightbox.html
-caption="*Figure 3.* Figure 3: A Roman coin (RIC 143) depicting the Emperor Nero, 18A02, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
+caption="*Figure 3.* A Roman coin (RIC 143) depicting the Emperor Nero, 18A02, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
 image="Hayden/fig3-nero.jpg"
 width="500"
 height="498" %}
@@ -56,9 +56,9 @@ height="498" %}
 
 {% include lightbox.html
 caption="*Figure 4.* Map of Rome showing the Regions and walls of Rome c. 300 AD. An edit of an original by [fr:User:ColdEel & edited by nl:Gebruiker:Joris](https://en.wikipedia.org/wiki/File:Plan_Rome-_Servische_Muur.png), CC BY-SA 3.0."
-image="Hayden/fig4-map.jpg"
-width="828"
-height="706" %}
+image="Hayden/fig4-map.png"
+width="1128"
+height="900" %}
 
 <h1 id="firefighting-efforts">Firefighting efforts</h1>
 <p>Given how quickly the fire spread, and the chaotic conditions created by panic, the conditions were set against the <em>vigiles</em> from the start. This leaves the firefighters little options in order to contain the fire. Even with our technology today, fires over 1.5-2m in height are deemed too big for a direct attack. This leaves only defensive options. The biggest way to set up a defensive perimeter is by removing the fuel between the fire and that boundary. As structures were the fuel in this instance, that is what had to be removed through either demolishing them or by burning them down in a controlled manner. All three authors recount men, acting under authority, as purposefully destroying buildings by demolition or fire. Although damning in their report of this activity, the removal of the structures would have been vital in the containment of the blaze. Considering that we know that the Esquiline and Campus Martius were spared from complete damage, it is logical to deduce that the back-burning and firefighting operations were centred on these areas. The use of firebreaks like the Servian wall would have acted like control lines for the firefighters, as they knew it would be their best chance at stopping the fire from spreading. Luckily enough, the plan seemed to have worked as the control lines held, protecting the Campus Martius, where Nero housed the displaced populace, and the where the original blaze was extinguished at the foot of the Esquiline Hill <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann.</em> 15.40.1)</span></a>.</p>

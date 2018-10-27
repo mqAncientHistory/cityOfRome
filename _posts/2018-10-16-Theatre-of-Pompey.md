@@ -19,14 +19,14 @@ author: ewan
 
 {% include lightbox.html
 caption="*Figure 1a.* Coin depicting Pompey the
-Great: Obverse of RRC 511-3a, 07GR511.3a ACANS Gale Collection"
+Great: Obverse of RRC 511-3a, 07GR511.3a [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
 image="Ewan/fig1a-Pompey.jpg"
 width="450"
 height="443" %}
 
 {% include lightbox.html
 caption="*Figure 1b.* Coin depicting Julius
-Caesar: Obverse of RRC 480-2a, 07GR480.2a ACANS Gale Collection"
+Caesar: Obverse of RRC 480-2a, 07GR480.2a [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
 image="Ewan/fig1b-Caesar.jpg"
 width="377"
 height="356" %}
