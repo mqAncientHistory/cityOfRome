@@ -8,72 +8,31 @@ By the age of Augustus, Apollo had grown from a foreign god into one of Rome’s
 
 The Temple of Apollo Medicus
 
-The first major temple to Apollo in Rome was actually located outside the city itself, in the Campus Martius . Likely, this temple was built at the site that a cult statue of Apollo was reported to have shed tears for three days after the death of Scipio the Younger (Dio, 22.84.2) It is significant that a religious temple built to a god had to be built outside pomerium, Rome’s religious city line. This was due to the fact that, at this time, Apollo was seen as a foreign god and thus unable to house a temple within Rome @Hill : 126. According to Livy (History of Rome 4.25.3), construction of the temple was begun in 433 BC after a plague swept through Rome. It is for this reason that the temple became known as Apollo Medicus, the doctor.
+The first major temple to Apollo in Rome was actually located outside the city itself, in the Campus Martius . Likely, this temple was built at the site that a cult statue of Apollo was reported to have shed tears for three days after the death of Scipio the Younger (Dio, 22.84.2) It is significant that a religious temple built to a god had to be built outside pomerium, Rome’s religious city line. This was due to the fact that, at this time, Apollo was seen as a foreign god and thus unable to house a temple within Rome @Hill: 126. According to Livy (History of Rome 4.25.3), construction of the temple was begun in 433 BC after a plague swept through Rome. It is for this reason that the temple became known as Apollo Medicus, the doctor.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://commons.wikimedia.org/wiki/File:RomaTempioApolloSosiano.JPG
-Figure 1: The remains of the Temple of Apollo Sosianus: Only three pillars remain, on top of rests the remains of the podium and the only in situ art we have
-However, while the origin of this temple is important, it is it’s restoration that is far more interesting. The temple of Apollo Medicus stood for several centuries, the passing of which left its mark on the building. Eventually, in 32 BCE, the temple was restored by the consul, C. Sosius, thus the Temple of Apollo Medicus was often described by the epithet Sosianus. Sosius began building the temple just prior to Octavian’s battle with Antony for supremacy in Rome, the latter of whom he supported. However, after Antony’s defeat, Augustus seems to have forgiven Sosius for not supporting him, giving Sosius the time to continue with the temple’s restoration @JV99 . Augustus claimed divinity from Apollo, and it is possible that restoring this temple restored Sosius in Augustus’ eyes.
-Very little of the temple remains today, with only three columns remaining. However many fragments from the pediment have been found and reconstructed. We know much from Pliny the Elder. The art that decorated this restored temple was Greek in nature, with paintings and statues from Aristides of Thebes and Philiscus of Rhodes (Plin. Nat Hist. 35.6), as well as a cedar statue; this was have reinforced Apollo as a foreign god. Of the two statues attributed to Philiscus, Pliny emphasises that the second was nude, while the coin evidence, as discussed by Hill, suggests that the first was the cult-statue @Hill : 125-142. It is similar in nature to the late fifth century coins minted by Croton (fig 3), which depict Apollo taking aim at a python, for example, and will be discussed below.
+However, while the origin of this temple is important, it is it’s restoration that is far more interesting. The temple of Apollo Medicus stood for several centuries, the passing of which left its mark on the building. Eventually, in 32 BCE, the temple was restored by the consul, C. Sosius, thus the Temple of Apollo Medicus was often described by the epithet Sosianus. Sosius began building the temple just prior to Octavian’s battle with Antony for supremacy in Rome, the latter of whom he supported. However, after Antony’s defeat, Augustus seems to have forgiven Sosius for not supporting him, giving Sosius the time to continue with the temple’s restoration @JV99. Augustus claimed divinity from Apollo, and it is possible that restoring this temple restored Sosius in Augustus’ eyes.
+Very little of the temple remains today, with only three columns remaining. However many fragments from the pediment have been found and reconstructed. We know much from Pliny the Elder. The art that decorated this restored temple was Greek in nature, with paintings and statues from Aristides of Thebes and Philiscus of Rhodes (Plin. Nat Hist. 35.6), as well as a cedar statue; this was have reinforced Apollo as a foreign god. Of the two statues attributed to Philiscus, Pliny emphasises that the second was nude, while the coin evidence, as discussed by Hill, suggests that the first was the cult-statue @Hill: 125-142. It is similar in nature to the late fifth century coins minted by Croton (fig 3), which depict Apollo taking aim at a python, for example, and will be discussed below.
 Hill comes to the conclusion that the cult statue of Apollo in the Temple of Apollo Medicus represented the god holding a laurel branch in one hand, with the other leaning on a lyre; symbols often repeated on Apollo/Augustan coinage. This depiction is consistent with the Hellenised view of Apollo in Rome, that of Greek mythological aspects being combined with specific Roman symbolism.
 This temple is often overshadowed by grandeur and beauty of the Temple of Apollo Palatinus, situated on the Palatine Hill, yet, without it, our knowledge of Apollo prior to Augustus would be greatly diminished.
 
 The Temple of Apollo Palatinus
 
-Apollo remained a minor foreign god in the eyes of the Romans for centuries. It was not until Augustus that this status began to change. Augustus prayed to Apollo during his campaigns, crediting the god for his many victories. Such examples included that over Mark Antony and Cleopatra at Actium, a battle which was incidentally fought under a shrine to Apollo, and that over Sextus Pompeius at Naulochus in September of 36 BC. It was after the latter victory that Augustus is famed to have vowed to construct a temple in Apollo’s honour @Hill : 131, recorded on the Res Gestae (19) and by Marcus Velleius Paterculus (Roman History, 2.81.3) , who wrote that:
+Apollo remained a minor foreign god in the eyes of the Romans for centuries. It was not until Augustus that this status began to change. Augustus prayed to Apollo during his campaigns, crediting the god for his many victories. Such examples included that over Mark Antony and Cleopatra at Actium, a battle which was incidentally fought under a shrine to Apollo, and that over Sextus Pompeius at Naulochus in September of 36 BC. It was after the latter victory that Augustus is famed to have vowed to construct a temple in Apollo’s honour @Hill: 131, recorded on the Res Gestae (19) and by Marcus Velleius Paterculus (Roman History, 2.81.3) , who wrote that:
 Caesar, on his victorious return to the city, made the announcement that he meant to set apart for public use certain houses which he had secured by purchase through his agents in order that there might be a free area about his own residence. He further promised to build a temple of Apollo with a portico about it, a work which he constructed with rare munificence.
 
-Construction of the temple was started the same year and dedicated on 9th October, 28 BC @Hill : 130.
-This second temple to Apollo was built on the Palatine Hill, a place connected with Augustus’ residence, in the exact spot where lightning had struck the hill and was therefore public property. This lightning strike was declared by the haruspices  to mean that it was desired by Apollo (Suet. Aug. 29.3). Thus, the temple was known as Apollo Palatinus. Sources often mention its location in relation to Romulus’ hut, finding it appropriate that the home of the second founder of Rome was near that of the first @Hill : 131.
+Construction of the temple was started the same year and dedicated on 9th October, 28 BC @Hill: 130.
+This second temple to Apollo was built on the Palatine Hill, a place connected with Augustus’ residence, in the exact spot where lightning had struck the hill and was therefore public property. This lightning strike was declared by the haruspices  to mean that it was desired by Apollo (Suet. Aug. 29.3). Thus, the temple was known as Apollo Palatinus. Sources often mention its location in relation to Romulus’ hut, finding it appropriate that the home of the second founder of Rome was near that of the first @Hill: 131.
 The Apollo Palatinus is credited as one of Augustus’ most magnificent building projects. Propertius describes a large temple of white Luna marble (Prop. Eleg. 2.31), built either in prostyle hexastyle, or peripteral and octastyle (Virgil, A, 8.671),  with portraits of Apollo’s sun chariot on the roof. The doors were decorated with gold and ivory reliefs of Delphi and Niobids, both sacred to Apollo. Pliny the Elder (Nat. Hist. 36.4) describes the entrance to the temple being a marble statue of Apollo with an altar surrounded by the four oxen of Myron where sacrifices would be held. The inner chamber of the temple contained a statue of Apollo by Scopas and one of Diana by Timotheus, for worshippers to pray before (Plin. Nat. Hist. 36.4). Golden gifts and jewels were placed in the temple by Augustus for majesty. The temple was large enough to accommodate both the senate and quindecemviri . Both colleges would hold meetings in the temple on occasions, a tradition that continued for the next few centuries.
-However, this description of the Temple of Apollo Palatinus is indirectly challenged by archaeologist Stephan Zink, who states that “despite its fundamental importance for early Augustan temple design, the architecture of the temple of Apollo in Patio remains notoriously unknown” @Zink : 47. This is because the temple, in its current state of preservation, is little more than the foundations and scattered blocks. There have been several attempts to reconstruct it, yet none have been overwhelmingly accepted by the archaeological community as no explanation can be of any real value unless it can be corroborated by the archaeological evidence.
+However, this description of the Temple of Apollo Palatinus is indirectly challenged by archaeologist Stephan Zink, who states that “despite its fundamental importance for early Augustan temple design, the architecture of the temple of Apollo in Patio remains notoriously unknown” @Zink: 47. This is because the temple, in its current state of preservation, is little more than the foundations and scattered blocks. There have been several attempts to reconstruct it, yet none have been overwhelmingly accepted by the archaeological community as no explanation can be of any real value unless it can be corroborated by the archaeological evidence.
 
-
-
-
-
-
-
-
-
-
-
-Credits: Cassius Ahenobarbus (https://commons.wikimedia.org/wiki/File:Area_apollonis_map.png)
-Figure 2: Map of the Temple of Apollo Palatinus on Palatine Hill: the temple was situated as an extension of Augustus’ residence, located near a library and Livia’s house
-Whereas Apollo’s original temple focused on him as a god of medicine, Apollo’s second temple emphasised his prophetic nature. This can be seen by the placing of the Sibylline books by Augustus underneath the statue of Apollo. These were a set of oracular books from the Roman kingdom which contained prophecies for the future of Rome. The Sibylline books had previously resided in the Temple of Jupiter Capitalinus, the most important temple in Rome @Hill : 133; thus, by moving them to Temple of Apollos, Augustus also transferred some of Jupiter’s authority to Apollo.
+Whereas Apollo’s original temple focused on him as a god of medicine, Apollo’s second temple emphasised his prophetic nature. This can be seen by the placing of the Sibylline books by Augustus underneath the statue of Apollo. These were a set of oracular books from the Roman kingdom which contained prophecies for the future of Rome. The Sibylline books had previously resided in the Temple of Jupiter Capitalinus, the most important temple in Rome @Hill: 133; thus, by moving them to Temple of Apollos, Augustus also transferred some of Jupiter’s authority to Apollo.
 Another way in which Augustus changed the nature of Apollo was in regards to the ludi saeculares.  The games marked the end of a saeculum, a period of 110 years, the longest a human could live. The Temple of Apollo Palatinus was a key part of the celebrations with processions and sacrifices being held there. These games continued to occur until the rise of Christian emperors, ensuring that Apollo would remain on the same tier of worship as that of Jupiter, Mars, and Minerva.
 This continual use of the temple by the senate and for the ludi saeculares can be seen as Augustus’ way of legitimizing and reinforcing his right to rule over Rome. The temple stood as a reminder of his victory at Actium and his semi-divine status, while the addition of the Sibylline books also linked Apollo to the future of Rome. In short, Apollo had become the paragon of power in Rome through the Temple of Apollo Palatinus, and would remain as such long after the Augustan age.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Numismatic Evidence: Apollo & Augustus - Father and Son?
 
-Whilst Apollo had only two temples in Rome, his exposure to the city and the empire was far more widespread. Augustus was not the first ruler of Rome to link himself familiarly to a god, yet was the first to do so with Apollo. He believed Apollo to be the reason that he became emperor of Rome and, subsequently, claimed to be a son of the god @Hill : 129. In order to ensure that the empire knew of his lucrative lineage, Augustus used a method of political propaganda that is still continued today: coinage. These coins, although not directly linked to Apollo’s temples, are the only other physical evidence we have to observe Apollo in Rome. Through them we are given an insight into the way in which the majority of Romans would be familiar with the god, as father to the most powerful mortal in the world.
+Whilst Apollo had only two temples in Rome, his exposure to the city and the empire was far more widespread. Augustus was not the first ruler of Rome to link himself familiarly to a god, yet was the first to do so with Apollo. He believed Apollo to be the reason that he became emperor of Rome and, subsequently, claimed to be a son of the god @Hill: 129. In order to ensure that the empire knew of his lucrative lineage, Augustus used a method of political propaganda that is still continued today: coinage. These coins, although not directly linked to Apollo’s temples, are the only other physical evidence we have to observe Apollo in Rome. Through them we are given an insight into the way in which the majority of Romans would be familiar with the god, as father to the most powerful mortal in the world.
 Coins from the Republic often depict the Laureate head of Apollo, as seen in figure 6. Furthermore, examples of the Laureate head of Apollo and Apollo in a quadriga, holding a bow and arrow in one hand and a laurel branch in the other, can be found on the Coinage of the Roman Republic Online collection (RRC 26/2, 236/1b). The association between Apollo and the laurel branch is one that has been brought from Greek mythology, symbolising victory and honour.
 Other coins from the same period depict a young male head that has been identified as possibly being Apollo, wearing an oak wreath (RRC 304/1). This has been augmented by evidence of a later coin which depicts a clearly recognisable Apollo wearing an oak wreath with a small thunderbolt below (RRC 350A/1c). Oak wreaths, or Corona’s, are a distinctly Roman symbol. While it is hard to tell from the coin what style of oak wreath is being worn by Apollo, the corona civica is a possible option (Plin. Nat. Hist. 16.5).
 Depictions of Apollo on coins from the Roman Empire often portray the god standing up holding a lyre (RIC I, 2nd Ed. Augustus 190A). Many of these coins date to the period of Augustus and often have the Emperor’s head depicted on the reverse. This again highlights the association between the Emperor and Apollo.
@@ -82,120 +41,12 @@ Through these coins, it is interesting to see how a distinctly Greek god can be 
 
 
 Apollo & Rome: Sweet Memoires
+
 Unlike many of Rome’s major gods, such as Jupiter, Minerva, and Mars, Apollo only had two temples in Rome. Yet these two temples tell us much about Apollo in Rome. The Temple of Apollo Sosianus reflects that, while Apollo was a very Roman god by the time of Augustus, his Greek ancestry was important; this evident as Sosius’ restoration “doubled down” on Apollo’s Greek heritage. Through Apollo’s dual citizenship, so to speak, we see that, even in the same city, gods can reflect different natures. The Temple of Apollo Palatinus provides insight on Apollo’s relationship with Augustus and how he paved the way for the Roman Empire. It is interesting to note that, in history, the characters responsible for the most influential changes in a society are commonly a mythological. Apollo is no different, though, through the works left behind, we are able to gain a snapshot into how the Romans viewed this titanic god.
 The concept of a Hellenic Apollo in the city of Rome is fascinating, and I hope that this blog post opens opportunity for further discussion regarding the introduction of Hellenic deities, such as Cybele/Magna Mater as previously mentioned, to the City of Rome.
 
 
 Further Reading
+
 Hill, The Temples and Statues of Apollo in Rome”, The Numismatic Chronicle and Journal of the Royal Numismatic Society
 JV99, The Temple of Apollo Medicus Sosianus: Restoration under Augustus, University of Kent
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-References
-Ancient Sources
-Livy, History of Rome, trans. D. Spillan (London: John Childs and Son), 1857
-Pliny the Elder, The Natural History, trans. J. Bostock (London: Taylor and Francis), 1855
-Propertius, Elegies, trans. L. Mueller (Leipzig: Teubner), 1898
-Suetonius, Life of the Deified Augustus, trans. C. Edwards (Oxford: Oxford University Press), 2000
-
-Modern Sources
-Hill, P.V., “The temples and statues of Apollo in Rome”, The Numismatic Chronicle and Journal of the Royal Numismatic Society, vol. 2, 1962, pp. 125-142
-JV99, The Temple of Apollo Medicus Sosianus: Restoration under Augustus, University of Kent, 2017, https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/, accessed 20 May 2018
-Online Coins of the Roman Empire, , American Numismatic Society, 2018, http://numismatics.org/ocre/id/ric.1(2).aug.170, accessed 4 June 2018
-Planter, S.P., A Topography of Ancient Rome, (London: Oxford University Press), 1929
-Sanders, A., “Roman archaism in depictions of Apollo in the Augustan period”, Honors Project, 2016, 281
-Wikimedia Commons, File:RomaTempioApolloSosiano.JPG, 2014, https://commons.wikimedia.org/wiki/File:RomaTempioApolloSosiano.JPG, accessed 31 May 2018
-Wiseman, T.P., “The temple of Apollo and Diana in Rome”, Oxford Journal of Archaeology, vol. 33, 2014, pp. 327-338
-
-Darvill, T. (2009), "Interpretatio Romana". Concise Oxford Dictionary Of Archaeology.
-
-
-
-"Velleius Paterculus". Encyclopaedia Britannica, Online, 2017. https://www.britannica.com/biography/Velleius-Paterculus
-
-Zanker, Paul. The Power Of Images In The Age Of Augustus. Reprint, Ann Arbor: University of Michigan Press, 2002.
-
-Zink, Stephan. 2008. “Reconstructing the Palatine Temple of Apollo: a Case Study in Early Augustan Temple Design.” Journal of Roman Archaeology 21. Cambridge University Press: 47–63.  
-
-
-
-
-
-Zac’s Blog Figures:
-
-Figure 1: Pythian Apollo (Greek)
-via Flickr
-License: CC BY 2.0
-
-
-
-
-
-
-
-
-
-
-
-Figure 2: Temple of Apollo Medicus
-via Flickr
-License: CC BY 2.0
-
-
-
-
-
-Figure 3: Drachma – Apollo Pyhtoctonus
-from Phillip Hill
-License: BMC 85
-
-
-
-
-
-
-
-
-
-Figure 5: Temple of Apollo Palatinus
-via Victor Duruy, History of Rome and of the Roman People, p. 160
-License: FIND
-
-
-
-
-
-
-
-
-Figure 6: Silver Drachma, Rome, Laureate head of Apollo on the obverse.
-License: Given copyright by the Australian Centre for Ancient Numismatics Studies, Macquarie University. Gale Collection, RRC 26_1.
-
-
-
-
-
-
-
-
-Figure 4: Gold Aureus depicting Apollo, which has Augustus on the other side shown in his Imperial Dress.
-
-License: CC BY 3.0
-
-Link: Wikimedia: https://commons.wikimedia.org/wiki/File:Augusto,_aureo_con_apollo_citaredo.JPG
