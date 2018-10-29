@@ -1,4 +1,5 @@
 The Fire Fighters of Ancient Rome
+=================================
 
 We saw last week about the great fire of Rome in AD 64; now let’s take a look at the men who had to face it! This week, J. Alcanta examines the unsung heroes of ancient Rome, the Vigiles. In a time when the average Roman house was largely wooden, when fires ran rampant through the city, these brave men fought to protect their capital. How did they do it? Let’s find out…
 
@@ -7,6 +8,7 @@ According to Seneca (ep. 64.1) and Tertullian (Tert. Apology. 39), this was one 
 We hear more of this particular faux pas in a section of Petronius’ “Banquet of Trimalchio” (Petr. Sat. 78). It begins with Trimalchio holding a mock funeral for himself when a trumpeter’s unnaturally loud blast of his instrument accidentally summons the Vigiles. The main characters of Petronius’ novel welcome the chaotic diversion, using it as an opportunity to escape from a rather awkward banquet. Yet, that isn’t the last we hear of our Roman fire fighters!
 
 A City in Flames
+================
 
 It can be a difficult prospect to imagine a modern city regularly alight. However, for those living in Rome, fire was one of the city’s most defining characteristics. From the Temple of Vesta,  in which the sacred flame would burn ceaselessly, to the cataclysmic infernos that forced Emperors to rebuild their city from the ashes, fire was woven into the very fabric of Roman society. The daily struggle of coping with fires in Rome is highlighted by the poet Juvenal (sat. 3.197-202) in his critique of city living:
 “No, no, I must live where there are no fires, no nightly alarms. Ucalegon below is already shouting for water… smoke is pouring out of your third-floor attic above, but you know nothing of it; for if the alarm begins in the ground-floor, the last man to burn will be he who has nothing to shelter him from the rain but the tiles...”
@@ -18,12 +20,14 @@ Both Dio (53.24. 4-6 and Paterculus (Roman History, 2.91-3.4 mention the aedile 
 Thus, it is evident that a certain amount of prestige was associated with protecting the Roman people from fire, and being a Vigile. Firefighting could accrue an individual or group so much prestige and eminence within the city that Augustus’ decision to provide a solution to the fires during his reign can be argued to have had ulterior motives. Not only did it serve the desperate needs of the people, but also extinguished any chance for political rivals to gain power within the city.
 
 “The Little Bucket Fellows”
+===========================
 
 It was in the aftermath of a devastating fire in AD 6 that Augustus (fig.1) finally established the first permanent fire brigade in ancient Rome. He gathered a corps of 3500 freedmen, later doubled that number, and armed them with fire-fighting equipment, whilst also organising them into seven Cohorts stationed in seven barracks throughout the city [@Ng : 257]. Officially, they were known as the Cohortes Vigilum.  However, Tertullian (Apol. 39.15 highlights that they also became colloquially dubbed the Sparteoli, an endearing nickname meaning the “little bucket fellows”.
 Under Augustus, Rome was divided into 14 regions (fig. 2). Thus, he charged each of the seven cohorts with protecting two regions. Every cohort included 500 men, and was managed by a tribune,  and they were all under the command of an equestrian  known as the Praefectus Vigilum. Their services were so effective that, according to Suetonius (Suet. Claud. 25), Claudius could see their potential uses elsewhere and established cohorts in Ostia and Puteoli, harbours which Rome depended on for much of their supplies.
 In terms of appearance the Vigiles were very similar to that of regular Roman soldiers. The gravestone of Quintius Iulius Galatus, Vexillarius of the 6th cohort of the Vigiles, provides one of the best-known depictions of a Vigile (fig. 3).  It seems that they wore a paenula,  tunic, and were equipped with a short sword (fig. 4) [@Busch : 541]. Their additional duties as nightwatchmen explains why the Vigiles were also armed. Indeed, their status as a quasi-military force is also important when discussing their overall impact on Rome.
 
 The vigil of the Vigiles
+========================
 
 Much of what we know with regards the organisation of the Vigiles and how exactly the fires were fought is thanks to the work of Ulpian and Paul in their Digest of Justinian.  The Vigiles’ firefighting technology, which Ulpian records, included mainly buckets, sponges, and brooms (Ulpian, Digest of Justinian, 3.7.12.18), as well as heftier instruments such as siphona  (fig. 5) and ballistae  (fig. 6), used to destroy buildings in order to create firebreaks [@Busch : 540].
 Paul (Digest of Justinian, 1.15.3.3-4) gives a very detailed statement of the duties of the Praefectus Vigilum:
