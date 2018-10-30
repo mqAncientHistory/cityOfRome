@@ -1,11 +1,11 @@
 The Fire Fighters of Ancient Rome
 =================================
 
-We saw last week about the great fire of Rome in AD 64; now let’s take a look at the men who had to face it! This week, J. Alcanta examines the unsung heroes of ancient Rome, the Vigiles. In a time when the average Roman house was largely wooden, when fires ran rampant through the city, these brave men fought to protect their capital. How did they do it? Let’s find out…
+*We saw last week about the great fire of Rome in AD 64; now let’s take a look at the men who had to face it! This week, J. Alcanta examines the unsung heroes of ancient Rome, the Vigiles. In a time when the average Roman house was largely wooden, when fires ran rampant through the city, these brave men fought to protect their capital. How did they do it? Let’s find out…*
 
 Imagine you are hosting a dinner, entertaining a few guests, when in rush men wearing hobnailed sandals and hooded ponchos. Some carry buckets of water, others are swinging axes, all looking to extinguish the fire. Yet, there isn’t one.
 According to [Seneca (ep. 64.1)](https://www.loebclassics.com/view/seneca_younger-epistles/1917/pb_LCL075.439.xml) and [Tertullian (Tert. Apology. 39)](http://www.logoslibrary.org/tertullian/apology/39.html), this was one way in which the Vigiles  were made the butt of a very specific, Roman joke; the punchline of which involved the Vigiles crashing through lavish Roman dinner parties, their alarm raised by the smoke rising from kitchen chimneys.
-We hear more of this particular faux pas in a section of Petronius’ []“Banquet of Trimalchio” (Petr. Sat. 78)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0027%3Atext%3DSatyricon%3Asection%3D78). It begins with Trimalchio holding a mock funeral for himself when a trumpeter’s unnaturally loud blast of his instrument accidentally summons the Vigiles. The main characters of Petronius’ novel welcome the chaotic diversion, using it as an opportunity to escape from a rather awkward banquet. Yet, that isn’t the last we hear of our Roman fire fighters!
+We hear more of this particular faux pas in a section of Petronius’ [“Banquet of Trimalchio” (Petr. Sat. 78)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0027%3Atext%3DSatyricon%3Asection%3D78). It begins with Trimalchio holding a mock funeral for himself when a trumpeter’s unnaturally loud blast of his instrument accidentally summons the Vigiles. The main characters of Petronius’ novel welcome the chaotic diversion, using it as an opportunity to escape from a rather awkward banquet. Yet, that isn’t the last we hear of our Roman fire fighters!
 
 A City in Flames
 ================
@@ -36,3 +36,6 @@ Paul [(Digest of Justinian, 1.15.3.3-4)](http://nbls.soc.srcf.net/files/files/Ci
 This statement has generally been taken to describe the duties of not only the Praefectus Vigilum, but that of the entire cohort, specifically with regards to keeping watch throughout the entire night. This is due to a number of reasons. Firstly, the Vigiles’ capacity as a military unit as well as a firefighting one, and secondly, the implication that preventing fires was just as important a feature of the job as fighting them.
 As in the case of all fires, prevention and early intervention are the strongest defences against them. Thus, daily and nightly military patrols of the regular cohorts would have greatly augmented fire control.  As Rainbird highlights, their manpower, speed and complex system of aqueducts more than made up for the simplicity of their technology [@Rainbird : Ch. 8].   
 The Vigiles were a unique and possibly undervalued - certainly by the ancient authors - force operating within Rome. Ironically, the anecdotes of those very same authors provide us with the key to the Vigiles’ success in fighting fires. We are given an insight into the techniques of the Vigiles and the importance they placed on early intervention; so much so that their sensitivity to the smell of smoke and the sound of trumpets was quite extraordinary, if not slightly humorous.
+
+Bibliography
+============
