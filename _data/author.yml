@@ -47,3 +47,11 @@ authors:
     url: "https://"
     bio: "<p> Jenelle is a Macquarie university student with an interest in Ancient Rome <p>"
     assets: "assets/images/favicon/android-chrome-96x96.png"
+  been:
+    username: "ben"
+    name: "Benjamin Turnell"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    bio: "<p> Benjamin currently studies a Bachelor of Arts with Bachelor of Laws at Macquarie University, and is interested in Ancient Rome, Mythology, and Philosophy. He has always been interested in history. When he was at primary school he was eraptured by the things we can learn from the people of the past. This interest has kept with him all through school and university.<p>"
+    assets: "assets/people/"
