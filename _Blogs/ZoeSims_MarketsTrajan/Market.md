@@ -35,7 +35,7 @@ accompanied the impressive Forum of Trajan [@Lancaster1: 63].
 
 {% include lightbox.html
 caption="*Figure 1.* Location of the Markets of Trajan (red) in the
-city of Rome. Wiki28, Wikimedia Commons, Public Domain"
+city of Rome. [Wiki28](https://commons.wikimedia.org/wiki/File%3APlan_Rome-_Trajan%27s_Market.png), Public Domain"
 image="Markets/TMFigure1.png"
 width="1128"
 height="900" %}
@@ -281,15 +281,14 @@ The contracts -
 [*stipulatio*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Obligationes.html)
 and [*locatio*
 *conductio*](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Locatio.html)
-were most common during this time, with the former [@Long2: 818]
-referring to an oral agreement and the latter [@Long1: 710], a more
+were most common during this time, with the former
+referring to an oral agreement and the latter, a more
 detailed arrangement, which outlined skill, labour and cost. Without
 these laws, Romans would not have been able to co-ordinate and construct
 grand-scale projects like, Trajan's Markets.
 
 {% include lightbox.html
-caption="*Figure 7.* Trajan's Markets at night. Pufacz, Wikimedia
-Commons, Public Domain"
+caption="*Figure 7.* Trajan's Markets at night. [Pufacz](https://commons.wikimedia.org/wiki/File%3AHaleTrajana_Night2.JPG), Public Domain"
 image="Markets/TMFigure7.png"
 width="800"
 height="502" %}
@@ -332,6 +331,8 @@ So what do you say?
 
 Come and visit Trajan's Market today!
 
+Bibliography
+============
 
 [^1]: Shops
 
