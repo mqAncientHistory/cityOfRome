@@ -226,7 +226,7 @@ Roman people and offers us a unique look into the visual culture of
 imperial Rome.
 
 {% include lightbox.html
-caption="*Figure 6.* Ceiling groin vaults inside the *Aula*. By [Carole
+caption="*Figure 6.* Ceiling groin vaults inside the *Aula*. [Carole
 Raddato](https://www.flickr.com/photos/carolemage/8070768329/), used under CC BY-SA 2.0"
 image="Markets/TMFigure6.png"
 width="4288"
