@@ -12,7 +12,7 @@ tags:
  - triumphal arch
 category:
  - post
-author: ewan
+author: kiri
 ---
 
 <h1 id="foundations-for-a-triumphal-arch-but-which-victory-might-it-commemorate">Foundations for a triumphal arch, but which victory might it commemorate?</h1>
@@ -40,40 +40,31 @@ Denarii</em> minted in Spain, dating from 18-17 B.C., also depict a triple-arch.
 <p>In the same year, associate professor Robert Gurval reviewed the arguments surrounding the is with the foundations of the single arch and hence suggested that the removal of the arch may have been the result of a failed attempt to save a damaged monument <span class="citation" data-cites="Gurval">(Gurval <a href="#ref-Gurval">1998</a>)</span>. However, Gurval goes on to argue that “the numismatic, literary, and archaeological evidence is inconclusive and uncertain”, and that historians need to move away from the notion that Augustus’s victory at Actium must have resulted in a commemorative arch <span class="citation" data-cites="Gurval">(Gurval <a href="#ref-Gurval">1998</a>)</span>. Gurval stated that, despite Dio’s recording of an arch awarded to Augustus after the Battle of Naulochus in 36 B.C., there is no other evidence for the existence of the Actium arch nor that of Naulochus. Gurval suggested that it is inconsistent for scholars to believe one arch did exist and not the other <span class="citation" data-cites="Gurval">(Gurval <a href="#ref-Gurval">1998</a>)</span>, thus proposing that a single arch did exist, but that it did not mention Actium and, instead, may have celebrated the overall general achievements of Augustus. He argued that the triple-arch did not replace the previous arch as a notion of political change, but that it “marked the beginning of the imperial age” <span class="citation" data-cites="Gurval">(Gurval <a href="#ref-Gurval">1998</a>)</span>.</p>
 <p>In 2005, American archaeologist Charles Rose agreed with Gurval in that it was uncertain as to whether the arches of Actian or Naulochus existed. Nonetheless, he argued that the triple-arch foundations in the Forum are, indeed, of the Parthian arch. Rose demonstrated that this was supported by “a wealth of evidence”, citing associated archaeological, numismatic and literary data in proof <span class="citation" data-cites="Rose">(Brian Rose <a href="#ref-Rose">2005</a>)</span>. He further analysed the form and fragments of the <em>fasti</em>, noting that the decorative elements associated with the consular and triumphal lists were more in keeping with the style of the Parthian arch than that of the <em>Regia</em> <span class="citation" data-cites="Rose">(Brian Rose <a href="#ref-Rose">2005</a>)</span>. Also, he highlighted that many of the <em>fasti</em> fragments were found surrounding the arch as opposed to the <em>Regia</em>, thus concluding that “all of the evidence points toward the Parthian Arch as the original site of the Fasti” <span class="citation" data-cites="Rose">(Brian Rose <a href="#ref-Rose">2005</a>)</span>. Additionally, the last <em>triumphator</em> listed on the Fasti Triumphales was awarded a triumph in the year the Parthian arch was decreed. Rose hence suggested that the Fasti were part of the Parthian arch, and probably located on the walls within the passages <span class="citation" data-cites="Rose">(Brian Rose <a href="#ref-Rose">2005</a>)</span>.</p>
 <p>The discovery of the foundations of a triple-bayed arch in the Roman Forum in 1888 by Otto Richter sparked much intrigue and debate surrounding the nature of the Arcus Augusti, which continues to be a source of discussion, today. Scholars have examined and re-examined the available archaeological, numismatic and literary evidence in an attempt to understand if and how Augustus’s triumphal arches existed. This ongoing debate exemplifies how our understanding of the development of the city of Rome evolves as new evidence is continually brought to light. Yet it also encapsulates that a sizeable portion of our knowledge concerning ancient Rome is still based largely upon interpretation and speculation. As new technologies and techniques of research become available, we may use them in conjunction with the critical analysis of both modern and ancient sources to test hypotheses and examine past research. It is through this multi-faceted approach that we strive to create a more wholistic understanding of the nature of ancient Rome.</p>
-<p><strong>Bibliography</strong></p>
-<p><strong>Ancient Sources<br />
-</strong></p>
-<p>Cassius Dio, <em>Historia Romana</em>, trans. E. Cary (Cambridge: Harvard University Press, 1917),</p>
-<blockquote>
-<p><em>Lacus Curtius</em>, &lt;<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/home.html"><span class="underline">http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/home.html</span></a>&gt; (viewed 18th May, 2018).</p>
-</blockquote>
-<p>Augustus, <em>Res Gestae Divi Augusti</em>, trans. T. Bushnell, <em>The Internet Classics Archive</em>,</p>
-<blockquote>
-<p>&lt;<a href="http://classics.mit.edu/Augustus/deeds.html"><span class="underline">http://classics.mit.edu/Augustus/deeds.html</span></a>&gt; (viewed 18th May, 2018).</p>
-</blockquote>
+<h1 id="bibliography">Bibliography</h1>
 <div id="refs" class="references">
-<div id="ref-Rose">
-<p>Brian Rose, Charles. 2005. “The Parthians in Augustan Rome” 109 (January): 21–75.</p>
+<div id="ref-PlatnerAshby">
+<p>Ashby, T., &amp; Platner, S. B. 1929. <em>A Topographical Dictionary of Ancient Rome</em>. Oxford University Press. <a href="http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html" class="uri">http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html</a>.</p>
 </div>
 <div id="ref-Galinsky">
 <p>Galinsky, K. 1998. <em>Augustan Culture: An Interpretive Introduction</em>. Princeton Paperbacks. Princeton University Press. <a href="https://books.google.com.au/books?id=Ejwhh6cXwoQC" class="uri">https://books.google.com.au/books?id=Ejwhh6cXwoQC</a>.</p>
 </div>
 <div id="ref-Gurval">
-<p>Gurval, R.A. 1998. <em>Actium and Augustus: The Politics and Emotions of Civil War</em>. University of Michigan Press. <a href="https://books.google.com.au/books?id=qVd4vuhkVqcC" class="uri">https://books.google.com.au/books?id=qVd4vuhkVqcC</a>.</p>
+<p>Gurval, R. A. 1998. <em>Actium and Augustus: The Politics and Emotions of Civil War</em>. University of Michigan Press. <a href="https://books.google.com.au/books?id=qVd4vuhkVqcC" class="uri">https://books.google.com.au/books?id=qVd4vuhkVqcC</a>.</p>
 </div>
 <div id="ref-Holland">
-<p>Holland, Leicester B. 1946. “The Triple Arch of Augustus.” <em>American Journal of Archaeology</em> 50 (1). Archaeological Institute of America: 52–59. <a href="http://www.jstor.org/stable/499748" class="uri">http://www.jstor.org/stable/499748</a>.</p>
+<p>Holland, L. B. 1946. “The Triple Arch of Augustus.” <em>AJA</em> 50 (1). Archaeological Institute of America: 52–59. <a href="http://www.jstor.org/stable/499748" class="uri">http://www.jstor.org/stable/499748</a>.</p>
 </div>
 <div id="ref-Lanciani">
 <p>Lanciani, R. 1897. <em>The Ruins and Excavations of Ancient Rome</em>. Boston; New York, Houghton, Mifflin; Company.</p>
 </div>
 <div id="ref-RathjeLund">
-<p>Rathje, Annette, and John Lund. 1991. “Danes Overseas - a Short History of Danish Classical Archaeological Fieldwork.” <em>Acta Hyperborea</em>, no. 3. Museum Tusculanum: 11–56.</p>
+<p>Rathje, A., &amp; Lund, J. 1991. “Danes Overseas - a Short History of Danish Classical Archaeological Fieldwork.” <em>Acta Hyperborea</em>, 3. Museum Tusculanum: 11–56.</p>
+</div>
+<div id="ref-Rose">
+<p>Rose, B. C. 2005. “The Parthians in Augustan Rome” <em>AJA<em> 109 (January): 21–75.</p>
 </div>
 <div id="ref-Simpson">
 <p>Simpson, C. J. 1992. “On the Unreality of the Parthian Arch.” <em>Latomus</em> 51 (4). Societe d’Etudes Latines de Bruxelles: 835–42. <a href="http://www.jstor.org/stable/41536451" class="uri">http://www.jstor.org/stable/41536451</a>.</p>
 </div>
-<div id="ref-PlatnerAshby">
-<p>T. Ashby, S. B. Planer &amp;. 1929. <em>A Topographical Dictionary of Ancient Rome</em>. Oxford University Press. <a href="http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html" class="uri">http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html</a>.</p>
-</div>
+
 </div>
