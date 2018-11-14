@@ -130,6 +130,7 @@ height="2780" %}
 <p>Horne, L., and Rowan, C., <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/exhibitions/the-coinage-of-julius-caesar"><em>The Coinage of Julius Caesar</em></a>, Published online: ACANS, accessed 25.10.2018, provides a great database of coins from the Late Republic housed in the ACANS Gale collection, and demonstrates that numismatic evidence can reveal a lot about the civil wars of the Late Republic.</p>
 <p><a href="http://www.pompey.cch.kcl.ac.uk/index.htm">The ‘Pompey Project’ website</a>, created by King’s Visualisation lab (KVL), provides a great overview of the structure. It covers topics such as the theatre’s history and its excavations, as well as providing some 2D and 3D reconstructions of the theatre.</p>
 <p>The <a href="https://formaurbis.stanford.edu/index.html">surviving fragments of the <em>Forma Urbis Romae</em></a> are published as part of the ‘Stanford Digital Forma Urbis Romae Project’.</p>
+<p> A great virtual tour of the complex by Altair4 Multimedia is available for viewing on <a href="https://www.youtube.com/watch?v=3NNMv1gVJZk">YouTube.</a> </p>
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
 <div id="refs" class="references">
 <div id="ref-GagliardoPacker">
