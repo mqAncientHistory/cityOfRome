@@ -5,7 +5,7 @@ caption: 'Fresco illustrating shopping in the forum from the House of Julia Feli
 captionLink: https://commons.wikimedia.org/wiki/File:Fresco_from_the_House_of_Julia_Felix,_Pompeii_depicting_scenes_from_the_Forum_market.JPG
 title: "Shopping in the Roman World"
 date: 2018-06-20 02:00:00
-tags: 
+tags:
  - rome
  - archaeology
  - conference
@@ -64,7 +64,7 @@ understudied in favour of the perspective of economic historians focused
 on the seller, rather than the purchaser.
 
 {% include lightbox.html
-caption="Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
+caption="Figure 1. Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
 image="Ray/img508.jpg"
 width="1800"
 height="1181" %}

@@ -20,14 +20,14 @@ author: ewan
 
 {% include lightbox.html
 caption="*Figure 1a.* Coin depicting Pompey the
-Great: Obverse of RRC 511-3a, 07GR511.3a [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
+Great: Obverse of RRC 511-3a, [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections):  07GR511.3a."
 image="Ewan/fig1a-Pompey.jpg"
 width="450"
 height="443" %}
 
 {% include lightbox.html
 caption="*Figure 1b.* Coin depicting Julius
-Caesar: Obverse of RRC 480-2a, 07GR480.2a [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
+Caesar: Obverse of RRC 480-2a, [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections): 07GR480.2a ."
 image="Ewan/fig1b-Caesar.jpg"
 width="377"
 height="356" %}
@@ -44,7 +44,7 @@ height="914" %}
 <p>Through a number of different sources, we know exactly where it was located (<em>fig. 3</em>). Thanks to archaeological remains (<em>fig. 4)</em>, the shape of the modern city of Rome (<em>fig. 5)</em>, and the Severan Marble Plan of Rome (<em>fig. 6)</em>, we can deduce that the building was situated on the Campus Martius, a name given to the large area of public land north-west of the geographic centre of the city.</p>
 
 {% include lightbox.html
-caption="*Figure 3.* Map of Rome with the Theatre marked out in Red by [Cold Eel and Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png)"
+caption="*Figure 3.* Map of Rome with the Theatre marked out in Red by [Cold Eel and Joris](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Theater_van_Pompeius.png), used under CC BY-SA 3.0."
 image="Ewan/fig3-map.png"
 width="1128"
 height="900" %}
@@ -53,7 +53,7 @@ height="900" %}
 <h1 id="archaeological-remains-and-other-evidence">Archaeological Remains and other evidence</h1>
 
 {% include lightbox.html
-caption="*Figure 4.* Photo of the remains within the *Largo di Torre Argentina* with the assumed location of the Curia highlighted, Photo By Ray Laurence"
+caption="*Figure 4.* Photo of the remains within the *Largo di Torre Argentina* with the assumed location of the Curia highlighted. Photo By Ray Laurence"
 image="Ewan/fig4-rayphoto.jpg"
 width="1019"
 height="765" %}
@@ -62,7 +62,7 @@ height="765" %}
 <p>The archaeological remains of the complex are mostly underground or have been integrated into the modern city-scape. For instance, remains of the Portico and Curia have been found underneath the <em>Largo di Torre Argentina</em> (<em>fig. 4</em>), and housing on the <em>via di Grottapinta</em> follows the curve of the ancient theatre (<em>fig.</em> <em>5</em>).</p>
 
 {% include lightbox.html
-caption="*Figure 5.* Photo of the housing on the *via di Grottapinta* which preserves the curve of the Theatre, Photo by [Lalupa, 2007](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG), used under CC BY-SA 3.0."
+caption="*Figure 5.* Photo of the housing on the *via di Grottapinta* which preserves the curve of the Theatre. Photo by [Lalupa](https://commons.wikimedia.org/wiki/File:Parione_-_via_di_Grottapinta_e_largo_del_Pallaro_case_sul_teatro_di_Pompeo_1010680.JPG), used under CC BY-SA 3.0."
 image="Ewan/fig5-Grottapinta.JPG"
 width="1024"
 height="768" %}
@@ -70,7 +70,7 @@ height="768" %}
 <p>The <a href="https://formaurbis.stanford.edu/docs/FURslabmap.html"><em>Forma Urbis Romae</em></a> is a plan of Rome from the reign of Emperor Septimius Severus (AD 193 – AD 211) with a scale of 1:240 that was 18.22 m x 12.87 m. Since the first pieces were found in AD 1562, 1,186 fragments have been recovered. The complex of Pompey is preserved in several fragments from <a href="https://formaurbis.stanford.edu/slab.php?slab=110">Slabs III-11</a> (<em>fig. 6</em>) and <a href="https://formaurbis.stanford.edu/slab.php?slab=96">IV-6</a> of the plan. While some have been lost, they were all documented by <a href="https://formaurbis.stanford.edu/plate.php?plateindex=31">Carettoni</a>.</p>
 
 {% include lightbox.html
-caption="*Figure 6.* Several surviving fragments of the *Forma Urbis Romae* from Slab.III 11 before they were lost, Photo by [Ulysses K. Vestal (1999)](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg), Public Domain"
+caption="*Figure 6.* Several surviving fragments of the *Forma Urbis Romae* from Slab.III 11 before they were lost. Photo by [Ulysses K. Vestal](https://commons.wikimedia.org/wiki/File:Mapancientformaurbisromae.jpg), Public Domain"
 image="Ewan/fig6-fur.jpg"
 width="398"
 height="591" %}
@@ -87,7 +87,7 @@ height="591" %}
 </ul>
 
 {% include lightbox.html
-caption="*Figure 7.* A 3D virtual reconstruction of the Theatre, with its various components highlighted, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
+caption="*Figure 7.* A 3D virtual reconstruction of the Theatre, with its various components highlighted, a derivative work by [Amadscientist](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
 image="Ewan/fig7-Theatre.png"
 width="1896"
 height="933" %}
@@ -100,7 +100,7 @@ height="933" %}
 <p>The Curia of Pompey was located at the eastern end of the <em>quadriportico</em> (<em>figs.</em> <em>2</em> &amp; <em>8</em>). It is thought that the space would have been able to accommodate 600 senators as well as visitors. Plutarch tells us that it was structurally incorporated into the <em>quadriportico</em> itself, and that it housed a statue of Pompey <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html#14">(Plut. <em>Brut</em>. 14)</a>.</p>
 
 {% include lightbox.html
-caption="*Figure 8.* A visual reconstruction of the Curia of Pompey as seen from inside the quadriportico, a derivative work by [Amadscientist (2012)](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
+caption="*Figure 8.* A visual reconstruction of the Curia of Pompey as seen from inside the quadriportico, a derivative work by [Amadscientist](https://commons.wikimedia.org/wiki/File:Theatre_of_Pompey_highlighted_diagram.png) of an oringal 3D model by Lasha Tskhondia, used under CC BY-SA 3."
 image="Ewan/fig8-curia.jpg"
 width="1896"
 height="932" %}
@@ -112,7 +112,7 @@ height="932" %}
 <p>The interior colonnade surrounded a large peristyle consisting of several gardens<em>.</em> The colonnade was also embellished with a great number of artworks, namely paintings and sculptures. The paintings were typically of mythological or historical figures. For instance, Pliny states that there was a painting of mythological hero Cadmus and his sister Europa <a href="http://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+35.37&amp;fromdoc=Perseus%3Atext%3A1999.02.0137">(Plin. <em>NH</em>. 35.37)</a>, as well as another “<em>very fine</em>” painting of Alexander <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D35%3Achapter%3D40">(Plin. <em>NH</em>. 35.40)</a>. The sculptures within the gardens and their surrounding <em>quadriportico</em> depicted similar scenes. Pliny <a href="http://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+36.4&amp;fromdoc=Perseus%3Atext%3A1199.02.0137">(Plin. <em>NH</em>. 36.4)</a> and Suetonius <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html#46">(Suet. <em>Nero</em>. 46)</a> tell us that within the porticos there were fourteen statues personifying the nations conquered by Rome. A statue of a group of muses has also recently been found in the archaeological record <span class="citation" data-cites="Gleason Russell">(Gleason <a href="#ref-Gleason">1994</a>: 19; Russell <a href="#ref-Russell">2011</a>: 131)</span>, as well as a gilded bronze statue of Hercules (<em>fig.9</em>).</p>
 
 {% include lightbox.html
-caption="*Figure 9.* A gilded bronze statue of Hercules found near the Theatre of Pompey, now held in the Vatican Museum. Photo by [Jastrow (2006)](https://commons.wikimedia.org/wiki/File:Heracles_Pio-Clementino_Inv252.jpg), Public Domain"
+caption="*Figure 9.* A gilded bronze statue of Hercules found near the Theatre of Pompey, now held in the Vatican Museum. Photo by [Jastrow](https://commons.wikimedia.org/wiki/File:Heracles_Pio-Clementino_Inv252.jpg), Public Domain"
 image="Ewan/fig9-heracles.jpg"
 width="1530"
 height="2780" %}
@@ -134,19 +134,19 @@ height="2780" %}
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
 <div id="refs" class="references">
 <div id="ref-GagliardoPacker">
-<p>Gagliardo, Maria C., and James E. Packer. 2006. “A New Look at Pompey’s Theater: History, Documentation, and Recent Excavation.” <em>American Journal of Archaeology</em> 110 (1). Archaeological Institute of America: 93–122. <a href="http://www.jstor.org/stable/40026361" class="uri">http://www.jstor.org/stable/40026361</a>.</p>
+<p>Gagliardo, Maria C., and James E. Packer. 2006. “A New Look at Pompey’s Theater: History, Documentation, and Recent Excavation.” <em>AJA</em> 110 (1). Archaeological Institute of America: 93–122. <a href="http://www.jstor.org/stable/40026361" class="uri">http://www.jstor.org/stable/40026361</a>.</p>
 </div>
 <div id="ref-Gleason">
 <p>Gleason, Kathryn L. 1994. “Porticus Pompeiana: A New Perspective on the First Public Park of Ancient Rome.” <em>The Journal of Garden History</em> 14 (1). Routledge: 13–27. <a href="https://doi.org/10.1080/01445170.1994.10412494" class="uri">https://doi.org/10.1080/01445170.1994.10412494</a>.</p>
 </div>
 <div id="ref-Richardson">
-<p>Richardson, L. 1987. “A Note on the Architecture of the Theatrum Pompei in Rome.” <em>American Journal of Archaeology</em> 91 (1). Archaeological Institute of America: 123–26. <a href="http://www.jstor.org/stable/505461" class="uri">http://www.jstor.org/stable/505461</a>.</p>
+<p>Richardson, L. 1987. “A Note on the Architecture of the Theatrum Pompei in Rome.” <em>AJA</em> 91 (1). Archaeological Institute of America: 123–26. <a href="http://www.jstor.org/stable/505461" class="uri">http://www.jstor.org/stable/505461</a>.</p>
 </div>
 <div id="ref-Russell">
 <p>Russell, Amy. 2011. “The Definition of Public Space in Republican Rome.” University of California: eScholarship. <a href="http://www.escholarship.org/uc/item/8zr398bq" class="uri">http://www.escholarship.org/uc/item/8zr398bq</a>.</p>
 </div>
 <div id="ref-Sear">
-<p>Sear, Frank B. 1993. “The Scaenae Frons of the Theater of Pompey.” <em>American Journal of Archaeology</em> 97 (4). Archaeological Institute of America: 687–701. <a href="http://www.jstor.org/stable/506718" class="uri">http://www.jstor.org/stable/506718</a>.</p>
+<p>Sear, Frank B. 1993. “The Scaenae Frons of the Theater of Pompey.” <em>AJA</em> 97 (4). Archaeological Institute of America: 687–701. <a href="http://www.jstor.org/stable/506718" class="uri">http://www.jstor.org/stable/506718</a>.</p>
 </div>
 <div id="ref-Temelini">
 <p>Temelini, Mark. 1993. “The Function of Pompey’s Building Complex in the Campus Martius.” ProQuest Dissertations Publishing. <a href="http://search.proquest.com/docview/89289599/" class="uri">http://search.proquest.com/docview/89289599/</a>.</p>

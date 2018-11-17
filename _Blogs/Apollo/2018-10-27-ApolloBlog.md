@@ -14,9 +14,8 @@ category:
  - post
 author: zacpatrick
 ---
-<h1 id="apollo-in-rome-but-wasnt-he-greek">
-Apollo in Rome, but wasn’t he Greek?
-</h1>
+<h1 id="apollo-foreigner-in-rome">
+Apollo: Foreigner in Rome</h1>
 <p>
 <em>This week, we have a double episode! Isaac Roberts and Patrick Brewer both discuss the presence of arguably the most important Hellenic god in Rome; Apollo. But how did a Greek god become a naturalized Roman? Let’s take a look at Apollo’s presence in Rome, both physically and conceptually.</em>
 </p>
@@ -28,7 +27,7 @@ Held in great esteem and worship, Apollo was the Greek and Roman god of music, o
 </p>
 
 {% include lightbox.html
-caption="*Figure 1.* Fresco fragment of Apollo with a Lyre, by [Carole Raddato](https://upload.wikimedia.org/wikipedia/commons/d/df/Apollo_with_lyre%2C_fresco_fragment_from_the_vicinity_of_Augustus_house%2C_Palatine_Museum%2C_Rome_%288401736810%29.jpg), used under CC BY-SA 2.0."
+caption="*Figure 1.* Fresco fragment of Apollo with a Lyre from the vicinity of Augustus' house, now held in the Palatine Museum, Rome 8401736810. Photo by [Carole Raddato](https://upload.wikimedia.org/wikipedia/commons/d/df/Apollo_with_lyre%2C_fresco_fragment_from_the_vicinity_of_Augustus_house%2C_Palatine_Museum%2C_Rome_%288401736810%29.jpg), used under CC BY-SA 2.0."
 image="Apollo/ApolloLyre.jpg"
 width="1576"
 height="1199" %}
@@ -38,7 +37,7 @@ Romans commonly used mythology to identify themselves with certain ancestral lin
 </p>
 
 {% include lightbox.html
-caption="*Figure 2.* A bronze coin (RIC 37(a)) depicting Augustus minted in Spain in 18 BC, 16A47(5132) [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
+caption="*Figure 2.* A bronze denarius depicting Augustus minted in Spain in 18 BC, RIC 37.a, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections): 16A47(5132)."
 image="Apollo/ApolloCoin.jpg"
 width="500"
 height="511" %}
@@ -54,7 +53,7 @@ The first major temple to Apollo in Rome was actually located outside the city, 
 </p>
 
 {% include lightbox.html
-caption="*Figure 3.* Ruins of the Temple of Apollo Medicus/Sosianus with the remains of the Theatre of Marcellus in the background. By [Xerones](https://www.flickr.com/photos/50835495@N00/7228967), used under CC BY-SA 2.0."
+caption="*Figure 3.* Ruins of the Temple of Apollo Medicus/Sosianus with the remains of the Theatre of Marcellus in the background. Photo by [Xerones](https://www.flickr.com/photos/50835495@N00/7228967), used under CC BY-SA 2.0."
 image="Apollo/ApolloMedicus.png"
 width="527"
 height="397" %}
@@ -64,7 +63,7 @@ However, while the origin of this temple is important, it is it’s restoration 
 </p>
 
 {% include lightbox.html
-caption="*Figure 4.* A statue of Pythian Apollo, most likely a Roman copy of a Greek Bronze original. Held in the Vatican Museum, by [Karl-Ludwig Poggemann](https://www.flickr.com/photos/hinkelstone/28320170254), used under CC BY 2.0"
+caption="*Figure 4.* A statue of Pythian Apollo, most likely a Roman copy of a Greek Bronze original, now eld in the Vatican Museum. Photo by [Karl-Ludwig Poggemann](https://www.flickr.com/photos/hinkelstone/28320170254), used under CC BY-SA 2.0"
 image="Apollo/PythianApollo.png"
 width="343"
 height="502" %}
@@ -97,7 +96,7 @@ The Temple of Apollo Palatinus is credited as one of Augustus’ most magnificen
 </p>
 
 {% include lightbox.html
-caption="*Figure 5.* Plan of the Temple of Apollo Palatinus (Temple d'Apollon) on the Palatine Hill. Note that it is connected to the 'House of Augustus (Maison d'Auguste)', by [Cassius Ahenobarbus](https://commons.wikimedia.org/wiki/File:Area_apollonis_map.png), used under CC BY-SA 3.0."
+caption="*Figure 5.* Plan of the Temple of Apollo Palatinus (Temple d'Apollon) on the Palatine Hill. Note that it is connected to the 'House of Augustus (Maison d'Auguste)'. Plan by [Cassius Ahenobarbus](https://commons.wikimedia.org/wiki/File:Area_apollonis_map.png), used under CC BY-SA 3.0."
 image="Apollo/PlanofTemple.png"
 width="1030"
 height="878" %}
@@ -125,7 +124,7 @@ Coinage from the Republic often depicts the Laureate head of Apollo (<em>fig. 6<
 </p>
 
 {% include lightbox.html
-caption="*Figure 6.* Obverse of RRC 26(1), Laureate Head of Apollo, [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
+caption="*Figure 6.* Obverse of a Republican coin depicting a Laureate Head of Apollo minted in the 230's BC, RRC 26(1) [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
 image="Apollo/LaureateHeadApollo.png"
 width="449"
 height="424" %}
@@ -138,7 +137,7 @@ Depictions of Apollo on coins from the Roman Empire often portray the god standi
 </p>
 
 {% include lightbox.html
-caption="*Figure 7.* Apollo depicted on a gold aureus in the Museo archeologico nazionale (Florence). By [Sailko](https://commons.wikimedia.org/wiki/File:Augusto,_aureo_con_apollo_citaredo.JPG), used under CC BY-SA 3.0."
+caption="*Figure 7.* Apollo depicted on a gold aureus celebrating Augustus' victory at Actium, now held in the Museo archeologico nazionale, Florence, RIC I 170. Photo by [Sailko](https://commons.wikimedia.org/wiki/File:Augusto,_aureo_con_apollo_citaredo.JPG), used under CC BY-SA 3.0."
 image="Apollo/ApolloOnCoin.png"
 width="364"
 height="362" %}
@@ -153,7 +152,7 @@ Through these coins, it is interesting to see how a distinctly Greek god can be 
 Apollo &amp; Rome: Sweet Memoires
 </h1>
 <p>
-Unlike many of Rome’s major gods, such as Jupiter, Minerva, and Mars, Apollo only had two temples in Rome. Yet these two temples tell us much about Apollo in Rome. The Temple of Apollo Sosianus reflects that, while Apollo was a very Roman god by the time of Augustus, his Greek ancestry was important; this evident as Sosius’ restoration “doubled down” on Apollo’s Greek heritage. Through Apollo’s dual citizenship, so to speak, we see that, even in the same city, gods can reflect different natures. The Temple of Apollo Palatinus provides insight on Apollo’s relationship with Augustus and how he paved the way for the Roman Empire. It is interesting to note that, in history, the characters responsible for the most influential changes in a society are commonly mythological. Apollo is no different, though, through the works left behind, we are able to gain a snapshot into how the Romans viewed this titanic god. The concept of an Hellenic Apollo within the city of Rome is fascinating, and leaves the door open for further discussion regarding the introduction of other Hellenic deities, such as Cybele/Magna Mater, to the City of Rome.
+Unlike many of Rome’s major gods, such as Jupiter, Minerva, and Mars, Apollo only had two temples in Rome. Yet these two temples tell us much about Apollo in Rome. The Temple of Apollo Sosianus reflects that, while Apollo was a very Roman god by the time of Augustus, his Greek ancestry was important; this evident as Sosius’ restoration “doubled down” on Apollo’s Greek heritage. Through Apollo’s dual citizenship, so to speak, we see that, even in the same city, gods can reflect different natures. The Temple of Apollo Palatinus provides insight on Apollo’s relationship with Augustus and how he paved the way for the Roman Empire. It is interesting to note that, in history, the characters responsible for the most influential changes in a society are commonly mythological. Apollo is no different, and through the works left behind, we are able to gain a snapshot into how the Romans viewed this titanic god. The concept of an Hellenic Apollo within the city of Rome is fascinating, and leaves the door open for further discussion regarding the introduction of other Hellenic deities, such as Cybele/Magna Mater, to the City of Rome.
 </p>
 <h1 id="further-reading">
 Further Reading

@@ -157,8 +157,6 @@ caption="*Figure 4.* The Pantheon. [Xeo](https://commons.wikimedia.org/wiki/File
 image="Concrete/CFigure4.jpg"
 width="640"
 height="480" %}
-{% include lightbox.html
-
 
 Set in Stone (or Concrete)
 ==========================
@@ -243,7 +241,7 @@ Additionally, using concrete was the signpost of a smart leader.
 Concrete production and building boosted the economy, it was cheap,
 the aggregates could come from recycled rubble (as used by Nero after
 the 64 AD fire), and only required simple workmanship, boosting
-employment [@White]. Concrete meant jobs, which meant a stronger
+employment [@White: 86]. Concrete meant jobs, which meant a stronger
 economy, a larger labour force, and a smart leader who only wanted the
 best for their City. Rome never looked better than when its people saw
 another concrete structure go up.
@@ -265,7 +263,7 @@ the people were gone.
 
 Augustus, it is said by Suetonius [Suet. Aug.
 28.3](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html#28),
-left Rome a "*city of marble*" when he died. With all due respect, the
+left Rome a city of marble when he died. With all due respect, the
 truth of this statement is not clear enough. Augustus may have left a
 city built of marble, but the Roman legacy itself was built with
 concrete.
@@ -296,3 +294,6 @@ process of creating "Roman" concrete, using more modern materials.
 Although he does follow the methods as set out by Vitruvius, it is
 important to note that Romans may not have even created concrete using
 the same methods and materials used in the video.
+
+Bibliography
+============

@@ -21,7 +21,7 @@ author: hayden
 <p>Before we can understand how this infamous fire came to be, the question which may seem completely obvious must first be answered; What, exactly, is fire? As a volatile oxidation of material that results in a combustion reaction, fire has shown to need four specific things for it to exist <span class="citation" data-cites="Quintiere">(Quintiere <a href="#ref-Quintiere">2017</a>: 3)</span>. These are demonstrated in what we call the fire tetrahedron (fig.1).</p>
 
 {% include lightbox.html
-caption="*Figure 1.* Fire Tetrahedron. By [Gustavb](https://commons.wikimedia.org/wiki/File:Fire_tetrahedron.svg), 2006, Public Domain"
+caption="*Figure 1.* Fire Tetrahedron. By [Gustavb](https://commons.wikimedia.org/wiki/File:Fire_tetrahedron.svg), Public Domain"
 image="Hayden/fig1-tetrahedron.png"
 width="3000"
 height="3000" %}
@@ -35,7 +35,7 @@ height="3000" %}
 <p>The city of Rome is famed for its seven hills upon which it grew (fig.2). The city has been moulded around this topography, and even writers such as Pliny cannot describe the city without mentioning them <a href="https://sourcebooks.fordham.edu/ancient/pliny-natihist-rome.asp"><span class="underline">(Plin. <em>NH.</em> 3.66-67)</span></a>. As iconic as the hills may be, they make fire a much more real and dangerous prospect within Rome.</p>
 
 {% include lightbox.html
-caption="*Figure 2.* Map of Rome depicting the Hills and Servian Wall. By [William Smith](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_student%27s_manual_of_ancient_geography%2C_based_upon_the_Dictionary_of_Greek_and_Roman_geography_%281861%29_%2814768984432%29.jpg), Public Domain"
+caption="*Figure 2.* A map of Rome depicting the Hills and Servian Wall, by [William Smith](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_student%27s_manual_of_ancient_geography%2C_based_upon_the_Dictionary_of_Greek_and_Roman_geography_%281861%29_%2814768984432%29.jpg), Public Domain"
 image="Hayden/fig2-hills.jpg"
 width="2102"
 height="2170" %}
@@ -46,7 +46,7 @@ height="2170" %}
 <p>The recounts of Tacitus, Cassius Dio, and Suetonius all differ on the origins of the fire. The latter two believed the emperor Nero (fig.3) ordered the destruction and consequent plundering of the city through his soldiers <a href="http://penelope.uchicago.edu/Thayer/e/roman/texts/cassius_dio/62*.html"><span class="underline">(Cass. Dio. 62.16.2-3)</span></a>. Tacitus, however, is far more specific. He states that it occurred in the “Circus which adjoins the Palatine and Caelian Hills… among shops” <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.38.2)</span></a>. His specificity and lack of blame on Nero, amongst other reasons, gives credibility to his assertion and, perhaps, can be considered a more reliable account. This will be discussed below.</p>
 
 {% include lightbox.html
-caption="*Figure 3.* A Roman coin (RIC 143) depicting the Emperor Nero, 18A02, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)"
+caption="*Figure 3.* A bronze Sestertius depicting the Emperor Nero (AD 37 - 68), RIC I(2) 143, [ACANS collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections): 18A02."
 image="Hayden/fig3-nero.jpg"
 width="500"
 height="498" %}
@@ -56,7 +56,7 @@ height="498" %}
 <p>Once the fire had passed the circus, the fire was met by the overburdened, narrow, and irregular streets of Rome <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.38.3)</span></a>. Being so close together, the buildings allowed easy transfer of fire between them, and even Tacitus remarks on how quickly the fire spread <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.38.5)</span></a>. Although Tacitus does not give us a direction of the fire, he sets up some important boundaries. He says that the fire was put out at the foot of the Esquiline Hill (Region V) and that Nero opened up the Campus Martius to the displaced populace <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.39-40)</span></a>. The structures that he mentions that burned can also be used to deduct the direction and behaviour of the fire <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"><span class="underline">(Tac. <em>Ann</em>. 15.41.1)</span></a>. These can be traced to the Aventine Hill (Region XIII), <em>Forum Boarium</em> (Near <em>Porta Flumentana</em>), and <em>Forum Romanum</em> (Region VIII). As all of these are west of the ignition spot, an Easterly wind can be deduced as highly likely, at-least in the early stages of the fire. The fact that the fire eventually spread North East to the Esquiline Hill means that either a wind change occurred sometime during the fire, or regardless of the wind, the sheer amount of fuel allowed the fire to travel against the wind. Either way, it shows a characteristically dangerous fire which would have been near impossible to put out.</p>
 
 {% include lightbox.html
-caption="*Figure 4.* Map of Rome showing the Regions and walls of Rome c. 300 AD. An edit of an original by [fr:User:ColdEel & edited by nl:Gebruiker:Joris](https://en.wikipedia.org/wiki/File:Plan_Rome-_Servische_Muur.png), CC BY-SA 3.0."
+caption="*Figure 4.* Map of Rome showing the Regions and walls of Rome c. 300 AD. An edit of an original by [fr:User:ColdEel & edited by nl:Gebruiker:Joris](https://en.wikipedia.org/wiki/File:Plan_Rome-_Servische_Muur.png), used under CC BY-SA 3.0."
 image="Hayden/fig4-map.png"
 width="1128"
 height="900" %}

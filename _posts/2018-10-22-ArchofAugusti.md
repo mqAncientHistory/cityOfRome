@@ -20,8 +20,8 @@ author: kiri
 <p>In 1888, German archaeologist Otto Richter discovered the foundations of a three-bayed triumphal arch in the Roman Forum. Located between the temples of Caesar and of Castor, these foundations consisted of four rectangular concrete beds topped with travertine blocks, with the outer two bases being considerably narrower than the inner two. It was later recorded by Italian archaeologist Rodolfo Lanciani that the arch corresponding to these foundations had been “found and destroyed” by workmen in the 16th century <span class="citation" data-cites="Lanciani">(Lanciani <a href="#ref-Lanciani">1897</a>)</span>.</p>
 
 {% include lightbox.html caption="*Figure 1.* Arch of Augustus (https://commons.wikimedia.org/w/index.php?title=File:Arch_of_Augustus.png&oldid=299542765)"
-image="ArcusAugusti/ArchofAugustus.png
-" width="613"
+image="ArcusAugusti/ArchofAugustus.png"
+width="613"
 height="456" %}
 
 <p>Richter had initially identified the foundations as belonging to an arch that was reportedly built in honour of Augustus after his victory at the Battle of Actium. Cassius Dio wrote of there being two arches dedicated to Augustus in the Forum; one in 29 B.C. for his victory at Actium, and one in 19 B.C. for recovering Roman standards and captives from the Parthians (Cass. Dio <a href="http://penelope.uchicago.edu/thayer/e/roman/texts/cassius_dio/51*.html"><span class="underline">51.19.1</span></a>, <a href="http://penelope.uchicago.edu/thayer/e/roman/texts/cassius_dio/54*.html"><span class="underline">54.8</span></a>). Commentary on Vergil’s <em>Aeneid</em> by the Veronese Scholiast states that the ‘Parthian arch’ was located beside the Temple of Caesar <span class="citation" data-cites="Holland">(Holland <a href="#ref-Holland">1946</a>)</span>. After fruitless excavations in search for the second arch, Richter decided the foundations, he had excavated between the temples of Caesar and of Castor were those of the Parthian arch of 19 B.C..</p>
