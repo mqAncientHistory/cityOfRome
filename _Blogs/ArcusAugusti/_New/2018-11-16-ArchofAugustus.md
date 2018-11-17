@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: '/assets/images/ARCUSAUGUSTI.jpg'
+cover: '/assets/images/ArcusAugusti/arcusaugusti.png'
 caption: 'Painted recreation of the Arch of Augustus, by Henry Seward, licensed under Public Domain.'
 captionLink: https://upload.wikimedia.org/wikipedia/commons/3/32/Arch_of_Augustus%2C_Aosta_by_Henry_Seward%2C_1807..jpg
 title: "Foundations for a triumphal arch, but which victory might it commemorate?"
@@ -34,7 +34,7 @@ width="614"
 height="375" %}
 
 
-<p>It was later recorded by Italian archaeologist Rodolfo Lanciani that the arch corresponding to these foundations had been “found and destroyed” by workmen in the 16th century <span class="citation" data-cites="Lanciani">(Lanciani <a href="#ref-Lanciani">1897</a>: 269)</span>.</p>
+It was later recorded by Italian archaeologist Rodolfo Lanciani that the arch corresponding to these foundations had been “found and destroyed” by workmen in the 16th century <span class="citation" data-cites="Lanciani">(Lanciani <a href="#ref-Lanciani">1897</a>: 269)</span>.</p>
 <p>Richter had initially identified the foundations as belonging to an arch that was reportedly built in honour of Augustus after his victory at the Battle of Actium. Cassius Dio wrote of there being two arches dedicated to Augustus in the Forum; one in 29 B.C. for his victory at Actium, and one in 19 B.C. for recovering Roman standards and captives from the Parthians <a href="http://penelope.uchicago.edu/thayer/e/roman/texts/cassius_dio/51*.html">(Cass. Dio 51.19.1</a>, <a href="http://penelope.uchicago.edu/thayer/e/roman/texts/cassius_dio/54*.html">54.8</a>). Commentary on Vergil’s <em>Aeneid</em> by the Veronese Scholiast states that the ‘Parthian arch’ was located beside the Temple of Caesar <span class="citation" data-cites="Holland">(Holland <a href="#ref-Holland">1946</a>: 53)</span>. After fruitless excavations in search for the second arch, Richter decided the foundations he had excavated between the temples of Caesar and of Castor were those of the Parthian arch of 19 B.C..</p>
 <p>In the 16th century, an inscription (<em>CIL</em> VI, 873) on a marble block was discovered nearby to where Richter would later unearth the foundations. The (now lost) inscription recorded a dedication to Augustus in 29 BC; Platner suggested that it may have belonged to the triple-arch but noted that its size of 2.67 metres long would have been too small to be the principle inscription <span class="citation" data-cites="PlatnerAshby">(Platner and Ashby <a href="#ref-PlatnerAshby">1929</a>: 34)</span>. Also excavated in the 16th century were the <em>Fasti Consulares</em> and <em>Fasti Triumphatores</em> (fig. 3), fragments listing all those who had been consul, and those who who had received a triumph, respectively <span class="citation" data-cites="Rose">(Rose <a href="#ref-Rose">2005</a>: 31)</span>. Debate exists as to where the <em>Fasti</em> were originally located; the Regia<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, a building behind the Temple of Caesar, is one contender, with another being the Arcus Augusti.</p>
 
