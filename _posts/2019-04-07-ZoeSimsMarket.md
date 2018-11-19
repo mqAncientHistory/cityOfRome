@@ -3,7 +3,7 @@ layout: post
 cover: '/assets/images/Markets/TMHeader.jpg'
 caption: The Markets of Trajan today. Photo by Ray Laurence.
 title: "The Curious Tourist's Guide to Rome: Trajan's Market"
-date: 2019-04-07 23:00:00
+date: 2019-04-07 16:00:00
 tags:
 - rome
 - archaeology
