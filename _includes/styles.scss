@@ -20,8 +20,13 @@ width: 200px;
 }
 
 
-
-
+div[id]:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -100px; // Set the Appropriate Height
+  height: 100px; // Set the Appropriate Height
+  visibility: hidden; 
+}
 
 .hero-25>amp-img>img{
   object-position: center 25%;
