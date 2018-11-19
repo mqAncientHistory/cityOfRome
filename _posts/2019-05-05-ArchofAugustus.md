@@ -4,7 +4,7 @@ cover: '/assets/images/ArcusAugusti/arcusaugusti.png'
 caption: 'Painted recreation of the Arch of Augustus, by Henry Seward, licensed under Public Domain.'
 captionLink: https://upload.wikimedia.org/wikipedia/commons/3/32/Arch_of_Augustus%2C_Aosta_by_Henry_Seward%2C_1807..jpg
 title: "Foundations for a triumphal arch, but which victory might it commemorate?"
-date: 2019-05-06 16:00:00
+date: 2019-05-05 16:00:00
 tags:
  - rome
  - archaeology
