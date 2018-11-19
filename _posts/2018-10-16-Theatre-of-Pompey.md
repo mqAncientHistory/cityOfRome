@@ -126,7 +126,7 @@ height="2780" %}
 <p>The theatrical complex of Pompey on the Campus Martius was an impressive structure. It incorporated several different buildings and architectural styles to create a multi-purposed and aesthetically pleasing complex. The structure provided a large public space for leisure activities. A Roman could enjoy a walk through its beautiful peristyle gardens, admiring a well-crafted bronze statue of Hercules whilst physically isolated from the clamour of the city. Alternatively, they could take a seat in the <em>cavea</em> along with thousands of others and watch a Greek tragedy under the shade of Nero’s purple curtains. However, what they could not do, was visit the site of Julius Caesar’s assassination.</p>
 <h1 id="further-reading">Further Reading</h1>
 <p>A good amount of information used in this blog has been sourced from:</p>
-<p>Temelini, M. A. (1993), <a href="http://dx.doi.org/10.20381/ruor-11398"><em>The Function of Pompey’s Building Complex in the Campus Martius</em></a> (master’s thesis), Ottawa: University of Ottawa.</p>
+<p>Temelini, M. 1993. <a href="http://dx.doi.org/10.20381/ruor-11398"><em>The Function of Pompey’s Building Complex in the Campus Martius</em></a> (master’s thesis), Ottawa: University of Ottawa.</p>
 <p>Horne, L., and Rowan, C., <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/exhibitions/the-coinage-of-julius-caesar"><em>The Coinage of Julius Caesar</em></a>, Published online: ACANS, accessed 25.10.2018, provides a great database of coins from the Late Republic housed in the ACANS Gale collection, and demonstrates that numismatic evidence can reveal a lot about the civil wars of the Late Republic.</p>
 <p><a href="http://www.pompey.cch.kcl.ac.uk/index.htm">The ‘Pompey Project’ website</a>, created by King’s Visualisation lab (KVL), provides an expansive overview of the structure. It covers topics such as the theatre’s history and its excavations, as well as providing some 2D and 3D reconstructions.</p>
 <p>The <a href="https://formaurbis.stanford.edu/index.html">surviving fragments of the <em>Forma Urbis Romae</em></a> are published as part of the ‘Stanford Digital Forma Urbis Romae Project’.</p>
@@ -149,7 +149,7 @@ height="2780" %}
 <p>Sear, F. B. 1993. “The Scaenae Frons of the Theater of Pompey.” <em>AJA</em> 97 (4). Archaeological Institute of America: 687–701. <a href="http://www.jstor.org/stable/506718" class="uri">http://www.jstor.org/stable/506718</a>.</p>
 </div>
 <div id="ref-Temelini">
-<p>Temelini, M. 1993. “The Function of Pompey’s Building Complex in the Campus Martius.” ProQuest Dissertations Publishing. <a href="http://search.proquest.com/docview/89289599/" class="uri">http://search.proquest.com/docview/89289599/</a>.</p>
+<p>Temelini, M. 1993. <em>The Function of Pompey’s Building Complex in the Campus Martius.</em> (master’s thesis) Ottawa: University of Ottawa. <a href="http://search.proquest.com/docview/89289599/" class="uri">http://search.proquest.com/docview/89289599/</a>.</p>
 </div>
 </div>
 <section class="footnotes">
