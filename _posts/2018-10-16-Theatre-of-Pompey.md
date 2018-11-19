@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: '/assets/images/Ewan/cover-Baltard.png'
-caption: 'A drawing by Baltard of the remains of the Theatre of Pompey as they were in 1837 [Public Domain], from Wikimedia Commons'
+caption: 'A drawing by Baltard of the remains of the Theatre of Pompey as they were in 1837, WikiCommons, Public Domain.'
 captionLink: https://upload.wikimedia.org/wikipedia/commons/3/32/Baltard_1837_pompey.png
 title: "Nice Theatre, But Didn't They Kill Caesar Here?"
 date: 2018-10-08 16:00:00
