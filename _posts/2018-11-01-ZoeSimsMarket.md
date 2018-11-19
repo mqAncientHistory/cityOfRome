@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: '/assets/images/Markets/TMHeader.jpg'
-caption: The Markets of Trajan today. Photo by Ray Laurence'
+caption: The Markets of Trajan today. Photo by Ray Laurence.
 title: "The Curious Tourist's Guide to Rome: Trajan's Market"
 date: 2018-11-01 16:00:00
 tags:
@@ -17,11 +17,11 @@ author: zoe
 <h1 id="the-curious-tourists-guide-to-rome-trajans-market">The Curious Tourist’s Guide to Rome: Trajan’s Market</h1>
 <p><em>This week Zoe explores the “World’s First Shopping Mall”, the Markets of Trajan. Through her examination of archaeological and written evidence, Zoe draws parallels to our modern world. Are our shopping habits similar to those of the Romans? Find out this week!</em></p>
 <h1 id="welcome-to-the-mercati-di-traiano">Welcome to the <em>Mercati di Traiano!</em></h1>
-<p>Located at the north-western end of the Via dei Fori Imperiali, nestled against the Quirinal Hill (<em>fig. 1</em>), stands the Markets of Trajan, a ‘must-see’ when visiting Rome. Just a short walk from Piazza Venezia and the Roman Forum, Trajan’s Market is an extraordinary example of imperial Roman architecture. Designed by Apollodorus of Damascus and commissioned by Emperor Trajan, the complex was built between 100-112AD and accompanied the impressive Forum of Trajan <span class="citation" data-cites="Lancaster1">(Lancaster <a href="#ref-Lancaster1">1995</a>: 63)</span>.</p>
+<p>Located at the north-western end of the Via dei Fori Imperiali, nestled against the Quirinal Hill (<em>fig. 1</em>), stands the Markets of Trajan, a ‘must-see’ when visiting Rome. Just a short walk from Piazza Venezia and the Roman Forum, Trajan’s Market is an extraordinary example of imperial Roman architecture. Designed by Apollodorus of Damascus and commissioned by Emperor Trajan, the complex was built between AD 100-112 and accompanied the impressive Forum of Trajan <span class="citation" data-cites="Lancaster1">(Lancaster <a href="#ref-Lancaster1">1995</a>: 63)</span>.</p>
 
 {% include lightbox.html
 caption="*Figure 1.* Location of the Markets of Trajan (red) in the
-city of Rome. Map by [Wiki28](https://commons.wikimedia.org/wiki/File%3APlan_Rome-_Trajan%27s_Market.png), Public Domain"
+city of Rome. Map by [Wiki28](https://commons.wikimedia.org/wiki/File%3APlan_Rome-_Trajan%27s_Market.png), Public Domain."
 image="Markets/TMFigure1.png"
 width="1128"
 height="900" %}
@@ -37,20 +37,20 @@ height="900" %}
 <li><p>More Info: <a href="https://www.rome.net/trajans-market">Civitatis Rome</a></p></li>
 </ul>
 <h1 id="the-worlds-first-shopping-mall">The World’s First Shopping Mall</h1>
-<p>Often referred to as the world’s first shopping centre, the Markets of Trajan consists of 150 rooms across a six-story complex <span class="citation" data-cites="Lancaster2">(Lancaster <a href="#ref-Lancaster2">1998</a>: 285)</span>. However, evidence suggests that Trajan’s Market was more than just a mall, but rather a commercial complex, housing <em>tabernae</em>,<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> administrative offices and residential apartment blocks <span class="citation" data-cites="DAquino">(d’Aquino <a href="#ref-DAquino">2015</a>: 84)</span>. <span class="citation" data-cites="VreelandandVreeland">(Vreeland and Vreeland <a href="#ref-VreelandandVreeland">2006</a>: 33)</span> suggest that the market was organised as follows:</p>
+<p>Often referred to as the world’s first shopping centre, the Markets of Trajan consists of 150 rooms across a six-story complex <span class="citation" data-cites="Lancaster2">(Lancaster <a href="#ref-Lancaster2">1998</a>: 285)</span>. However, evidence suggests that Trajan’s Market was more than just a mall, but rather a commercial complex, housing <em>tabernae</em>,<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> administrative offices and residential apartment blocks <span class="citation" data-cites="DAquino">(d’Aquino <a href="#ref-DAquino">2015</a>: 84)</span>. <span class="citation" data-cites="VreelandandVreeland">Vreeland and Vreeland (<a href="#ref-VreelandandVreeland">2006</a>: 33)</span> suggest that the market was organised as follows:</p>
 <ul class="incremental">
-<li><p>Level 1: Main entrance hall for the distribution of grain, with other commodities like oils, fruits and vegetables sold across the levels</p></li>
-<li><p>Level 3: Terrace and taverns accessed by the <em>Via Biberatica</em> (<em>fig. 2</em>)<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p></li>
-<li><p>Level 4: Home to exotic spices and pepper</p></li>
-<li><p>Level 5: Administrative offices of Public Assistance</p></li>
-<li><p>Level 6: Ponds and fish connected to an aqueduct</p></li>
+<li><p>Level 1: Main entrance hall for the distribution of grain, with other commodities like oils, fruits and vegetables sold across the levels.</p></li>
+<li><p>Level 3: Terrace and taverns accessed by the <em>Via Biberatica</em> (<em>fig. 2</em>).<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p></li>
+<li><p>Level 4: Home to exotic spices and pepper.</p></li>
+<li><p>Level 5: Administrative offices of Public Assistance.</p></li>
+<li><p>Level 6: Ponds and fish connected to an aqueduct.</p></li>
 </ul>
 <p>This system gives us an idea of how the marketplace would have functioned, serving both commercial and civic purposes. Ancient writers (<a href="http://www.tertullian.org/fathers/martial_epigrams_book09.htm">Mart. 5.59</a>) also describe typical Roman shops, which consisted of wide entrances, small displays out the front and a larger selection of goods inside <span class="citation" data-cites="BroekaertandZuiderhoek">(Broekaert and Zuiderhoek <a href="#ref-BroekaertandZuiderhoek">2013</a>: 322)</span>. Much like our own modern supermarkets, this demonstrates the evolution of the marketplace and may explain how we have come to use our shopping malls today.</p>
 
 {% include lightbox.html
 caption="*Figure 2.* The *Via Biberatica* on level 3 of the Markets
 of Trajan. Photo by [Pierfelice
-Licitra](https://commons.wikimedia.org/wiki/File:Mercati_di_Traiano_-_panoramio.jpg), used under CC BY 3.0"
+Licitra](https://commons.wikimedia.org/wiki/File:Mercati_di_Traiano_-_panoramio.jpg), used under CC BY 3.0."
 image="Markets/TMFigure2.jpg"
 width="4000"
 height="3000" %}
@@ -63,7 +63,7 @@ caption="*Figure 3.* Plan view of Trajan's markets and forum, showing
 the matching exedra.
 Plan by [Cristiano64](https://commons.wikimedia.org/wiki/File:Forum_Traianii_map.PNG)
 ([annotated by
-Smarthistory](https://www.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ap-ancient-rome/a/forum-and-market-of-trajan)), used under CC BY-SA 3.0"
+Smarthistory](https://www.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ap-ancient-rome/a/forum-and-market-of-trajan)), used under CC BY-SA 3.0."
 image="Markets/TMFigure3.png"
 width="707"
 height="549" %}
@@ -90,7 +90,7 @@ height="503" %}
 
 {% include lightbox.html
 caption="*Figure 5.* Bonding courses (indicated by arrows) as seen on the ground floor of
-the hemicycle. Photo by Ray Laurence"
+the hemicycle. Photo by Ray Laurence."
 image="Markets/TMFigure5.jpg"
 width="4032"
 height="3024" %}
@@ -100,17 +100,17 @@ height="3024" %}
 
 {% include lightbox.html
 caption="*Figure 6.* Ceiling groin vaults inside the *Aula*. Photo by [Carole
-Raddato](https://www.flickr.com/photos/carolemage/8070768329/), used under CC BY-SA 2.0"
+Raddato](https://www.flickr.com/photos/carolemage/8070768329/), used under CC BY-SA 2.0."
 image="Markets/TMFigure6.jpg"
 width="4288"
 height="3216" %}
 
 <h1 id="whos-the-boss">Who’s the Boss?</h1>
 <p>When it comes to building complex structures like Trajan’s Market, questions arise about how the Romans managed to plan, organize and execute their elaborate constructions. This leads us to the subject of architects and builders, particularly the role of construction teams and the effectiveness of building laws.</p>
-<h1 id="architect-v.-builder">Architect v. Builder</h1>
-<p>The relationship between architect and builder is an indicator of the success of imperial building programs. Although we do not know exactly who or how the jobs were assigned, Roman author and architect, Vitruvius offers us some clues. Vitruvius designed and supervised his own projects (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D5%3Achapter%3D1%3Asection%3D6">Vitr. 5.1.6</a>), however he suggests that in some cases, architects would take the advice of workers (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D6%3Achapter%3D8%3Asection%3D10">Vitr. 6.8.10</a>) Whilst this implies that architects were typically the supervisors of a site, it also shows flexibility within the Roman workforce and positive exchanges between builders and architects. In terms of building safety, it was the responsibility of the <em>redemptor</em><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a> or the client, not the architect, to make sure a structure was stable <span class="citation" data-cites="Lancaster3">(Lancaster <a href="#ref-Lancaster3">2000</a>: 764)</span>. The <em>probatio</em><a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a> of Trajan’s Market would have been critical a position, as he must be certain that all levels and elements (stairs, vaults, walls) were safe and secure for the public <span class="citation" data-cites="Lancaster3">(Lancaster <a href="#ref-Lancaster3">2000</a>: 765)</span>.</p>
+<h1 id="architect-v.-builder">Architect vs Builder</h1>
+<p>The relationship between architect and builder is an indicator of the success of imperial building programs. Although we do not know exactly how the jobs were assigned, Roman author and architect, Vitruvius, offers us some clues. Vitruvius designed and supervised his own projects (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D5%3Achapter%3D1%3Asection%3D6">Vitr. 5.1.6</a>), however he suggests that in some cases, architects would take the advice of workers (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D6%3Achapter%3D8%3Asection%3D10">Vitr. 6.8.10</a>). Whilst this implies that architects were typically the supervisors of a site, it also shows flexibility within the Roman workforce and positive exchanges between builders and architects. In terms of building safety, it was the responsibility of the <em>redemptor</em><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a> or the client, not the architect, to make sure a structure was stable <span class="citation" data-cites="Lancaster3">(Lancaster <a href="#ref-Lancaster3">2000</a>: 764)</span>. The <em>probatio</em><a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a> of Trajan’s Market would have been critical a position, as he must be certain that all levels and elements (stairs, vaults, walls) were safe and secure for the public <span class="citation" data-cites="Lancaster3">(Lancaster <a href="#ref-Lancaster3">2000</a>: 765)</span>.</p>
 <h1 id="laws">Laws</h1>
-<p>By looking at legal documents, we are able to see how the administration process assisted the development of buildings like Trajan’s Markets. According to ancient sources, building codes regulated the construction of both public and private structures (<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/De_Aquis/text*.html#2.119">Frontin. <em>Aq</em>. 2.119</a>). The Digest of Justinian, a compendium of writings about Roman law under the Emperor Justinian I, describes the roles of Roman <em>redemptors</em>, demonstrating the importance of planning and regulation for buildings in Rome (<a href="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#VIII"><em>Dig</em>. 50.8.2.11</a>; <a href="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#X">50.10.2.1</a>). The contracts - <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Obligationes.html"><em>stipulatio</em></a> and <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Locatio.html"><em>locatio</em> <em>conductio</em></a> were most common during this time, with the former referring to an oral agreement and the latter, a more detailed arrangement, which outlined skill, labour and cost. Without these laws, Romans would not have been able to co-ordinate and construct grand-scale projects like, Trajan’s Markets.</p>
+<p>By looking at legal documents, we are able to see how the administration process assisted the development of buildings like Trajan’s Markets. According to ancient sources, building codes regulated the construction of both public and private structures (<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/De_Aquis/text*.html#2.119">Frontin. <em>Aq</em>. 2.119</a>). The Digest of Justinian, a compendium of writings about Roman law under the Emperor Justinian I, describes the roles of Roman <em>redemptors</em>, demonstrating the importance of planning and regulation for buildings in Rome (<a href="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#VIII"><em>Dig</em>. 50.8.2.11</a>; <a href="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#X">50.10.2.1</a>). The contracts - <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Obligationes.html"><em>stipulatio</em></a> and <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Locatio.html"><em>locatio</em> <em>conductio</em></a> - were most common during this time, with the former referring to an oral agreement, and the latter a more detailed arrangement, which outlined skill, labour and cost. Without these laws, Romans would not have been able to co-ordinate and construct grand-scale projects like Trajan’s Markets.</p>
 
 <h1 id="construction-teams">Construction Teams</h1>
 <p>Both written and archaeological evidence indicates that groups of different builders constructed Trajan’s Market. According to ancient writers (<a href="https://www.poetryintranslation.com/PITBR/Latin/StatiusSilvaeBkIV.php#anchor_Toc317239405">Stat. <em>Silv</em>. 4.3.40-53</a>; <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D7%3Achapter%3D1%3Asection%3D3">Vitr. 7.1.3</a>; <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D7%3Achapter%3D3%3Asection%3D10">7.3.10</a>), builders generally worked in small groups called <em>decuria</em> <span class="citation" data-cites="BroekaertandZuiderhoek">(Broekaert and Zuiderhoek <a href="#ref-BroekaertandZuiderhoek">2013</a>: 328)</span>. Trajan’s Market would have required several building teams in order to tackle such a grand space. Fluctuations between the heights of <em>bipedalis</em> courses along the hemicycle facade indicate that more than one building team constructed Trajan’s Market. If you look closely at the hemicycle walls, you can find disruptions in the brick bond patterns, suggesting that masons would have worked side by side, regularly bringing the walls back into alignment. Today, masons call these discrepancies ‘pigs,’ an interesting name for an adjusted brick piece <span class="citation" data-cites="Lancaster2">(Lancaster <a href="#ref-Lancaster2">1998</a>: 291)</span>.</p>
@@ -120,7 +120,7 @@ height="3216" %}
 <p>Come and visit Trajan’s Market today!</p>
 
 {% include lightbox.html
-caption="*Figure 7.* Trajan's Markets at night. Photo by [Pufacz](https://commons.wikimedia.org/wiki/File%3AHaleTrajana_Night2.JPG), Public Domain"
+caption="*Figure 7.* Trajan's Markets at night. Photo by [Pufacz](https://commons.wikimedia.org/wiki/File%3AHaleTrajana_Night2.JPG), Public Domain."
 image="Markets/TMFigure7.jpg"
 width="800"
 height="502" %}
@@ -129,25 +129,25 @@ height="502" %}
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
 <div id="refs" class="references">
 <div id="ref-BroekaertandZuiderhoek">
-<p>Broekaert, Wim, and Arjan Zuiderhoek. 2013. “Industries and Services*.” In <em>The Cambridge Companion to Ancient Rome</em>, edited by PaulEditor Erdkamp, 317–35. Cambridge Companions to the Ancient World. Cambridge University Press. <a href="https://doi.org/10.1017/CCO9781139025973.023" class="uri">https://doi.org/10.1017/CCO9781139025973.023</a>.</p>
+<p>Broekaert, Wim, and Arjan Zuiderhoek. 2013. “Industries and Services.” In <em>The Cambridge Companion to Ancient Rome</em>, edited by P. Erdkamp. Cambridge University Press: 317–35. <a href="https://doi.org/10.1017/CCO9781139025973.023" class="uri">https://doi.org/10.1017/CCO9781139025973.023</a>.</p>
 </div>
 <div id="ref-DAquino">
 <p>d’Aquino, Riccardo. 2015. “One or Two Things About Architecture: Restoration Works at Trajan’s Market.” <em>Frontiers of Architectural Research</em> 4 (2): 81–90. <a href="https://doi.org/https://doi.org/10.1016/j.foar.2015.01.002" class="uri">https://doi.org/https://doi.org/10.1016/j.foar.2015.01.002</a>.</p>
 </div>
 <div id="ref-Lancaster1">
-<p>Lancaster, Lynne. 1995. “The Date of Trajan’s Markets: An Assessment in the Light of Some Unpublished Brick Stamps.” <em>Papers of the British School at Rome</em> 63. [British School at Rome, Cambridge University Press]: 25–44.</p>
+<p>Lancaster, Lynne. 1995. “The Date of Trajan’s Markets: An Assessment in the Light of Some Unpublished Brick Stamps.” <em>Papers of the British School at Rome</em> 63. Cambridge University Press: 25–44.</p>
 </div>
 <div id="ref-Lancaster2">
-<p>———. 1998. “Building Trajan’s Markets.” <em>American Journal of Archaeology</em> 102 (2). Archaeological Institute of America: 283–308.</p>
+<p>———. 1998. “Building Trajan’s Markets.” <em>AJA</em> 102 (2). Archaeological Institute of America: 283–308.</p>
 </div>
 <div id="ref-Lancaster3">
-<p>———. 2000. “Building Trajan’s Markets 2: The Construction Process.” <em>American Journal of Archaeology</em> 104 (4). Archaeological Institute of America: 755–85.</p>
+<p>———. 2000. “Building Trajan’s Markets 2: The Construction Process.” <em>AJA</em> 104 (4). Archaeological Institute of America: 755–85.</p>
 </div>
 <div id="ref-Ressler">
 <p>Ressler, Stephen. 2013. “The Genesis of a New Imperial Architecture.” <em>Kanopy</em>. <a href="https://www.kanopy.com/wayf/product/genesis-new-imperial-architecture" class="uri">https://www.kanopy.com/wayf/product/genesis-new-imperial-architecture</a>.</p>
 </div>
 <div id="ref-VreelandandVreeland">
-<p>Vreeland, F., and V. Vreeland. 2006. <em>Key to Rome</em>. Getty Trust Publications. J. Paul Getty Museum.</p>
+<p>Vreeland, F., and V. Vreeland. 2006. <em>Key to Rome</em>. Getty Trust Publications.</p>
 </div>
 </div>
 <section class="footnotes">

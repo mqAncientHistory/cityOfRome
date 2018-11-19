@@ -93,10 +93,10 @@ height="511" %}
 <p>Platner, S., and T. Ashby. 1929. <em>A Topographical Dictionary of Ancient Rome</em>. Oxford University Press. <a href="http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html" class="uri">http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html</a>.</p>
 </div>
 <div id="ref-RathjeLund">
-<p>Rathje, Annette, and John Lund. 1991. “Danes Overseas - a Short History of Danish Classical Archaeological Fieldwork.” <em>Acta Hyperborea</em>, no. 3. Museum Tusculanum: 11–56.</p>
+<p>Rathje, A., and J. Lund. 1991. “Danes Overseas - a Short History of Danish Classical Archaeological Fieldwork.” <em>Acta Hyperborea</em>, no. 3. Museum Tusculanum: 11–56.</p>
 </div>
 <div id="ref-Rose">
-<p>Rose, Charles B. 2005. “The Parthians in Augustan Rome” 109 (January): 21–75.</p>
+<p>Rose, C. B. 2005. “The Parthians in Augustan Rome” 109 (January): 21–75.</p>
 </div>
 <div id="ref-Simpson">
 <p>Simpson, C. J. 1992. “On the Unreality of the Parthian Arch.” <em>Latomus</em> 51 (4). Societe d’Etudes Latines de Bruxelles: 835–42. <a href="http://www.jstor.org/stable/41536451" class="uri">http://www.jstor.org/stable/41536451</a>.</p>
