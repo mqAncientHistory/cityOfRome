@@ -1,3 +1,3 @@
-# Department Blog
+# City of Rome Blog
 
-Working up of the MQ Ancient History blog.
+Working up of the MQ City of Rome blog.
