@@ -89,7 +89,7 @@ height="503" %}
 <p>Bonding was a technique used by the Romans to level, stabilize and even decorate walls with brickwork, through specific organisation and placement of bricks. One of the earliest examples of this technique can be found at the Colosseum. Bonding courses of <em>bipedalis</em><a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> at Trajan’s Market appear alongside construction features like vaults, arches, windows and floor levels <span class="citation" data-cites="Lancaster2">(Lancaster <a href="#ref-Lancaster2">1998</a>: 283-285)</span>. The use of bonding in such places suggests that this method was used to increase the strength and stability of the complex. <em>Bipedalis</em> courses that are bonded also appear yellow in colour and are often thicker than the average brick-faced wall, making them stand out. A fine example of this can be seen found on the ground floor of the hemicycle, where you can clearly see where the yellow pattern of courses meets the travertine arches <span class="citation" data-cites="Lancaster2">(Lancaster <a href="#ref-Lancaster2">1998</a>: 287)</span> (<em>fig. 5</em>).</p>
 
 {% include lightbox.html
-caption="*Figure 5.* Bonding courses as seen on the ground floor of
+caption="*Figure 5.* Bonding courses (indicated by arrows) as seen on the ground floor of
 the hemicycle. Photo by Ray Laurence"
 image="Markets/TMFigure5.jpg"
 width="4032"
@@ -112,18 +112,20 @@ height="3216" %}
 <h1 id="laws">Laws</h1>
 <p>By looking at legal documents, we are able to see how the administration process assisted the development of buildings like Trajan’s Markets. According to ancient sources, building codes regulated the construction of both public and private structures (<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/De_Aquis/text*.html#2.119">Frontin. <em>Aq</em>. 2.119</a>). The Digest of Justinian, a compendium of writings about Roman law under the Emperor Justinian I, describes the roles of Roman <em>redemptors</em>, demonstrating the importance of planning and regulation for buildings in Rome (<a href="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#VIII"><em>Dig</em>. 50.8.2.11</a>; <a href="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#X">50.10.2.1</a>). The contracts - <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Obligationes.html"><em>stipulatio</em></a> and <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Locatio.html"><em>locatio</em> <em>conductio</em></a> were most common during this time, with the former referring to an oral agreement and the latter, a more detailed arrangement, which outlined skill, labour and cost. Without these laws, Romans would not have been able to co-ordinate and construct grand-scale projects like, Trajan’s Markets.</p>
 
-{% include lightbox.html
-caption="*Figure 7.* Trajan's Markets at night. Photo by [Pufacz](https://commons.wikimedia.org/wiki/File%3AHaleTrajana_Night2.JPG), Public Domain"
-image="Markets/TMFigure7.jpg"
-width="800"
-height="502" %}
-
 <h1 id="construction-teams">Construction Teams</h1>
 <p>Both written and archaeological evidence indicates that groups of different builders constructed Trajan’s Market. According to ancient writers (<a href="https://www.poetryintranslation.com/PITBR/Latin/StatiusSilvaeBkIV.php#anchor_Toc317239405">Stat. <em>Silv</em>. 4.3.40-53</a>; <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D7%3Achapter%3D1%3Asection%3D3">Vitr. 7.1.3</a>; <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0073%3Abook%3D7%3Achapter%3D3%3Asection%3D10">7.3.10</a>), builders generally worked in small groups called <em>decuria</em> <span class="citation" data-cites="BroekaertandZuiderhoek">(Broekaert and Zuiderhoek <a href="#ref-BroekaertandZuiderhoek">2013</a>: 328)</span>. Trajan’s Market would have required several building teams in order to tackle such a grand space. Fluctuations between the heights of <em>bipedalis</em> courses along the hemicycle facade indicate that more than one building team constructed Trajan’s Market. If you look closely at the hemicycle walls, you can find disruptions in the brick bond patterns, suggesting that masons would have worked side by side, regularly bringing the walls back into alignment. Today, masons call these discrepancies ‘pigs,’ an interesting name for an adjusted brick piece <span class="citation" data-cites="Lancaster2">(Lancaster <a href="#ref-Lancaster2">1998</a>: 291)</span>.</p>
 <h1 id="are-we-romans">Are We Romans?</h1>
 <p>We can find many similarities between ancient Romans and ourselves. From our love of shops, to our strict building codes, it is clear that many of our modern ideas have come from ancient concepts. Trajan’s Market offers the best of imperial architecture, providing us with some of the greatest examples of Roman innovation and design. By examining building techniques along with written evidence, we gain a greater appreciation of Trajan’s Market, as we see how Roman architects overcame the difficulties faced in building a multi-story complex into the side of a hill.</p>
 <p>So what do you say?</p>
 <p>Come and visit Trajan’s Market today!</p>
+
+{% include lightbox.html
+caption="*Figure 7.* Trajan's Markets at night. Photo by [Pufacz](https://commons.wikimedia.org/wiki/File%3AHaleTrajana_Night2.JPG), Public Domain"
+image="Markets/TMFigure7.jpg"
+width="800"
+height="502" %}
+
+
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
 <div id="refs" class="references">
 <div id="ref-BroekaertandZuiderhoek">
