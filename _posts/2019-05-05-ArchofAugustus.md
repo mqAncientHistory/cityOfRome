@@ -96,7 +96,7 @@ height="511" %}
 <p>Rathje, A., and J. Lund. 1991. “Danes Overseas - a Short History of Danish Classical Archaeological Fieldwork.” <em>Acta Hyperborea</em>, no. 3. Museum Tusculanum: 11–56.</p>
 </div>
 <div id="ref-Rose">
-<p>Rose, C. B. 2005. “The Parthians in Augustan Rome.” <em>American Journal of Archaeology</em> 109 (1). Archaeological Institute of America: 21–75. <a href="http://www.jstor.org/stable/40025103" class="uri>http://www.jstor.org/stable/40025103</a>.</p>
+<p>Rose, C. B. 2005. “The Parthians in Augustan Rome.” <em>American Journal of Archaeology</em> 109 (1). Archaeological Institute of America: 21–75. <a href="http://www.jstor.org/stable/40025103" class="uri">https://www.jstor.org/stable/40025103</a>.</p>
 </div>
 <div id="ref-Simpson">
 <p>Simpson, C. J. 1992. “On the Unreality of the Parthian Arch.” <em>Latomus</em> 51 (4). Societe d’Etudes Latines de Bruxelles: 835–42. <a href="http://www.jstor.org/stable/41536451" class="uri">http://www.jstor.org/stable/41536451</a>.</p>
