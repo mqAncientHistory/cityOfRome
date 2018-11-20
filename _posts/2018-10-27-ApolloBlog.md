@@ -59,7 +59,7 @@ width="527"
 height="397" %}
 
 <p>
-However, while the origin of this temple is important, it is it’s restoration that is far more interesting. The temple of Apollo Medicus stood for several centuries, the passing of which left its mark on the building. Eventually, in 32 BCE, the temple was restored by the consul, C. Sosius, and the Temple of Apollo Medicus was subsequently often described by the epithet <em>Sosianus</em>. Sosius began building the temple just prior to Octavian’s battle with Antony for supremacy in Rome, the latter of whom he supported. However, after Antony’s defeat, Augustus seems to have forgiven Sosius for not supporting him, giving him the time to continue with the temple’s restoration <span class="citation" data-cites="JV99">(JV99 <a href="#ref-JV99">2017</a>)</span>. Augustus claimed divinity from Apollo, and it is possible that restoring this temple restored Sosius in Augustus’ eyes.
+However, while the origin of this temple is important, it is it’s restoration that is far more interesting. The temple of Apollo Medicus stood for several centuries, the passing of which left its mark on the building. Eventually, in 32 BCE, the temple was restored by the consul, C. Sosius, and the Temple of Apollo Medicus was subsequently often described by the epithet <em>Sosianus</em>. Sosius began building the temple just prior to Octavian’s battle with Antony for supremacy in Rome, the latter of whom he supported. However, after Antony’s defeat, Augustus seems to have forgiven Sosius for not supporting him, giving him the time to continue with the temple’s restoration <span class="citation" data-cites="JV99">(Crittenden <a href="#ref-JV99">2017</a>)</span>. Augustus claimed divinity from Apollo, and it is possible that restoring this temple restored Sosius in Augustus’ eyes.
 </p>
 
 {% include lightbox.html
@@ -161,7 +161,7 @@ Further Reading
 <a href="https://www.jstor.org/stable/42662641?seq=1#page_scan_tab_contents">Hill, The Temples and Statues of Apollo in Rome&quot;, <em>The Numismatic Chronicle and Journal of the Royal Numismatic Society</em></a>
 </p>
 <p>
-<a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/">JV99, The Temple of Apollo Medicus Sosianus: Restoration under Augustus, University of Kent</a>
+<a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/">Mark Crittenden, The Temple of Apollo Medicus Sosianus: Restoration under Augustus, University of Kent</a>
 </p>
 <h1 id="bibliography" class="unnumbered">
 Bibliography
@@ -179,7 +179,7 @@ Hill, PHILIP V. 1962. “THE Temples and Statues of Apollo in Rome.” <em>The N
 </div>
 <div id="ref-JV99">
 <p>
-JV99, University of Kent. 2017. “The Temple of Apollo Medicus Sosianus: Restoration and Politics Under Augustus.” University of Kent. <a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#" class="uri">https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#</a>.
+Crittenden, Mark. 2017. “The Temple of Apollo Medicus Sosianus: Restoration and Politics Under Augustus.” University of Kent. <a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#" class="uri">https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#</a>.
 </p>
 </div>
 <div id="ref-Zanker">
