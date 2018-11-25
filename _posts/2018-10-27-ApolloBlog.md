@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: '/assets/images/Apollo/ApolloLyre.jpg'
-caption: '‘An image taken by Carole Raddato of a fresco fragment from the vicinity of Augustus house, depicting Apollo with a Lyre.'
+caption: 'An image taken by Carole Raddato of a fresco fragment from the vicinity of Augustus house, depicting Apollo with a Lyre.'
 captionLink: https://commons.wikimedia.org/wiki/File:Apollo_with_lyre,_fresco_fragment_from_the_vicinity_of_Augustus_house,_Palatine_Museum,_Rome_(8401736810).jpg
 title: "Apollo: Foreigner in Rome"
 date: 2018-10-27 16:00:00
