@@ -34,7 +34,7 @@ height="1199" %}
 
 
 <p>
-Romans commonly used mythology to identify themselves with certain ancestral lineages. For example, the Roman poet, Virgil, crafts Aeneas’ backstory to reinforce Julius Caesar’s claim to being descended from Venus through Aeneas (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0054%3Abook%3D1%3Acard%3D254">Virgil, <em>Aeneid</em>, 1.254</a>). As Caesar’s adopted son, Augustus (<em>fig. 2</em>) would have therefore also claimed descendancy from Venus. However, Augustus seems to have had a deep affinity to Apollo, and often used his association with the god during military campaigns to grant himself divine protection <span class="citation" data-cites="Zanker">(Zanker <a href="#ref-Zanker">1990</a>)</span>, as we shall see further on.
+Romans commonly used mythology to identify themselves with certain ancestral lineages. For example, the Roman poet, Virgil, crafted Aeneas’ background to be traceable to Venus; thus, Julius Caesar could also claim descendancy to Venus through tracing his lineage to Aeneas. (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0054%3Abook%3D1%3Acard%3D254">Virgil, <em>Aeneid</em>, 1.254</a>). As Caesar’s adopted son, Augustus (<em>fig. 2</em>) would have therefore also claimed descendancy from Venus. However, Augustus seems to have had a deep affinity to Apollo, and often used his association with the god during military campaigns to grant himself divine protection <span class="citation" data-cites="Zanker">(Zanker <a href="#ref-Zanker">1990</a>)</span>, as we shall see further on.
 </p>
 
 {% include lightbox.html
