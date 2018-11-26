@@ -172,7 +172,7 @@ Bibliography
 <div id="refs" class="references">
 <div id="ref-Darvill">
 <p>
-Darvill, Timothy. 2008. <em>The Concise Oxford Dictionary of Archeaology</em>. 2nd ed. Oxford University Press. <a href="http://www.oxfordreference.com/abstract/10.1093/acref/9780199534043.001.0001/acref-9780199534043-e-4824?rskey=ttkVxJ&amp;result=2080" class="uri">http://www.oxfordreference.com/abstract/10.1093/acref/9780199534043.001.0001/acref-9780199534043-e-4824?rskey=ttkVxJ&amp;result=2080</a>.
+Darvill, T. 2008. <em>The Concise Oxford Dictionary of Archeaology</em>. 2nd ed. Oxford University Press. <a href="http://www.oxfordreference.com/abstract/10.1093/acref/9780199534043.001.0001/acref-9780199534043-e-4824?rskey=ttkVxJ&amp;result=2080" class="uri">http://www.oxfordreference.com/abstract/10.1093/acref/9780199534043.001.0001/acref-9780199534043-e-4824?rskey=ttkVxJ&amp;result=2080</a>.
 </p>
 </div>
 <div id="ref-Hill">
@@ -187,12 +187,12 @@ Crittenden, M. 2017. “The Temple of Apollo Medicus Sosianus: Restoration and P
 </div>
 <div id="ref-Zanker">
 <p>
-Zanker, Paul. 1990. <em>The Power of Images in the Age of Augustus</em>. 1st pbk. ed. Ann Arbor University of Michigan Press. <a href=" http://openlibrary.org/books/OL18314706M ">http://openlibrary.org/books/OL18314706M</a>.
+Zanker, P. 1990. <em>The Power of Images in the Age of Augustus</em>. 1st ed. Ann Arbor University of Michigan Press. <a href=" http://openlibrary.org/books/OL18314706M ">http://openlibrary.org/books/OL18314706M</a>.
 </p>
 </div>
 <div id="ref-Zink">
 <p>
-Zink, Stephan. 2008. “Reconstructing the Palatine Temple of Apollo: A Case Study in Early Augustan Temple Design.” <em>Journal of Roman Archaeology</em> 21. Cambridge University Press: 47–63. <a href="https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/reconstructing-the-palatine-temple-of-apollo-a-case-study-in-early-augustan-temple-design/352566D31141462F14B9D71926FD33AC" class="uri">https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/reconstructing-the-palatine-temple-of-apollo-a-case-study-in-early-augustan-temple-design/352566D31141462F14B9D71926FD33AC</a>.
+Zink, S. 2008. “Reconstructing the Palatine Temple of Apollo: A Case Study in Early Augustan Temple Design.” <em>Journal of Roman Archaeology</em> 21. Cambridge University Press: 47–63. <a href="https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/reconstructing-the-palatine-temple-of-apollo-a-case-study-in-early-augustan-temple-design/352566D31141462F14B9D71926FD33AC" class="uri">https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/reconstructing-the-palatine-temple-of-apollo-a-case-study-in-early-augustan-temple-design/352566D31141462F14B9D71926FD33AC</a>.
 </p>
 </div>
 </div>
