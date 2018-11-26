@@ -84,7 +84,7 @@ height="900" %}
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
 <div id="refs" class="references">
 <div id="ref-Byles">
-<p>Byles, R., 2013. “Fire and Its Consequences in the City of Rome in Antiquity, 390 Bc – Ad 410.” <a href="https://cronfa.swan.ac.uk/Record/cronfa42629" class="uri">https://cronfa.swan.ac.uk/Record/cronfa42629</a>.</p>
+<p>Byles, R., 2013. “Fire and Its Consequences in the City of Rome in Antiquity, 390 BC – AD 410.” <a href="https://cronfa.swan.ac.uk/Record/cronfa42629" class="uri">https://cronfa.swan.ac.uk/Record/cronfa42629</a>.</p>
 </div>
 <div id="ref-IcoveHaynes">
 <p>Icove, D., and Haynes, G. 2017. <em>Kirk’s Fire Investigation, 8th Edition</em>. Pearson. <a href="https://www.researchgate.net/publication/320707890_Kirk&#39;s_Fire_Investigation_8th_Edition" class="uri">https://www.researchgate.net/publication/320707890_Kirk's_Fire_Investigation_8th_Edition</a>.</p>
