@@ -98,19 +98,19 @@ The Temple of Apollo Palatinus is credited as one of Augustus’ most magnificen
 </p>
 
 {% include lightbox.html
-caption="*Figure 5.* Plan of the Temple of Apollo Palatinus (Temple d'Apollon) on the Palatine Hill. Note that it is connected to the 'House of Augustus (Maison d'Auguste)'. Plan by [Cassius Ahenobarbus](https://commons.wikimedia.org/wiki/File:Area_apollonis_map.png), used under CC BY-SA 3.0."
+caption="*Figure 5.* Plan of the Temple of Apollo Palatinus (Temple d'Apollon) on the Palatine Hill. Note that it is connected to the 'House of Augustus' (Maison d'Auguste). Plan by [Cassius Ahenobarbus](https://commons.wikimedia.org/wiki/File:Area_apollonis_map.png), used under CC BY-SA 3.0."
 image="Apollo/PlanofTemple.png"
 width="1030"
 height="878" %}
 
 <p>
-However, this description of the Temple of Apollo Palatinus is indirectly challenged by archaeologist Stephan Zink, who states that “despite its fundamental importance for early Augustan temple design, the architecture of the temple of <em>Apollo in Patio</em> remains notoriously unknown” <span class="citation" data-cites="Zink">(Zink <a href="#ref-Zink">2008</a>: 47)</span>. This is because the temple, in its current state of preservation, is little more than the foundations and scattered blocks. There have been several attempts to reconstruct it, yet none have been overwhelmingly accepted by the archaeological community as no explanation can be of any real value unless it can be corroborated by the archaeological evidence.
+However, this description of the Temple of Apollo Palatinus is indirectly challenged by archaeologist Stephan Zink, who states that, “despite its fundamental importance for early Augustan temple design, the architecture of the temple of <em>Apollo in Patio</em> remains notoriously unknown” <span class="citation" data-cites="Zink">(Zink <a href="#ref-Zink">2008</a>: 47)</span>. This is because the temple, in its current state of preservation, is little more than the foundations and scattered blocks. There have been several attempts to reconstruct it, yet none have been overwhelmingly accepted by the archaeological community as no explanation can be of any real value unless it can be corroborated by the archaeological evidence.
 </p>
 <p>
 Whereas Apollo’s original temple focused on him as a god of medicine, Apollo’s second temple emphasised his prophetic nature. This can be seen by the placing of the Sibylline books by Augustus underneath the statue of Apollo. These were a set of oracular books from the Roman kingdom which contained prophecies for the future of Rome. The Sibylline books had previously resided in the Temple of Jupiter Capitalinus, the most important temple in Rome <span class="citation" data-cites="Hill">(Hill <a href="#ref-Hill">1962</a>: 133)</span>; thus, by moving them to Temple of Apollos, Augustus also transferred some of Jupiter’s authority to Apollo.
 </p>
 <p>
-Another way in which Augustus changed the nature of Apollo was in regards to the <em>ludi saeculares.</em><a href="#fn5" class="footnote-ref" id="fnref5"><sup>5</sup></a> The games marked the end of a <em>saeculum</em>, a period of 110 years, the longest a human could live. The Temple of Apollo Palatinus was a key part of the celebrations with processions and sacrifices being held there. These games continued to occur until the rise of Christian emperors, ensuring that Apollo would remain on the same tier of worship as that of Jupiter, Mars, and Minerva.
+Another way in which Augustus changed the nature of Apollo was in regards to the <em>ludi saeculares.</em><a href="#fn5" class="footnote-ref" id="fnref5"><sup>5</sup></a> The games marked the end of a <em>saeculum</em>, a period of 110 years, the longest a human could live. The Temple of Apollo Palatinus was a key part of the celebrations with processions and sacrifices being held there. These games continued to occur until the rise of Christian emperors, ensuring that Apollo would remain on the same tier of worship as that of Jupiter, Mars and Minerva.
 </p>
 <p>
 This continual use of the temple by the senate and for the <em>ludi saeculares</em> can be seen as Augustus’ way of legitimizing and reinforcing his right to rule over Rome. The temple stood as a reminder of his victory at Actium and his semi-divine status, while the addition of the Sibylline books also linked Apollo to the future of Rome. In short, Apollo had become the paragon of power in Rome through the Temple of Apollo Palatinus, and would remain as such long after the Augustan age.
@@ -119,14 +119,14 @@ This continual use of the temple by the senate and for the <em>ludi saeculares</
 Numismatic Evidence: Apollo &amp; Augustus - Father and Son?
 </h1>
 <p>
-Whilst Apollo had only two temples in Rome, his exposure to the city and the empire was far more widespread. Augustus was not the first ruler of Rome to link himself familiarly to a god, yet was the first to do so with Apollo. He believed Apollo to be the reason that he became emperor of Rome and, subsequently, claimed to be a son of the god <span class="citation" data-cites="Hill">(Hill <a href="#ref-Hill">1962</a>: 129)</span>. In order to ensure that the empire knew of his lucrative lineage, Augustus used a method of political propaganda transmission that is still continued today: coinage. These coins, although not directly linked to Apollo’s temples, are the only other physical evidence we have to observe Apollo in Rome. Through them we are given an insight into the way in which the majority of Romans would be familiar with the god, as father to the most powerful mortal in the world.
+Whilst Apollo had only two temples in Rome, his exposure to the city and wider empire was far more widespread. Augustus was not the first ruler of Rome to link himself familiarly to a god, yet was the first to do so with Apollo. He believed Apollo to be the reason that he became emperor of Rome and, subsequently, claimed to be a son of the god <span class="citation" data-cites="Hill">(Hill <a href="#ref-Hill">1962</a>: 129)</span>. In order to ensure that the empire knew of this lucrative lineage, Augustus used a method of political propaganda transmission that is still continued today: coinage. These coins, although not directly linked to Apollo’s temples, are the only other physical evidence we have to observe Apollo in Rome. Through them we are given an insight into the way in which the majority of Romans would be familiar with the god, as father to the most powerful mortal in the world.
 </p>
 <p>
-Coinage from the Republic often depicts the Laureate head of Apollo (<em>fig. 6</em>). A number of examples of the Laureate head of Apollo and Apollo in a quadriga, holding a bow and arrow in one hand and a laurel branch in the other, can be found on the Coinage of the Roman Republic Online collection (<a href="http://numismatics.org/crro/id/rrc-26.2">RRC 26/2</a>, <a href="http://numismatics.org/crro/id/rrc-236.1b">236/1b</a>). This association between Apollo and the laurel branch is one that has been brought from Greek mythology, symbolising victory and honour.
+Coinage from the Republic often depicts the laureate head of Apollo (<em>fig. 6</em>). A number of examples of the Laureate head of Apollo and Apollo in a quadriga, holding a bow and arrow in one hand and a laurel branch in the other, can be found in the Coinage of the Roman Republic Online collection (<a href="http://numismatics.org/crro/id/rrc-26.2">RRC 26/2</a>, <a href="http://numismatics.org/crro/id/rrc-236.1b">236/1b</a>). This association between Apollo and the laurel branch is one that has been brought from Greek mythology, symbolising victory and honour.
 </p>
 
 {% include lightbox.html
-caption="*Figure 6.* Obverse of a Republican coin depicting a Laureate Head of Apollo minted in the 230's BC, RRC 26(1) [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
+caption="*Figure 6.* Obverse of a Republican coin depicting a laureate head of Apollo minted in the 230's BC, RRC 26(1) [ACANS Gale Collection](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/australian-centre-for-ancient-numismatic-studies/collections)."
 image="Apollo/LaureateHeadApollo.png"
 width="449"
 height="424" %}
@@ -139,10 +139,11 @@ Depictions of Apollo on coins from the Roman Empire often portray the god standi
 </p>
 
 {% include lightbox.html
-caption="*Figure 7.* Apollo depicted on a gold aureus celebrating Augustus' victory at Actium, now held in the Museo archeologico nazionale, Florence, RIC I 170. Photo by [Sailko](https://commons.wikimedia.org/wiki/File:Augusto,_aureo_con_apollo_citaredo.JPG), used under CC BY-SA 3.0."
+caption="*Figure 7.* Apollo depicted on a gold aureus celebrating Augustus' victory at Actium, now held in the Museo Archeologico Nazionale, Florence, RIC I 170. Photo by [Sailko](https://commons.wikimedia.org/wiki/File:Augusto,_aureo_con_apollo_citaredo.JPG), used under CC BY-SA 3.0."
 image="Apollo/ApolloOnCoin.png"
 width="364"
 height="362" %}
+
 
 <p>
 The Lyre is a common icon attached to Apollo on both coins and statues, symbolism borne throughout the republic to empire. A coin dating to the rule of Hadrian has a depiction of Apollo standing with a raven in one hand and a branch in the other (<a href="http://numismatics.org/ocre/id/ric.2.hdn.484">RIC II Hadrian 484</a>). Another from the later empire shows Apollo seated, holding an olive branch (<a href="http://numismatics.org/ocre/id/ric.5.cara.197">RIC V Carausius 197</a>).
@@ -154,16 +155,16 @@ Through these coins, it is interesting to see how a distinctly Greek god can be 
 Apollo &amp; Rome: Sweet Memoires
 </h1>
 <p>
-Unlike many of Rome’s major gods, such as Jupiter, Minerva, and Mars, Apollo only had two temples in Rome. Yet these two temples tell us much about Apollo in Rome. The Temple of Apollo Sosianus reflects that, while Apollo was a very Roman god by the time of Augustus, his Greek ancestry was important; this evident as Sosius’ restoration “doubled down” on Apollo’s Greek heritage. Through Apollo’s dual citizenship, so to speak, we see that, even in the same city, gods can reflect different natures. The Temple of Apollo Palatinus provides insight on Apollo’s relationship with Augustus and how he paved the way for the Roman Empire. It is interesting to note that, in history, the characters responsible for the most influential changes in a society are commonly mythological. Apollo is no different, and through the works left behind, we are able to gain a snapshot into how the Romans viewed this titanic god. The concept of an Hellenic Apollo within the city of Rome is fascinating, and leaves the door open for further discussion regarding the introduction of other Hellenic deities, such as Cybele/Magna Mater, to the City of Rome.
+Unlike many of Rome’s major gods, such as Jupiter, Minerva and Mars, Apollo only had two temples in Rome. Yet these two temples tell us much about Apollo in Rome. The Temple of Apollo Sosianus reflects that, while Apollo was a very Roman god by the time of Augustus, his Greek ancestry was important; this is evident as Sosius’ restoration 'doubled down' on Apollo’s Greek heritage. Through Apollo’s dual citizenship, so to speak, we see that, even in the same city, gods can reflect different natures. The Temple of Apollo Palatinus provides insight on Apollo’s relationship with Augustus and how he paved the way for the Roman Empire. It is interesting to note that, in history, the characters responsible for the most influential changes in a society are commonly mythological. Apollo is no different, and through the works left behind, we are able to gain a snapshot into how the Romans viewed this titanic god. The concept of an Hellenic Apollo within the city of Rome is fascinating, and leaves the door open for further discussion regarding the introduction of other Hellenic deities, such as Cybele/Magna Mater, to the city of Rome.
 </p>
 <h1 id="further-reading">
 Further Reading
 </h1>
 <p>
-<a href="https://www.jstor.org/stable/42662641?seq=1#page_scan_tab_contents">Hill, The Temples and Statues of Apollo in Rome&quot;, <em>The Numismatic Chronicle and Journal of the Royal Numismatic Society</em></a>
+<a href="https://www.jstor.org/stable/42662641?seq=1#page_scan_tab_contents">Hill, The Temples and Statues of Apollo in Rome&quot;, <em>The Numismatic Chronicle and Journal of the Royal Numismatic Society.</em></a>
 </p>
 <p>
-<a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/">Mark Crittenden, The Temple of Apollo Medicus Sosianus: Restoration under Augustus, University of Kent</a>
+<a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/">Mark Crittenden, The Temple of Apollo Medicus Sosianus: Restoration under Augustus, University of Kent.</a>
 </p>
 <h1 id="bibliography" class="unnumbered">
 Bibliography
@@ -176,12 +177,12 @@ Darvill, Timothy. 2008. <em>The Concise Oxford Dictionary of Archeaology</em>. 2
 </div>
 <div id="ref-Hill">
 <p>
-Hill, PHILIP V. 1962. “THE Temples and Statues of Apollo in Rome.” <em>The Numismatic Chronicle and Journal of the Royal Numismatic Society</em> 2. Royal Numismatic Society: 125–42. <a href="http://www.jstor.org/stable/42662641" class="uri">http://www.jstor.org/stable/42662641</a>.
+Hill, P. V. 1962. “The Temples and Statues of Apollo in Rome.” <em>The Numismatic Chronicle and Journal of the Royal Numismatic Society</em> 2. Royal Numismatic Society: 125–42. <a href="http://www.jstor.org/stable/42662641" class="uri">http://www.jstor.org/stable/42662641</a>.
 </p>
 </div>
 <div id="ref-JV99">
 <p>
-Crittenden, Mark. 2017. “The Temple of Apollo Medicus Sosianus: Restoration and Politics Under Augustus.” University of Kent. <a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#" class="uri">https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#</a>.
+Crittenden, M. 2017. “The Temple of Apollo Medicus Sosianus: Restoration and Politics Under Augustus.” University of Kent. <a href="https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#" class="uri">https://blogs.kent.ac.uk/lucius-romans/2017/06/13/the-temple-of-apollo-medicus-sosianus-restoration-and-politics-under-augustus/#</a>.
 </p>
 </div>
 <div id="ref-Zanker">
