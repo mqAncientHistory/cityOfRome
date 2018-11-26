@@ -78,7 +78,7 @@ height="900" %}
 <li><p><em>Vigiles</em>:</p>
 <ul class="incremental">
 <li><p>Rainbird, J. S., 1986. ‘Fire Stations of Imperial Rome’ in <em>Papers of the British School at Rome,</em> vol. 54. pp: 147-69.</p></li>
-<li><p>Fuhrmann, C., 2005. <em>Keeping the imperial peace: Public Order, state control and policing in the Roman Empire during the first three centuries AD,</em> PhD Thesis, University of North Carolina</p></li>
+<li><p>Fuhrmann, C., 2005. <em>Keeping the imperial peace: Public Order, state control and policing in the Roman Empire during the first three centuries AD,</em> PhD Thesis, University of North Carolina.</p></li>
 </ul></li>
 </ul>
 <h1 id="bibliography" class="unnumbered">Bibliography</h1>
