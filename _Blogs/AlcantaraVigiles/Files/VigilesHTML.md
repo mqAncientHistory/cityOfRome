@@ -1,0 +1,106 @@
+---
+layout: post
+cover: '/assets/images/Vigiles/FireofRome.png'
+caption: '‘The Fire of Rome’ by Hubert Robert, 1785, WikiCommons, Public Domain.'
+captionLink: https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_The_Fire_of_Rome_-_Google_Art_Project.jpg
+title: "The Firefighters of Ancient Rome"
+date: 2018-10-29 16:00:00
+tags:
+ - rome
+ - fire
+ - vigiles
+ - fire of rome
+category:
+ - post
+author: jenelle
+---
+
+<h1 id="the-fire-fighters-of-ancient-rome">The Fire Fighters of Ancient Rome</h1>
+<p><em>We saw last week about the great fire of Rome in AD 64; now let’s take a look at the men who had to face it! This week, J. Alcantara examines the unsung heroes of ancient Rome, the Vigiles. In a time when the average Roman house was largely wooden, when fires ran rampant through the city, these brave men fought to protect their capital. How did they do it? Let’s find out…</em></p>
+<p>Imagine you are hosting a dinner, entertaining a few guests, when in rush men wearing hobnailed sandals and hooded ponchos. Some carry buckets of water, others are swinging axes, all looking to extinguish the fire. Yet, there isn’t one. According to <a href="https://www.loebclassics.com/view/seneca_younger-epistles/1917/pb_LCL075.439.xml">Seneca (ep. 64.1)</a> and <a href="http://www.logoslibrary.org/tertullian/apology/39.html">Tertullian (Tert. Apology. 39)</a>, this was one way in which the <em>Vigiles</em><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> were made the butt of a very specific, Roman joke; the punchline of which involved the Vigiles crashing through lavish Roman dinner parties, their alarm raised by the smoke rising from kitchen chimneys. We hear more of this particular faux pas in a section of Petronius’ <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0027%3Atext%3DSatyricon%3Asection%3D78">“Banquet of Trimalchio” (Petr. Sat. 78)</a>. It begins with Trimalchio holding a mock funeral for himself when a trumpeter’s unnaturally loud blast of his instrument accidentally summons the Vigiles. The main characters of Petronius’ novel welcome the chaotic diversion, using it as an opportunity to escape from a rather awkward banquet. Yet, that isn’t the last we hear of our Roman fire fighters!</p>
+<h1 id="a-city-in-flames">A City in Flames</h1>
+<p>It can be a difficult prospect to imagine a modern city regularly alight. However, for those living in Rome, fire was one of the city’s most defining characteristics. From the <em>Temple of Vesta</em><a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>, in which the sacred flame would burn ceaselessly, to the cataclysmic infernos that forced Emperors to rebuild their city from the ashes, fire was woven into the very fabric of Roman society. The daily struggle of coping with fires in Rome is highlighted by the poet <a href="http://www.tertullian.org/fathers/juvenal_satires_03.htm">Juvenal (sat. 3.197-202)</a> in his critique of city living: “No, no, I must live where there are no fires, no nightly alarms. Ucalegon below is already shouting for water… smoke is pouring out of your third-floor attic above, but you know nothing of it; for if the alarm begins in the ground-floor, the last man to burn will be he who has nothing to shelter him from the rain but the tiles…” Rainbird estimated a daily average of 100 fires that required the attention of the Vigiles, yet only 2 of these 100 were actually serious threats to the city <span class="citation" data-cites="Rainbird">(Rainbird <a href="#ref-Rainbird">1976</a>: 376)</span>. With numbers such as these, one can perhaps pardon members of the local fire brigade for accidentally breaking down the front door. They, at least, would have arrived with purer intentions than the Roman politician, Marcus Crassus. Fires and Fortunes</p>
+
+{% include lightbox.html
+caption="*Figure 1.* The Fire of Rome, a painting by [Hubert Robert](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_The_Fire_of_Rome_-_Google_Art_Project.jpg), 1785, Public Domain"
+image="Vigiles/FireofRome.png"
+width="1491"
+height="1198" %}
+
+<p>Managing the constant threat of fire in Rome had always been the responsibility of those who had the wealth and the power to do so. During the Republic, small bands of men were organised under the command of the <em>tresviri nocturni</em><a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a> and the <em>aediles</em><a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> in order to fight fires in the city <span class="citation" data-cites="Ng">(Ng <a href="#ref-Ng">2015</a> : 257)</span>. However, we also have evidence of rich men taking advantage of the flammability of Rome by using it to garner more wealth and fame. <a href="http://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/crassus*.html">Plutarch (Crass. 2.3-4)</a> states that Marcus Crassus, one of the members of the ‘First Triumvirate’<a href="#fn5" class="footnote-ref" id="fnref5"><sup>5</sup></a>, owed a good portion of his wealth to “fire and war”. In order to make the most out of the frequent destruction of houses by fire, Crassus bought over five hundred slaves, all of whom were architects and builders. He then proceeded to find homeowners whose houses had burnt down (or, in some cases, were still burning!) and negotiate the purchase of their property, after which he would reconstruct the buildings and sell them on at a price; the very literal sense of a real estate ‘fire sale’! Both <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/53*.html">Dio (53.24. 4-6)</a> and <a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2C*.html">Paterculus (Roman History, 2.91-3.4</a> mention the aedile Marcus Egnatius Rufus who, in 19BC, also commanded his own gang of slaves for the specific purpose of fighting fires. His administration in this effort was so effective that he became an exceedingly popular figure within the city, culminating in his election into the office of <em>praetor</em><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a> immediately after his aedileship; despite the traditional custom by which a gap should exist between holding these two offices. Thus, it is evident that a certain amount of prestige was associated with protecting the Roman people from fire, and being a Vigile. Firefighting could accrue an individual or group so much prestige and eminence within the city that Augustus’ decision to provide a solution to the fires during his reign can be argued to have had ulterior motives. Not only did it serve the desperate needs of the people, but also extinguished any chance for political rivals to gain power within the city.</p>
+<h1 id="the-little-bucket-fellows">“The Little Bucket Fellows”</h1>
+<p>It was in the aftermath of a devastating fire in AD 6 that Augustus (<em>fig.1</em>) finally established the first permanent fire brigade in ancient Rome. He gathered a corps of 3500 freedmen, later doubled that number, and armed them with fire-fighting equipment, whilst also organising them into seven Cohorts stationed in seven barracks throughout the city <span class="citation" data-cites="Ng">(Ng <a href="#ref-Ng">2015</a> : 257)</span>. Officially, they were known as the <em>Cohortes Vigilum</em><a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a>. However, <a href="http://www.thelatinlibrary.com/tertullian/tertullian.apol.shtml">Tertullian (Apol. 39.15)</a> highlights that they also became colloquially dubbed the Sparteoli, an endearing nickname meaning the “little bucket fellows”. Under Augustus, Rome was divided into 14 regions (<em>fig. 2</em>). Thus, he charged each of the seven cohorts with protecting two regions. Every cohort included 500 men, and was managed by a <em>tribune</em><a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a>, and they were all under the command of an <em>equestrian</em><a href="#fn9" class="footnote-ref" id="fnref9"><sup>9</sup></a> known as the Praefectus Vigilum. Their services were so effective that, according to <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:abo:phi,1348,015:25">Suetonius (Suet. Claud. 25)</a>, Claudius could see their potential uses elsewhere and established cohorts in Ostia and Puteoli, harbours which Rome depended on for much of their supplies.<p>
+
+{% include lightbox.html
+caption="*Figure 2.* A map of the 14 regions of Rome as divided by Augustus, image by [ColdEel and Joris1919](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Regiones.png), 2006-2007, Public Domain"
+image="Vigiles/PlanofRome.png"
+width="1128"
+height="900" %}
+
+<p>In terms of appearance the Vigiles were very similar to that of regular Roman soldiers. The gravestone of Quintius Iulius Galatus, Vexillarius of the 6th cohort of the Vigiles, provides one of the best-known depictions of a Vigile (<em>fig. 3</em>). It seems that they wore a <em>paenula</em><a href="#fn10" class="footnote-ref" id="fnref10"><sup>10</sup></a>, tunic, and were equipped with a short sword (<em>fig. 4</em>) <span class="citation" data-cites="Busch">(Busch <a href="#ref-Busch">2015</a> : 541)</span>. Their additional duties as nightwatchmen explains why the Vigiles were also armed. Indeed, their status as a quasi-military force is also important when discussing their overall impact on Rome.</p>
+
+{% include lightbox.html
+caption="*Figure 3.* Gravestone of Quintius Julius Galatus; taken to be wearing a paenula, and a tunic, and carrying a short sword. This gravestone is currently housed in the Vatican Museum, image courtesy of [Köln University](https://arachne.uni-koeln.de/arachne/index.php?view%5blayout%5d=objekt_item&search%5bconstraints%5d%5bobjekt%5d%5bsearchSeriennummer%5d=99058), used under CC BY-NC-ND 3.0 DE"
+image="Vigiles/Tombstone.png"
+width="268"
+height="400" %}
+
+{% include lightbox.html
+caption="*Figure 4.* Relief of a *vigile* wearing a *paenula*, tunic and short sword, image by [Mike Bishop](https://www.flickr.com/photos/thearmaturapress/32388082263/in/photostream/), 2015, used under CC BY-NC-SA 2.0"
+image="Vigiles/Carving.png"
+width="960"
+height="1280" %}
+
+<h1 id="the-vigil-of-the-vigiles">The vigil of the Vigiles</h1>
+<p>Much of what we know with regards the organisation of the Vigiles and how exactly the fires were fought is thanks to the work of Ulpian and Paul in their <a href="http://nbls.soc.srcf.net/files/files/Civil%20II/Texts/Digest%20of%20Justinian,%20Volume%203%20(D.30-40).pdf">Digest of Justinian</a>. The Vigiles’ firefighting technology, which Ulpian records, included mainly buckets, sponges, and brooms <a href="http://nbls.soc.srcf.net/files/files/Civil%20II/Texts/Digest%20of%20Justinian,%20Volume%203%20(D.30-40).pdf">(Ulpian, Digest of Justinian, 3.7.12.18)</a>, as well as heftier instruments such as <em>siphona</em><a href="#fn11" class="footnote-ref" id="fnref11"><sup>11</sup></a> (<em>fig. 5</em>) and <em>ballistae</em><a href="#fn12" class="footnote-ref" id="fnref12"><sup>12</sup></a> (<em>fig. 6</em>), used to destroy buildings in order to create firebreaks <span class="citation" data-cites="Busch">(Busch <a href="#ref-Busch">2015</a> : 540)</span>. Paul <a href="http://nbls.soc.srcf.net/files/files/Civil%20II/Texts/Digest%20of%20Justinian,%20Volume%201%20(D.1-15).pdf">(Digest of Justinian, 1.15.3.3-4)</a> gives a very detailed statement of the duties of the Praefectus Vigilum: “It should be realised that the prefect of the city guard is obliged to keep watch throughout the whole night… equipped with hooks and axes, and he is obliged to admonish all occupiers not to let fires break out through some carelessness. Moreover, he is under orders to warn everyone to have a supply of water ready in an upstairs room.”</p>
+
+{% include lightbox.html
+caption="*Figure 5.* *Siphona* - a double action force pump, which can only be used within a reservoir of water, image by [Yannopoulos](https://res.mdpi.com/water/water-07-05031/article_deploy/html/images/water-07-05031-g011.png), used under CC BY-NC 4.0"
+image="Vigiles/Pump.png"
+width="3793"
+height="2062" %}
+
+{% include lightbox.html
+caption="*Figure 6.* *Ballistae*: May have been used by the *vigiles* to catapult vessels of water or vinegar into burning buildings to put them out, image by [Pearson Scott Foresman](https://upload.wikimedia.org/wikipedia/commons/f/f1/Ballista_%28PSF%29.png), 2008, image open to Public Domain"
+image="Vigiles/Ballistae.png"
+width="1308"
+height="1198" %}
+
+<p>This statement has generally been taken to describe the duties of not only the Praefectus Vigilum, but that of the entire cohort, specifically with regards to keeping watch throughout the entire night. This is due to a number of reasons. Firstly, the Vigiles’ capacity as a military unit as well as a firefighting one, and secondly, the implication that preventing fires was just as important a feature of the job as fighting them. As in the case of all fires, prevention and early intervention are the strongest defences against them. Thus, daily and nightly military patrols of the regular cohorts would have greatly augmented fire control. As Rainbird highlights, their manpower, speed and complex system of aqueducts more than made up for the simplicity of their technology <span class="citation" data-cites="Rainbird">(Rainbird <a href="#ref-Rainbird">1976</a> : Ch. 8)</span>.<br />
+The Vigiles were a unique and possibly undervalued - certainly by the ancient authors - force operating within Rome. Ironically, the anecdotes of those very same authors provide us with the key to the Vigiles’ success in fighting fires. We are given an insight into the techniques of the Vigiles and the importance they placed on early intervention; so much so that their sensitivity to the smell of smoke and the sound of trumpets was quite extraordinary, if not slightly humorous.</p>
+
+<h1 id="further-reading">Further Reading:</h1>
+<ul class="incremental">
+<li><p>FASNY Museum of Firefighting:</p>
+<ul class="incremental">
+<li><p>FASNY, Developed by Mercury Web Solutions, <em>Then, Now and Always: Firefighting from Ancient Times through the 1900s,</em> FASNY Fire Museum, New York, 2011</p></li>
+
+<h1 id="bibliography" class="unnumbered">Bibliography</h1>
+<div id="refs" class="references">
+<div id="ref-Busch">
+<p>Busch, Alexandra W. 2015. “Instruments of Vigiles.” In <em>The Encyclopedia of the Roman Army</em>, 492–556. American Cancer Society. <a href="https://doi.org/10.1002/9781118318140.wbra0805" class="uri">https://doi.org/10.1002/9781118318140.wbra0805</a>.</p>
+</div>
+<div id="ref-Ng">
+<p>Ng, Michael. 2015. “Cohorts of Vigiles.” In <em>The Encyclopedia of the Roman Army</em>, 122–276. American Cancer Society. <a href="https://doi.org/10.1002/9781118318140.wbra0373" class="uri">https://doi.org/10.1002/9781118318140.wbra0373</a>.</p>
+</div>
+<div id="ref-Rainbird">
+<p>Rainbird, John S. 1976. “The Vigiles of Rome.” <a href="http://etheses.dur.ac.uk/7455/1/7455_4520.PDF?UkUDh:CyT" class="uri">http://etheses.dur.ac.uk/7455/1/7455_4520.PDF?UkUDh:CyT</a>.</p>
+</div>
+</div>
+<section class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Ancient Roman Firefighters<a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn2"><p>A temple dedicated to Vesta, the Roman goddess of the hearth, home and family<a href="#fnref2" class="footnote-back">↩</a></p></li>
+<li id="fn3"><p>The three night-duty officials<a href="#fnref3" class="footnote-back">↩</a></p></li>
+<li id="fn4"><p>Roman magistrates responsible for the maintenance public buildings and regulation of public festivals<a href="#fnref4" class="footnote-back">↩</a></p></li>
+<li id="fn5"><p>An informal political alliance between Julius Caesar, Pompey the Great and Marcus Crassus between 60 and 53 BC<a href="#fnref5" class="footnote-back">↩</a></p></li>
+<li id="fn6"><p>The second highest magistrate position on the cursus honorum under the <em>consul</em><a href="#fnref6" class="footnote-back">↩</a></p></li>
+<li id="fn7"><p>Cohorts of the watchmen<a href="#fnref7" class="footnote-back">↩</a></p></li>
+<li id="fn8"><p>An elected official in Rome, serving in either a civic or military capacity<a href="#fnref8" class="footnote-back">↩</a></p></li>
+<li id="fn9"><p>A noble class of Roman citizens below the senatorial rank<a href="#fnref9" class="footnote-back">↩</a></p></li>
+<li id="fn10"><p>An item of clothing similar to that of a hooded poncho<a href="#fnref10" class="footnote-back">↩</a></p></li>
+<li id="fn11"><p>Water pumping engines<a href="#fnref11" class="footnote-back">↩</a></p></li>
+<li id="fn12"><p>Ancient missile weapon that launched large bolts or javelins<a href="#fnref12" class="footnote-back">↩</a></p></li>
+</ol>
+</section>
