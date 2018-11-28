@@ -84,7 +84,7 @@ height="511" %}
 <p>Gurval, R.A. 1998. <em>Actium and Augustus: The Politics and Emotions of Civil War</em>. University of Michigan Press. <a href="https://books.google.com.au/books?id=qVd4vuhkVqcC" class="uri">https://books.google.com.au/books?id=qVd4vuhkVqcC</a>.</p>
 </div>
 <div id="ref-Holland">
-<p>Holland, Leicester B. 1946. “The triple-arch of Augustus.” <em>American Journal of Archaeology</em> 50 (1). Archaeological Institute of America: 52–59. <a href="http://www.jstor.org/stable/499748" class="uri">http://www.jstor.org/stable/499748</a>.</p>
+<p>Holland, Leicester B. 1946. “The triple-arch of Augustus.” <em>AJA</em> 50 (1). Archaeological Institute of America: 52–59. <a href="http://www.jstor.org/stable/499748" class="uri">http://www.jstor.org/stable/499748</a>.</p>
 </div>
 <div id="ref-Lanciani">
 <p>Lanciani, R. 1897. <em>The Ruins and Excavations of Ancient Rome</em>. Boston; New York, Houghton, Mifflin; Company.</p>
@@ -96,7 +96,7 @@ height="511" %}
 <p>Rathje, A., and J. Lund. 1991. “Danes Overseas - a Short History of Danish Classical Archaeological Fieldwork.” <em>Acta Hyperborea</em>, no. 3. Museum Tusculanum: 11–56.</p>
 </div>
 <div id="ref-Rose">
-<p>Rose, C. B. 2005. “The Parthians in Augustan Rome.” <em>American Journal of Archaeology</em> 109 (1). Archaeological Institute of America: 21–75. <a href="http://www.jstor.org/stable/40025103" class="uri">https://www.jstor.org/stable/40025103</a>.</p>
+<p>Rose, C. B. 2005. “The Parthians in Augustan Rome.” <em>AJA</em> 109 (1). Archaeological Institute of America: 21–75. <a href="http://www.jstor.org/stable/40025103" class="uri">https://www.jstor.org/stable/40025103</a>.</p>
 </div>
 <div id="ref-Simpson">
 <p>Simpson, C. J. 1992. “On the Unreality of the Parthian Arch.” <em>Latomus</em> 51 (4). Societe d’Etudes Latines de Bruxelles: 835–42. <a href="http://www.jstor.org/stable/41536451" class="uri">http://www.jstor.org/stable/41536451</a>.</p>
