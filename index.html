@@ -53,7 +53,7 @@ layout: default
 
   <h2><a href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
   <div class="content">
-    {% if author %}{<em>{author["name"]</em>}} <span> {% else %} <span> {% endif %}
+    {% if author %}{{<em>author["name"]</em>}} <span> {% else %} <span> {% endif %}
     <p class="post-description">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
     <p><a href="{{site.url}}{{site.baseurl}}{{post.url}}">Read More...</a></p>
   </div>
