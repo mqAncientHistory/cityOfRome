@@ -23,7 +23,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: "UA-109032276-2"
+analytics_id: "UA-109032276-4"
 
 # Build settings
 markdown: kramdown
