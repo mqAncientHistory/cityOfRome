@@ -1,6 +1,6 @@
 # Site settings
 title: "MQ Ancient History: City of Rome Blog"
-description: MQ Rome focuses on the history of ancient Rome. The city was founded in myth in the year 753 BCE and became the first metropolis with an empire stretching from Scotland to the Sahara and from the Atlantic Ocean to the Euphrates (Iraq).
+description: "MQ Rome focuses on the history of ancient Rome. The city was founded in myth in the year 753 BCE and became the first metropolis with an empire stretching from Scotland to the Sahara and from the Atlantic Ocean to the Euphrates (Iraq)."
 cover: cityOfRome/assets/images/LJ-RF-1872-024.jpg
 logo: assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
@@ -10,14 +10,14 @@ paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
 #facebook:
-#twitter: AncientHistMQ
+twitter: AncientHistMQ
 github:  mqancienthistory/cityOfRome
 
 #Additional Pages
-about: about
-contact: contact
+# about: about
+# contact: contact
 privacy-policy: https://mq.edu.au/privacy
-name: Macquarie University Department of Ancient History
+name: Macquarie University Department of Ancient History - City Of Rome
 
 permalink: /:title
 
