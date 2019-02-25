@@ -5,7 +5,7 @@ cover: cityOfRome/assets/images/LJ-RF-1872-024.jpg
 logo: assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
 baseurl: "/cityOfRome" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://mqancienthistory.github.io" # the base hostname & protocol for your site
+url: "https://ancient-history-blog.mq.edu.au" # the base hostname & protocol for your site
 paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
