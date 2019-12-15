@@ -13,7 +13,7 @@ authors:
     location: "Macquarie University"
     url_full: "https://mq.academia.edu/EwanCoopey"
     url: "https://www.academia.com"
-    bio: "Ewan Coopey is an undergraduate student at Macquarie University studying a Bachelor of Ancient History with a focus on Republican Rome and the Early Principate. His passion for all things ancient and medieval arose in childhood, when he would wander through the Roman forts and medieval castles which are scattered across the British Isles. His research interests include: Ancient Roman religion, cultural transmission within the Empire, Roman foreign troops and auxiliaries, identity in the ancient world, and the province of Dalmatia. "
+    bio: "Ewan Coopey is a Masters of Research student at Macquarie University studying Roman Dalmatia. His passion for all things ancient and medieval arose in childhood, when he would wander through the Roman forts and medieval castles which are scattered across the British Isles. His research interests include: Ancient Roman religion, cultural transmission within the Empire, the Roman military, identity in the ancient world, and the province of Dalmatia. "
     assets: "assets/people/pace_intern_ewan_coopey.jpg"
   hayden:
     username: "hayden"
@@ -111,3 +111,11 @@ authors:
     url: "https://"
     bio: "Uri is a student at Macquarie University studying a Bachelor of Education with a Bachelor of Arts majoring in Ancient History and has been interested in Ancient Rome from a young age. This interest would turn into an infatuation with the city in 2018 when he had a chance to spend 3 weeks there. He enjoys long walks on the beach."
     assets: "assets/people/urihead.jpg"
+  pauls:
+    username: "pauls"
+    name: "Paul Statheos"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    bio: "Paul Statheos recently graduated from his Bachelor of Ancient History at Macquarie University. He is currently enrolled in a Master of Research in Ancient History at the same institution, working on a thesis entitled 'Voices from Above and Below: Divine Communication in the Epic of Gilgamesh'. He has a passion for ancient languages, and is particularly interested in divination and afterlife beliefs in the Ancient Near East."
+    assets: "assets/people/paulstatheos-author.jpg"
