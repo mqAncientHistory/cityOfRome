@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: '/assets/images/xvviri/tarpainting.jpeg'
+cover: '/assets/images/xvviri/tarpainting.jpg'
 caption: 'Engraving by Bernhard Rode. Image: WikiCommons, Public Domain.'
 captionLink: https://simple.wikipedia.org/wiki/Taurobolium#/media/File:Taurobolium.jpg
 title: "Quindecemviri, Bull’s Blood, and the Taurobolium"
@@ -26,7 +26,7 @@ author: pauls
 <p>(<a href="http://www.thelatinlibrary.com/prudentius/prud10.shtml">Prudentius <em>Crowns of Martyrdom</em> X 1005-1050, Loeb trans.</a>)</p>
 
 {% include lightbox.html
-caption="*Figure 1* Three sides of a taurobolium altar to Magna Mater from Lyon, CIL XIII, 1751. Image: Morburre, [WikiCommons](https://en.wikipedia.org/wiki/Taurobolium#/media/File:Autel-Lyon-CIL-XIII-1751.jpg), CC BY-SA 3.0."
+caption="*Figure 1.* Three sides of a taurobolium altar to Magna Mater from Lyon, CIL XIII, 1751. Image: Morburre, [WikiCommons](https://en.wikipedia.org/wiki/Taurobolium#/media/File:Autel-Lyon-CIL-XIII-1751.jpg), CC BY-SA 3.0."
 image="xvviri/taraltar.jpg"
 width="800"
 height="557" %}
@@ -34,7 +34,7 @@ height="557" %}
 <p>The <em>taurobolium</em> was closely connected with the cults of Attis and particularly of Cybele/<em>Magna Mater</em>, the ‘Great Mother’ (fig. 2); five of the twenty-three <em>quindecemviri</em> in my study were also involved in the latter cult. The purpose of the <em>taurobolium</em> is thought to have been the purification of an initiate of the <em>Magna Mater</em> cult with the blood of the sacrificed ram (Magie 1924: 119). Some initiates chose to undertake <em>taurobolium</em> on their birthdays to emphasise the importance of the transition (<em>CIL</em> II 5260, XIII 573; <em>Anné Épigraphique</em> 1956 #255). One <em>taurobolium</em> inscription containing the phrase <em>in aeternum renatus</em> (“reborn forever”; <em>CIL</em> VI 510, c.f. <em>CIL</em> V 6961-2) may even suggest that the ritual was thought to guarantee a blessed afterlife (Forsythe 2012: 79). However, contrary to the notion of a single, definitive moment of transition, some Romans undertook the taurobolium more than once: twenty years seems to have been a popular interval (<em>CIL</em> X 1596, VI 502, VI 504, VI 512). Some inscriptions also suggest that one could perform <em>taurobolium</em> on behalf of a whole community rather than a single individual, and there is some evidence that the imperial government offered incentives for the wealthy to do so (<em>CIL</em> VIII.8203, <em>Fragmenta Vaticana</em> s.148, Forsyth 2012: 104-5).</p>
 
 {% include lightbox.html
-caption="*Figure 2* A taurobolium inscription mentioning Magna Mater, CIL XIII 1765. Image: Morburre, [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Lyon-Autel-CIL-XIII-1756.jpg), CC BY SA 3.0."
+caption="*Figure 2.* A taurobolium inscription mentioning Magna Mater, CIL XIII 1765. Image: Morburre, [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Lyon-Autel-CIL-XIII-1756.jpg), CC BY SA 3.0."
 image="xvviri/tarinscription.jpg"
 width="381"
 height="599" %}
