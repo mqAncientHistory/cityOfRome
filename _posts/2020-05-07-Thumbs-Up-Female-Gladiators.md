@@ -23,7 +23,7 @@ Gladiators were huge investments for their owners as they went through a rigorou
 
 ## The Great Dover Street Woman
 
-A London burial discovered in 2000, held the remains of an elaborate funeral pyre, dating to the 1st century CE. The burial included rich grave goods such as pottery and oil lamps, which indicate the deceased was powerful and wealthy. Their burial outside of the city walls, however, suggests that they were an outcast of society. As one of the lamps depicts a gladiator and other lamps portray gods associated with the sport, the evidence indicates that the deceased was a gladiator during their lifetime. Forensic examination of bone fragments revealed that the deceased was a woman in her twenties. The grave is an exciting piece of forensic evidence for the existence of female gladiators and lead to many scholarly publications about other tidbits of evidence.
+A London burial discovered in 2000, held the remains of an elaborate funeral pyre, dating to the 1st century CE. The burial included rich grave goods such as pottery and oil lamps, which indicate the deceased was powerful and wealthy. Their burial outside of the city walls, however, suggests that they were an outcast of society. As one of the lamps depicts a gladiator and other lamps portray gods associated with the sport, the evidence indicates that the deceased was a gladiator during their lifetime. Forensic examination of bone fragments revealed that the deceased was a woman in her twenties. The grave is an exciting piece of forensic evidence for the existence of female gladiators and led to many scholarly publications about other tidbits of evidence.
 
 ## The Halicarnassus Relief
 
@@ -37,7 +37,7 @@ height="3141" %}
 
 ## The Bronze Statuette
 
-A 1st century CE bronze statuette from the Museum fur Kunst und Gewerbe of Hamburg has been interpreted as a female athlete holding a bladed grooming instrument, though Alfonso Manas argues it actually depicts a female gladiator holding a curved sword. Her body position is a key indicator: her arm is raised in a victory gesture and she looks towards the ground, as if she is looking at a defeated opponent. She also wears *fascia*, strips of fabric that were wrapped around the limbs of gladiators to offer protection. The sword, body position and body protection lead Manas to believe she is a female gladiator as opposed to an athlete.
+A 1st century CE bronze statuette from the Museum fur Kunst und Gewerbe of Hamburg has been interpreted as a female athlete holding a bladed grooming instrument, though Alfonso Manas argues it actually depicts a female gladiator holding a curved sword. Her body position is a key indicator: her arm is raised in a victory gesture and she looks towards the ground, as if she is looking at a defeated opponent. She also wears *fascia*, strips of fabric that were wrapped around the limbs of gladiators to offer protection. The sword, body position and body protection led Manas to believe she is a female gladiator as opposed to an athlete.
 
 {% include lightbox.html
 caption="Female Gladiator Statuette. Wikimedia commons, en:User:Adri08 / Public Domain"
