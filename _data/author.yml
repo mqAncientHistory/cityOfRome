@@ -1,4 +1,13 @@
 authors:
+  laura:
+    username: laura
+    name: "Laura Irving"
+    title: ""
+    location: "Sydney"
+    url: https://www.mq.edu.au
+    bio: >
+      Laura Irving is an Ancient History student at Macquarie University. She is interested in the Roman Empire, with a focus on power and politics and the roles of women. Laura is contributing to this blog for an internship as part of her PACE unit under the supervision of Professor Ray Laurence
+    assets: assets/people/2020/Laura-profile.png    
   ray:
     username: "ray"
     name: "Ray Laurence"
