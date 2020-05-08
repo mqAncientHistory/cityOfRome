@@ -2,7 +2,8 @@
 layout: post
 cover: '/assets/images/PortaCollina/PortaCollina.jpg'
 caption: "A sketch of the Colline Gate leading to the Via Salaria scanned and released by the British Library. WikiCommons, Public Domain "
-title: "Thumbs Up for Female Gladiators"
+captionLink: https://commons.wikimedia.org/wiki/File:The_British_Library_-_Rome_-_Porta_Collina.jpg
+title: "Porta Collina: History in Architecture"
 date: 2020-07-08 01:00:00
 tags:
  - Rome
@@ -12,7 +13,6 @@ tags:
  - Servian Wall
 author: nathan
 ---
-Porta Collina Draft
 
 Porta Collina or the Colline Gate was a major Roman gate in the Servian Walls. As part of the Servian Walls, the gate was supposedly built by Servius Tullius who was king of Rome in 578-535BC. It was originally called Agonensis but was renamed taking its name from the Regio Collina, one of the four regions of republican Rome made up of the Collis Quirinalis and Collis Viminalis.
 
