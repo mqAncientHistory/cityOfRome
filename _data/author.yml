@@ -7,7 +7,7 @@ authors:
     url: https://www.mq.edu.au
     bio: >
       Laura Irving is an Ancient History student at Macquarie University. She is interested in the Roman Empire, with a focus on power and politics and the roles of women. Laura is contributing to this blog for an internship as part of her PACE unit under the supervision of Professor Ray Laurence
-    assets: assets/people/2020/Laura-profile.png    
+    assets: assets/people/2020/Laura-profile.png
   ray:
     username: "ray"
     name: "Ray Laurence"
@@ -128,3 +128,19 @@ authors:
     url: "https://"
     bio: "Paul Statheos recently graduated from his Bachelor of Ancient History at Macquarie University. He is currently enrolled in a Master of Research in Ancient History at the same institution, working on a thesis entitled 'Voices from Above and Below: Divine Communication in the Epic of Gilgamesh'. He has a passion for ancient languages, and is particularly interested in divination and afterlife beliefs in the Ancient Near East."
     assets: "assets/people/paulstatheos-author.jpg"
+  dominique:
+    username: "dominique"
+    name: "Dominique Bezzina"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    assets: "assets/people/2020/DBezzinaProfile.jpg"
+    bio: "Dominique Bezzina is a penultimate Archaeology student majoring in geophysics at Macquarie University. As a part of her PACE internship, she is working under Ray Laurence to generate content for the MQ City of Rome Blog. Dominique has a keen interest in understanding how past humans interacted with their environment and studying the ancient remains of that relationship."
+  nathan:
+    username: "nathan"
+    name: "Nathan Tsang"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    assets: "assets/people/2020/NathanProfile.jpg"
+    bio: "Nathan Tsang is a student at Macquarie University studying a Bachelor of Ancient History majoring in Greece, Rome and Late Antiquity. Although initially interested in the Romans in school, his interests shifted during the HSC to the Greek city-state of Sparta being fascinated by the popularity and culture of the ancient nation."
