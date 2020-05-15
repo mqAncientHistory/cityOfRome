@@ -1,7 +1,8 @@
 ---
 layout: post
 cover: '/assets/images/Laura/Colosseum.jpg'
-caption: "Colosseum, Rome. Photo by Vassil, Wikimedia Commons CC 2.5 "
+caption: "Colosseum, Rome. Photo by Diliff, Wikimedia Commons CC 2.5 "
+captionlink: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg
 title: "Thumbs Up for Female Gladiators"
 date: 2020-05-07 01:00:00
 tags:
