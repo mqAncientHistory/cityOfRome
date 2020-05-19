@@ -4,14 +4,15 @@ cover: '/assets/images/PortaEsquilina/CoverImageGallienus.jpg'
 caption: "Etching of the Gallienus Arch, Successor to Porta Esquilina, *From Le antichità Romane. Tomo I, tav. XXVI // Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839. Tomo 1.*, Wikimedia Commons, Public Domain."
 captionLink: https://commons.wikimedia.org/wiki/File:Arch_of_Gallienus_-_Piranesi.jpg
 title: "Porta Esquilina"
-date: 2020-05-07 01:00:00
+date: 2020-05-18 01:00:00
 tags:
  - Roman
  - gladiators
 author: dominique
 ---
 
-Porta Esquilina - Draft
+_The transformation of a meagre entryway amongst amidst macabre memory of the Roman practises into a grand portal surrounded by the idyllic gardens of Roman aristocracy._
+
 
 The Porta Esquilina once stood where the Gallienus Arch can now be seen, positioned in the eastern region of the Servian wall on the southern end of the Romes artificial defense mechanism, known as the agger. As it stands in modern Italy, the gate blends with the quiet townscape and may even be considered unassuming. In the distant past when the original gate was only 2 metres wide, however, it would have equated to something more like a modern highway, with it marking the entrance to the great City of Rome. Fascinating to the thing that passing through such an entrance would have been nothing more than daily or weekly routine to the average Roman and perhaps have been associated with a certain somberness.
 
