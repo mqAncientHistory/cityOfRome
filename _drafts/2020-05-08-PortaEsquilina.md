@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: '/assets/images/PortaEsquilina/CoverImageGallienus.jpg'
-caption: "Etching of the Gallienus Arch, Successor to Porta Esquilina, From Le antichità Romane. Tomo I, tav. XXVI // Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839. Tomo 1., Wikimedia Commons, Public Domain."
+caption: "Etching of the Gallienus Arch, Successor to Porta Esquilina, from Le antichità Romane. Tomo I, tav. XXVI // Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839. Tomo 1., Wikimedia Commons, Public Domain."
 captionLink: https://commons.wikimedia.org/wiki/File:Arch_of_Gallienus_-_Piranesi.jpg
 title: "Porta Esquilina"
 date: 2020-05-19 01:00:00
@@ -22,10 +22,10 @@ _The transformation of a meagre entryway amongst amidst macabre memory of the Ro
 
 # Setting the Scene
 
-Porta Esquilina, or the Esquiline Gate, once stood where the Gallienus Arch can now be seen (Figure 1). It was positioned in the eastern portion of the Servian wall on the southern end of the Rome’s artificial defense mechanism, the _agger_ (Dionys. IX.68, Figure 1). As it currently stands in modern Italy, the grand single archway that remains of the gate is tucked away among the quiet townscape only really catching the attention of those who happen to be passing by. Almost 2,400 years ago, when only a small entry way that was Porta Esquilina existed, however, it would have equated to something more like a modern highway, with it marking one of the busiest entrances into the great city of Rome.
+Porta Esquilina, or the Esquiline Gate, once stood where the Gallienus Arch can now be seen (Figure 1). It was positioned in the eastern portion of the Servian wall on the southern end of the Rome’s artificial defense mechanism, the _agger_ ([Dionys. IX.68](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/9C*.html#68.3 )(Figure 1). As it currently stands in modern Italy, the grand single archway that remains of the gate is tucked away among the quiet townscape only really catching the attention of those who happen to be passing by. Almost 2,400 years ago, when only a small entry way that was Porta Esquilina existed, however, it would have equated to something more like a modern highway, with it marking one of the busiest entrances into the great city of Rome.
 
 {% include lightbox.html
-caption="Figure 1: Map of the Servian Wall and its gates, From The student's manual of ancient geography, based upon the Dictionary of Greek and Roman geography by William Smith, Public Domain, Wikimedia Commons."
+caption="Figure 1: Map of the Servian Wall and its gates, from The student's manual of ancient geography, based upon the Dictionary of Greek and Roman geography by William Smith, Public Domain, Wikimedia Commons."
 image="PortaEsquilina/MapServianWall.jpg"
 width="2012"
 height="2070" %}
@@ -50,10 +50,31 @@ height="1024" %}
 
 # Evolution of the Esquiline Region
 
-The graveyard of the common folk and a general dumping ground being no more than 100 metres from the entry way. Near to the gate was a shrine to goddess of funerals Libertina. Adding to the grimness of this area, public executions were commonly performed near the entrance to the. To top it all off, the agger would act as a mass burial site in the event of increased mortality rates. It seems this combination of macabre memories across the landscape through the Esquiline gate became inspiration for the advisor of Augustus, Maecenas, to renew the scenery with the addition of gardens (horti) to his estate in the area (Platner and Ashby)(Figure 3). This new found fresh image that was being presented with the introduction of Maecenas’ gardens to the area around the gate encouraged other nobilities to follow suite (Urban Development). Thus, the once morbid Esquiline scenery was transformed into a tranquil landscape.
+The graveyard of the common folk and a general dumping ground being no more than 100 metres from the entry way. Near to the gate was a shrine to goddess of funerals Libitina. Adding to the grimness of this area, public executions were commonly performed near the entrance to the. To top it all off, the agger would act as a mass burial site in the event of increased mortality rates. It seems this combination of macabre memories across the landscape through the Esquiline gate became inspiration for the advisor of Augustus, Maecenas, to renew the scenery with the addition of gardens _horti_ to his estate in the area (Platner and Ashby)(Figure 3). This new found fresh image that was being presented with the introduction of Maecenas’ gardens to the area around the gate encouraged other nobilities to follow suite (Urban Development). Thus, the once morbid Esquiline scenery was transformed into a tranquil landscape.
 
 {% include lightbox.html
-caption="Figure 3: Artist's Impression of Maecenas' Gardens (1738), Jacob Phillip Hackert, Public Domain, Wikimedia Commons."
+caption="Figure 3: Artist's Impression of Maecenas' Gardens (1738), painting by Jacob Phillip Hackert, Public Domain, Wikimedia Commons."
 image="PortaEsquilina/MaecenasGardens.jpg"
 width="1024"
 height="736" %}
+
+## Bibliography
+
+Dionysus of Halicarnassus (1890) _Roman Antiquities_, Vol. VI: Books 9.25-10, Translation by Earst Cary, Cambridge, Harvard University Press.
+
+Holland L B (1946) ‘The Triple Arch of Augustus,’ _American Journal of Archaeology_, 50(1), pp. 52-59.
+
+Holloway, R R (1996), _The Archaeology of Early Rome and Latium_, Routledge, London.
+
+Lancaster, L C (2005) _Concrete Vaulted Construction in Imperial Rome: Innovations in Context_, Campbridge University Press, Cambridge.
+
+Lanciani, R A (1890) _Ancient Rome in the Light of Recent Discoveries_, Houghton, Mifflin and Company, Boston and New York.
+
+Malmberg, S and Bjur, H (2011), ‘Movement and Urban Development at Two City Gates in Rome: The Porta Esquilina and Porta Triburtina,’ in R Laurence and  D J Newsome (eds.), _Rome, Ostia, Pompeii: Movement and Space_, Oxford University Press, New York pp. 361-385.
+
+
+## Further Reading
+
+[Platner and Ashby’s Topographical Dictionary of Rome](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html), in particular their entries on Porta Esquilina and Horti Maecenatis.
+
+Notes on the Servian Wall
