@@ -14,13 +14,12 @@ author: dominique
 _The transformation of a meagre entryway amongst amidst macabre memory of the Roman practises into a grand portal surrounded by the idyllic gardens of Roman aristocracy._
 
 
-The Porta Esquilina once stood where the Gallienus Arch can now be seen, positioned in the eastern region of the Servian wall on the southern end of the Romes artificial defense mechanism, known as the agger. As it stands in modern Italy, the gate blends with the quiet townscape and may even be considered unassuming. In the distant past when the original gate was only 2 metres wide, however, it would have equated to something more like a modern highway, with it marking the entrance to the great City of Rome. Fascinating to the thing that passing through such an entrance would have been nothing more than daily or weekly routine to the average Roman and perhaps have been associated with a certain somberness.
+# Setting the Scene
 
-{% include lightbox.html
-caption="Arch of Gallienus, photo by user Tomk2ski, Public Domain, Wikimedia Commons."
-image="PortaEsquilina/ArchOfGallienus.jpg"
-width="1190"
-height="1024" %}
+Porta Esquilina, or the Esquiline Gate, once stood where the Gallienus Arch can now be seen (Figure 1). It was positioned in the eastern portion of the Servian wall on the southern end of the Rome’s artificial defense mechanism, the agger (Dionys. IX.68, figure 2). As it currently stands in modern Italy, the grand single archway that remains of the gate is tucked away among the quiet townscape only really catching the attention of those who happen to be passing by. Almost 2,400 years ago, when only a small entry way that was Porta Esquilina existed, however, it would have equated to something more like a modern highway, with it marking one of the busiest entrances into the great city of Rome.
+
+
+
 
 # Death, the Necropolis and the Esquiline gate
 
@@ -34,13 +33,8 @@ The gate would have also experienced increased foot traffic in comparison to the
 
 In fact, it is due to the massive volume of traffic that the gate was to be pulled down and reconstructed in 262B, which still exists in physical remains of the city peppered throughout
 
-
-
-
-
-
 {% include lightbox.html
-caption="Marble relief with female gladiators, 1st-2nd century AD, from Halicarnassus (modern Bodrum, Turkey). Wikimedia commons, en:User:Carole Raddato / CC 2.0"
-image="Laura/Halicarnassus_Relief.jpg"
-width="3986"
-height="3141" %}
+caption="Arch of Gallienus, photo by user Tomk2ski, Public Domain, Wikimedia Commons."
+image="PortaEsquilina/ArchOfGallienus.jpg"
+width="1190"
+height="1024" %}
