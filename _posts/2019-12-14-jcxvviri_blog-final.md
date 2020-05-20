@@ -40,7 +40,7 @@ height="508" %}
 <p>The men who constituted this now enlarged body were evidently some of the most illustrious men of their day, men who had typically seen very successful political, military and religious careers. Illustrating this point, a recent study of 59 inscriptions dating to the Julio-Claudian period conducted by the <a href="https://researchers.mq.edu.au/en/projects/the-interpreters-of-the-sibyl-the-xvviri-and-the-city-of-rome"><em>Interpreters of the Sibyl Project</em></a> found that of the 47 named <em>quindecemviri</em>, only 3 had never been consul or consul suffect, the most important magisterial positions in Rome (fig. 3).</p>
 
 {% include lightbox.html
-caption="*Figure 3.* Pie chart illustrating the number of Julio-Claudian Quindecemviri who had held consulships. Image: Ewan Coopey."
+caption="*Figure 3.* Pie chart illustrating the number of Julio-Claudian Quindecemviri who had held consulships. Image: Ewan Coopey; CC BY-SA 3.0 AU."
 image="xvviri/jcpie.PNG"
 width="1005"
 height="607" %}
