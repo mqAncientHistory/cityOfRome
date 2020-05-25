@@ -13,8 +13,6 @@ category:
 - post
 author: zoe
 ---
-
-<h1 id="the-curious-tourists-guide-to-rome-trajans-market">The Curious Tourist’s Guide to Rome: Trajan’s Market</h1>
 <p><em>This week Zoe explores the “World’s First Shopping Mall”, the Markets of Trajan. Through her examination of archaeological and written evidence, Zoe draws parallels to our modern world. Are our shopping habits similar to those of the Romans? Find out this week!</em></p>
 <h1 id="welcome-to-the-mercati-di-traiano">Welcome to the <em>Mercati di Traiano!</em></h1>
 <p>Located at the north-western end of the Via dei Fori Imperiali, nestled against the Quirinal Hill (<em>fig. 1</em>), stands the Markets of Trajan, a ‘must-see’ when visiting Rome. Just a short walk from Piazza Venezia and the Roman Forum, Trajan’s Market is an extraordinary example of imperial Roman architecture. Designed by Apollodorus of Damascus and commissioned by Emperor Trajan, the complex was built between AD 100-112 and accompanied the impressive Forum of Trajan <span class="citation" data-cites="Lancaster1">(Lancaster <a href="#ref-Lancaster1">1995</a>: 63)</span>.</p>

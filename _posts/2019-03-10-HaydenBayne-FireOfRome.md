@@ -14,7 +14,6 @@ category:
  - post
 author: hayden
 ---
-<h1 id="the-fire-of-rome-ad64-a-firefighters-perspective">The Fire of Rome AD64: A Firefighter’s Perspective</h1>
 <p><em>This week, Hayden B. takes a look at one of the most infamous events in the history of the city of Rome: the fire of AD 64! How and why did this disaster strike? Let’s find out…</em></p>
 <p>In July AD 64, Rome burned. It was one of the worst catastrophes in the city’s long history, and although Rome was no stranger to fire, none previously compared to the size and ferocity shown by this disaster. Tacitus tells us that of the fourteen regions of the city, only four remained untouched by the conflagration, and three were completely destroyed (<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html">Tac. 15.40.1</a>). How did this fire grow to such immense size and ferocity? What factors contributed to its destructiveness? How did the <em>vigiles</em><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> attempt to combat such a merciless inferno?</p>
 <h1 id="what-is-fire">What is fire?</h1>

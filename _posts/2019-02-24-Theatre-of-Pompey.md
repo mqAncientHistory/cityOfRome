@@ -14,7 +14,6 @@ category:
  - post
 author: ewan
 ---
-<h1 id="nice-theatre-but-didnt-they-kill-caesar-here">Nice Theatre, But Didn't They Kill Caesar Here?</h1>
 <p><em>This week, Ewan C. examines the form and function of Rome’s first permanent theatre and its related complex. The site is home to arguably the most infamous betrayal in political history, as well as other, less perilous dramas, yet was also a centre of arts and horticulture. Let’s take a further look at the Theatre of Pompey!</em></p>
 <p>Built by Pompey the Great (<em>fig. 1a</em>), one of Republican Rome’s most accomplished generals, in 55 BC, the theatre of Pompey and its surrounding building complex (<em>fig. 2</em>) is considered one of Rome’s greatest monuments, both by its contemporaries and modern scholars. Testament to the complex’s significance is the fact that, despite being the location of Caesar’s (<em>fig. 1b</em>) murder on the Ides of March 44 BC, it was restored by his adopted son, Augustus, in 32 BC. The complex underwent numerous repairs, restorations and reconstructions in its life time, remaining in use right up until the 6<sup>th</sup> century AD <span class="citation" data-cites="GagliardoPacker">(Gagliardo and Packer <a href="#ref-GagliardoPacker">2006</a>: 95)</span>, always functioning, at least partially, as a ‘public’ space.</p>
 

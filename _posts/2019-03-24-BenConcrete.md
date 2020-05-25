@@ -13,7 +13,6 @@ category:
  - post
 author: ben
 ---
-<h1 id="cementing-an-empire">Cementing an Empire</h1>
 <p><em>This week Ben investigates one of the Romans’ most lasting innovations - concrete! Ben provides a solid introduction to Roman Concrete and its significance, even today!</em></p>
 <h1 id="a-concrete-jungle">A Concrete Jungle</h1>
 <p>The Romans are known for many things. Murder. Assassinations. War. Salad (Caesar - get it?). You can still see temples and other relics of the Ancient Roman world which have withstood the tests of time. But we must ask ourselves - why are these buildings still standing?</p>

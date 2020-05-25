@@ -14,8 +14,6 @@ category:
  - post
 author: zacpatrick
 ---
-<h1 id="apollo-foreigner-in-rome">
-Apollo: Foreigner in Rome</h1>
 <p>
 <em>This week, we have a double episode! Isaac Roberts and Patrick Brewer both discuss the presence of arguably the most important Hellenic god in Rome; Apollo. But how did a Greek god become a naturalized Roman? Let’s take a look at Apollo’s presence in Rome, both physically and conceptually.</em>
 </p>

@@ -14,8 +14,6 @@ category:
  - post
 author: kiri
 ---
-
-<h2 id="foundations-for-a-triumphal-arch-but-which-victory-might-it-commemorate">Foundations for a triumphal arch, but which victory might it commemorate?</h2>
 <p><em>This week Kiri H. discusses the attempts by scholars to interpret the meaning of the foundations of an arch excavated in the Forum Romanum. Much remains uncertain and debate is likely to continue!</em></p>
 
 <p>In 1888, German archaeologist Otto Richter discovered the foundations of a three-bayed triumphal arch in the Roman Forum. Located between the temples of Caesar and of Castor <em>(fig. 1)</em>, these foundations consisted of four rectangular concrete beds topped with travertine blocks, with the outer two bases being considerably narrower than the inner two <em>(fig. 2)</em>.</p>
