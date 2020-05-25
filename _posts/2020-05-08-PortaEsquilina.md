@@ -82,4 +82,4 @@ Malmberg, S and Bjur, H (2011), ‘Movement and Urban Development at Two City Ga
 
 [A brief introduction to the Servian Wall](https://www.youtube.com/watch?v=X4gpdba_hRc) provided by The American Institute for Roman Culture.
 
-Notes on the Servian Wall
+[Notes on the Servian Wall](http://penelope.uchicago.edu/Thayer/E/Journals/AJA/22/2/Servian_Wall*.html) provides a far more detailed background on the Servian Wall and it's construction.
