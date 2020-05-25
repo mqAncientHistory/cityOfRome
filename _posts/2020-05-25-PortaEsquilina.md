@@ -35,6 +35,8 @@ height="2070" %}
 
 Porta Esquilina was one of 16 gates built into the Servian wall, the remains of which are peppered throughout modern Rome. The wall gets its name from Servius Tullius, the 6<sup>th</sup> king of Rome, who was originally believed to have constructed the wall in the 2<sup>nd</sup> Century BCE. Despite the date of construction being contested, potentially pushing the date back to the 4<sup>th</sup> Century BCE. well before the rule of Servius, the name has managed to stick (Holloway, 1996). The Esquiline portion of the wall is constructed of _tufa_ a volcanic rock extracted from the _Grotta Oscura_ quarry, a mine approximately 15 km from the city (Holloway, 1996; Lancaster, 2005). From this information it has been concluded the original Esquiline Gate would have been comprised of the same _tufa_.
 
+
+
 # The Ancient Bottleneck
 
 Whether on purpose or not, the Esquiline gate was positioned in a very economically strategic position (Malmberg and Bjur, 2011). The flood plains, rivers and plateaus of landscape beyond the eastern wall forced any traffic coming towards the city from this region to be funneled into the gate. Furthermore, a large amount of produce generated near the gate was comprised of perishable goods. As such, the best choice for producers was to conduct their business at the market place just within the Esquiline gate. The gate would have also experienced increased foot traffic in comparison to the others of the Servian wall as the forum just within the gate frequently hosted a market referred to as the _nundinae_. The constant business of these traders hosted in and around the Esquiline entrance resulted in the gate becoming one of the most congested points of movement along the Servian Wall.
