@@ -15,7 +15,6 @@ category:
  - post
 author: pauls
 ---
-<h1 id="quindecemviri-bulls-blood-and-the-taurobolium">Quindecemviri, Bull’s Blood, and the Taurobolium</h1>
 <h2 id="taurobolium">Taurobolium</h2>
 <p>This semester I worked as a research intern on the City of Rome project, investigating a Roman priesthood known as the <em>quindecemviri</em> (the ‘fifteen men’, although they actually numbered beyond sixteen by the imperial period). These priests were responsible for overseeing the centennial <em>ludi saeculares</em> festival, certifying foreign cults, and guarding and interpreting the Sibylline Oracles (Montgomery 2012: 451, Gordon 1990: 245, Parke 1988: 139; Beard 1990: 19-21).</p>
 <p>One of the most interesting topics that arose during my research into these priests was the <em>taurobolium</em> ritual. Seven of the twenty-nine <em>quindecemvir</em> inscriptions I studied this semester mentioned the <em>taurobolium</em>. Of these, four also mentioned the <em>criobolium</em>. Here is a typical example of an inscriptions describing a <em>quindecemvir</em> carrying out <em>taurobolium</em> and <em>criobolium</em>:</p>

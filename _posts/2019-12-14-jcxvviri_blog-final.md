@@ -15,8 +15,6 @@ category:
  - post
 author: ewan
 ---
-
-<h1 id="religion-and-power-the-julio-claudian-quindecemviri">Religion and Power: The Julio-Claudian Quindecemviri</h1>
 <h2 id="introduction">Introduction</h2>
 <p>The <em>Quindecemviri Sacris Faciundis</em> (<em>XVVIRI S. F.</em> in inscriptions) was a very important priesthood in Ancient Rome. Translated as the ‘board of fifteen for the performance of sacred rites’ (short and to the point as always…), the college was one of the four great priestly colleges. Dionysius of Halicarnassus (<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/4C*.html#62.4">Dion. 4.62</a>) claims that the college consisted of two members under the last king Tarquinius (535-509 BCE), referred to as the <em>duumviri sacrorum</em>. This number rose to ten in the early-Republic (<em>decemviri sacris faciundis</em>), and then again to fifteen in the late-Republic (<em>quindecemviri sacris faciundis</em>). The body also annually elected two ‘heads’ of the college.</p>
 <p>Throughout much of Roman History, the <em>quindecemviri</em> had a number of religious roles, but their main duty was to care for and interpret the ‘Sibylline books’: a collection of oracular utterances which were consulted for prophecies in times of crisis. It was based upon a reading of these books that the <em>quindecemvir</em> Lucius Cotta supposedly prophesised that Parthia could only be conquered by a king (<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html">Suet. Jul. 79</a>). A prophesy that would prove fatal for a certain Gaius Julius Caesar…</p>
