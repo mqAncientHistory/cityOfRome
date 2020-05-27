@@ -23,6 +23,6 @@ One of the more important streets in ancient Rome was the Vicus Iugarius which r
 
 {% include lightbox.html
 caption="Depiction of Carmenta as Nicostrata. Published in *Promptuarii Iconum Insigniorum* by Guillaume Rouille, 1553. Public Domain, Wikimedia Commons."
-image="PortaCarmentalis/CarmentaNicostrata.jpg"
+image="assets/images/PortaCarmentalis/CarmentaNicostrata.jpg"
 width="432"
 height="426" %}
