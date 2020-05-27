@@ -4,25 +4,40 @@ cover: assets\images\PortaCarmentalis\portacarmentalemGUD.jpg
 caption: "*Columna Bellica Ad Porta Carmentalem,* a print from *Antiquae Urbis Splendor*. Giacomo Lauro, Rome, 1641. Object no. M24967.24, Harvard Art Museums/Fogg Museum, Gift of Max Falk."
 captionLink: https://hvrd.art/o/173840
 title: "Porta Carmentalis"
-date: 2020-05-07 01:00:00
+date: 2020-05-27 01:00:00
 tags:
  - Roman
  - Rome
  - Carmental Gate
  - Servian Walls
  - architecture
- author: jackson
- published: False
+author: jackson
+published: False
 ---
 
-#### _A double gate symbolizing superstition in death and triumph in life_
+#### _A Roman double gate symbolizing superstition in death and triumph in life_
 
 
 ## Carmenta, the Namesake
-One of the more important streets in ancient Rome was the Vicus Iugarius which ran out of the north end of the Forum (by the temple of Saturn) along the foot of the Capitoline Hill. The street ran west, through the sacred boundary of the city, towards the markets and sacred areas by the old port on the bank of the Tiber. At about the point the Vicus Iugarius passed from the city into the port district of the Forum Boarium it bifurcated and ran through a double arch in the so-called Servian Walls called the Porta Carmentalis, (the "Gate of Carmenta"). Remnants of a later version of this old gate (rebuilt in brick-faced concrete) are perhaps to be identified amongst the archeological remains at the Area Sacra di Sant' Omobono with its twin temples. By the time of the late republic, the Servian Walls had lost their effectiveness because the city had simply spilled out past them, and the Porta Carmentalis retained only its symbolic value. The gate was named for Carmenta, a local minor divinity assimilated by learned speculation of the late republic or Augustan age to the mythical mother of Evander, the Arcadian Greek whom Vergil portrays as settled on the future site of Rome in Aeneid, Book 8. This city gate is interesting because it shows two things; first, how Roman legends surrounded it and gave it an added, and unexpected symbolic value; and how people who study Roman archaeology and topography have been able to see beyond the legends and make sense of this monument. In 479 BC, according to the semi-legendary annals of the city, 306 warriors of the Fabian family (the gens Fabia) exited by what was later assumed to be the right hand opening (as you look at it from the city side) to fight a sort of private little war against the people of Veii north of Rome. These were annihilated almost to a man, and in typical Roman fashion, ill omen was attached to leaving the city by the right hand arch, which was nicknamed the Porta Scelerata. Or so the legend runs. But in fact, the wall of Rome containing the gate did not exist when the plucky Fabians went forth to battle.
+
+The origins of the name of the Porta Carmentalis, or the Carmental Gate, lie with the neighbouring shrine to the goddess or nymph Carmenta. Dionysus of Halicarnassus places this shrine at the south-west of the Capitoline Hill ([Dionys. I.32.2](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1B*.html#32.2)), close to the gate itself. Carmenta, originally named Nicostrata, was credited by Gaius Juilius Hyginus for producing the Latin alphabet by altering 15 letters in the Greek alphabet. ([Hyginus, *Fab. 277*](https://latin.packhum.org/loc/1263/1/0#110)) Carmenta, and her son Evander, are remembered for having founded the city of Palladium on the banks of the river Tiber; the future site of Rome. Dionysus places the founding of Palladium 60 years prior to the outbreak of the Trojan War, making the association between Carmenta and Rome more ancient than the eternal city itself. ([Dionys. I.31.1](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1B*.html#31.1))
 
 {% include lightbox.html
 caption="Depiction of Carmenta as Nicostrata. Published in *Promptuarii Iconum Insigniorum* by Guillaume Rouille, 1553. Public Domain, Wikimedia Commons."
-image="assets/images/PortaCarmentalis/CarmentaNicostrata.jpg"
+image="PortaCarmentalis/CarmentaNicostrata.jpg"
 width="432"
 height="426" %}
+
+## Porta Scelerata, the Accursed Gate
+
+As the Porta Carmentalis was a double gate, the first of these two arches being the Porta Scelerata.
+
+## Porta Triumphalis, the Arch of Triumph
+
+{% include lightbox.html
+caption="Coin depicting Fortuna Redux, holding in her right hand a rudder set upon a globe and cradling a cornucopia in her left arm. Published by Classical Numismatic Group, Inc. Licensed under Creative Commons BY-SA 4.0."
+image="PortaCarmentalis/FortunaReduxCoin.png"
+width="450"
+height="448" %}
+
+One of the more important streets in ancient Rome was the Vicus Iugarius which ran out of the north end of the Forum (by the temple of Saturn) along the foot of the Capitoline Hill. The street ran west, through the sacred boundary of the city, towards the markets and sacred areas by the old port on the bank of the Tiber. At about the point the Vicus Iugarius passed from the city into the port district of the Forum Boarium it bifurcated and ran through a double arch in the so-called Servian Walls called the Porta Carmentalis, (the "Gate of Carmenta"). Remnants of a later version of this old gate (rebuilt in brick-faced concrete) are perhaps to be identified amongst the archeological remains at the Area Sacra di Sant' Omobono with its twin temples. By the time of the late republic, the Servian Walls had lost their effectiveness because the city had simply spilled out past them, and the Porta Carmentalis retained only its symbolic value. The gate was named for Carmenta, a local minor divinity assimilated by learned speculation of the late republic or Augustan age to the mythical mother of Evander, the Arcadian Greek whom Vergil portrays as settled on the future site of Rome in Aeneid, Book 8. This city gate is interesting because it shows two things; first, how Roman legends surrounded it and gave it an added, and unexpected symbolic value; and how people who study Roman archaeology and topography have been able to see beyond the legends and make sense of this monument. In 479 BC, according to the semi-legendary annals of the city, 306 warriors of the Fabian family (the gens Fabia) exited by what was later assumed to be the right hand opening (as you look at it from the city side) to fight a sort of private little war against the people of Veii north of Rome. These were annihilated almost to a man, and in typical Roman fashion, ill omen was attached to leaving the city by the right hand arch, which was nicknamed the Porta Scelerata. Or so the legend runs. But in fact, the wall of Rome containing the gate did not exist when the plucky Fabians went forth to battle.
