@@ -11,11 +11,11 @@ tags:
  - Carmental Gate
  - Servian Walls
  - architecture
-author: jackson
-published: False
+ author: jackson
+ published: False
 ---
 
-#### _A double gate symbolizing superstition in death and victory in life, the Porta Carmentalis represented quintesstial Roman traits_
+#### _A double gate symbolizing superstition in death and triumph in life_
 
 
 ## Carmenta, the Namesake
