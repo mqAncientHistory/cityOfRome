@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: '/assets/images/PortaCarmentalis/Porta_Carmentalem.jpg'
+cover: assets\images\PortaCarmentalis\portacarmentalemGUD.jpg
 caption: "*Columna Bellica Ad Porta Carmentalem,* a print from *Antiquae Urbis Splendor*. Giacomo Lauro, Rome, 1641. Object no. M24967.24, Harvard Art Museums/Fogg Museum, Gift of Max Falk."
 captionLink: https://hvrd.art/o/173840
 title: "Porta Carmentalis"
