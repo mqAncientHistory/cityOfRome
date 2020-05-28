@@ -28,8 +28,6 @@ image="PortaCollina/ServianWallMap.jpg"
 width="2070"
 height="2102" %}
 
-The gate was constructed as part of the Servian Wall designed to encircle Rome as an exterior defence. The Wall was supposedly constructed by King Servius Tullius who ruled from 578-535BC, the dates inconsistent between 4th-2nd Centuries BC. In modern day Italy, many of the gates' remains can be found throughout the city.
-
 ## Memories of Rome
 
 The Colline Gate in the days of the Roman Republic was featured in numerous major events. The most publicised event of note, was the battle fought between Lucius Cornelius Sulla and the Marians in 82BC, during a period of civil war. Sulla  had to regain control of Rome after Gaius Marius and his son supported by Lucius Cornelius Cinna took control of Rome and killed Sulla’s supporters, with Sulla marching on Rome with his armies (Malden, 1886). Many sources reported on the battle that took place, including Plutarch, Livy, Ampelius, Eutropius and Appian. The battle was hard fought between Sulla's armies and the opposing Marians that comprised of Romans, Samnites and Lucanians, with Sulla and his allies including Marcus Licinius Crassus emerging victory with a total death toll estimated at 50,000 with 8,000 prisoners ([Appian 1.92-93](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1*.html#93)). The aftermath of the battle ended with Sulla executing Marius' supporters and Marius himself committing suicide, cementing Sulla's status as the dictator of Rome until his death in 78BC.
