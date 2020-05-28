@@ -48,7 +48,7 @@ Remains of the gate were found in 1872 in the Via Venti Settembre street under t
 
 {% include lightbox.html
 caption="Photo of the Via Venti Settembre street in modern day Rome. WikiCommons, Public Domain"
-image="ViaXXSettembre.jpg"
+image="PortaCollina/ViaXXSettembre.jpg"
 width="2272"
 height="1704" %}
 
