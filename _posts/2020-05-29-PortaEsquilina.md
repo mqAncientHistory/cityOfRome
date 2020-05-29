@@ -15,7 +15,7 @@ tags:
  - Arch of Gallienus
 
 author: dominique
-published: True
+published: False
 ---
 
 #### _The transformation of a meagre entryway amidst a city's macabre memories into a grand portal surrounded by the idyllic gardens of Roman aristocracy._
@@ -87,7 +87,7 @@ Malmberg, S and Bjur, H 2011, ‘Movement and Urban Development at Two City Gate
 
 [Platner and Ashby’s Topographical Dictionary of Rome](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html), in particular their entries on Porta Esquilina and Horti Maecenatis.
 
-For [a brief introduction to the Servian Wall](https://www.youtube.com/watch?v=X4gpdba_hRc) provided by The American Institute for Roman Culture.
+For [a brief introduction to the Servian Wall](https://www.youtube.com/watch?v=X4gpdba_hRc) watch this video provided by The American Institute for Roman Culture.
 
 [Notes on the Servian Wall](http://penelope.uchicago.edu/Thayer/E/Journals/AJA/22/2/Servian_Wall*.html) gives a far more detailed background on the Servian Wall and it's construction.
 
