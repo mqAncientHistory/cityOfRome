@@ -15,29 +15,61 @@ author: jackson
 published: False
 ---
 
-#### _A Roman double gate symbolizing superstition in death and triumph in life_
+#### _A unique double gate in the Servian Wall that came to represent Roman superstitions around death, and Roman traditions of military triumph_
 
 
-## Carmenta, the Namesake
+The Porta Carmentalis was a gate in the Servian Wall with two arches, those being the Porta Scelerata and the Porta Triumphalis. Though Porta is the Latin term for gate, each arch came to be called a '*porta*' rather than simply '*arcus*'. The Porta Carmentalis was a double-gate, and though the Scelerata and Triumphalis are distinct arches, both were part of the same structure.
 
-The origins of the name of the Porta Carmentalis, or the Carmental Gate, lie with the neighbouring shrine to the goddess or nymph Carmenta. Dionysus of Halicarnassus places this shrine at the south-west of the Capitoline Hill ([Dionys. I.32.2](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1B*.html#32.2)), close to the gate itself. Carmenta, originally named Nicostrata, was credited by Gaius Juilius Hyginus for producing the Latin alphabet by altering 15 letters in the Greek alphabet. ([Hyginus, *Fab. 277*](https://latin.packhum.org/loc/1263/1/0#110)) Carmenta, and her son Evander, are remembered for having founded the city of Palladium on the banks of the river Tiber; the future site of Rome. Dionysus places the founding of Palladium 60 years prior to the outbreak of the Trojan War, making the association between Carmenta and Rome more ancient than the eternal city itself. ([Dionys. I.31.1](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1B*.html#31.1))
+# Carmenta, the Namesake
+
+The origins of the name of the Porta Carmentalis, or the Carmental Gate, originate from the gate's proximity to a neighbouring temple to the goddess or nymph Carmenta. Many ancient writers attest to Carmenta as being the namesake of the double gate, such as Virgil in the Aeneid ([Virgil, Aen.8.337-41](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0054%3Abook%3D8%3Acard%3D337)), or Solinus in his 'Wonders of the World'. ([Solinus 1.13](https://www.thelatinlibrary.com/solinus1a.html))
+Dionysius of Halicarnassus also affirms this connection, and places the temple of Carmenta at the south-west foot of the Capitoline Hill ([Dionys. I.32.2](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1B*.html#32.2)) Carmenta, originally named Nicostrata, was believed to have produced the Latin alphabet by altering 15 letters in the Greek alphabet, and sources by writers like Gaius Juilius Hyginus. ([Hyginus, *Fab. 277*](https://latin.packhum.org/loc/1263/1/0#110)) Carmenta, and her son Evander, are remembered for having founded the city of Palladium on the banks of the river Tiber; the future site of Rome. Dionysius places the founding of Palladium 60 years prior to the outbreak of the Trojan War, making the association between Carmenta and Rome more ancient than the eternal city itself. ([Dionys. I.31.1](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1B*.html#31.1))
 
 {% include lightbox.html
 caption="Depiction of Carmenta as Nicostrata. Published in *Promptuarii Iconum Insigniorum* by Guillaume Rouille, 1553. Public Domain, Wikimedia Commons."
 image="PortaCarmentalis/CarmentaNicostrata.jpg"
 width="432"
-height="426" %}
+height="426"%}
 
-## Porta Scelerata, the Accursed Gate
+# Porta Scelerata, the Accursed Gate
 
-As the Porta Carmentalis was a double gate, the first of these two arches being the Porta Scelerata.
+As the Porta Carmentalis was a double gate, the first of these two arches was the Porta Scelerata. As Scelerata was Latin for 'accursed', it is no surprise that the origin of such a designation was said to be attached to the legend of the disaster at Cremera. During the city's infancy, conflicts between Rome and her Etruscan neighbours consistently broke out. In 479 BC, the Fabii clan offered to take Rome's responsibility for the war against Veii, a rival city. Livy writes that the Senate accepted this; 306 Fabii soldiers built a camp on the banks of the Cremera, and were successful in their raiding of the Veientes for some time. However, a military disaster occurred later in 477 BC. The Veientes ambushed and slaughtered all 306 men of the Fabii clan, with the exception of a boy too young to fight. ([Liv. 2.48-50](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D2%3Achapter%3D50)) The connection between the battle of the Cremera and the Porta Scelerata? The 306 Fabii, when leaving Rome to fight, were said to have departed through the "right-hand arch of Carmentis' gate". ([Ovid, *Fast.* II.201-4](https://www.theoi.com/Text/OvidFasti2.html)) The Romans, known for their superstition, designated the Porta Scelerata as omnious and accursed to depart through - it became custom to, when using the Porta Carmentalis, only leave the city through the Porta Triumphalis, and only enter through the Porta Scelerata. Though the Romans held this legend as the explanation behind the name of the Porta Scelerata, the chronology of the legend fails to add up. The Servian Walls, including the double-gate of Carmenta, were traditionally believed to have been built in the 6th century BC during the reign of Servius Tullius, the 6th and penultimate king of Rome. Modern analysis has shown the Servian Walls were in fact most likely built during the 4th century BC. (Carter, 1909. p. 136-140) As the battle of the Cremera occurred over 80 years prior to the building of the Porta Scelerata, and therefore could not have departed through the arch, modern scholars have put forth other explanations for its name. Richardson points to the Porta Scelerata as being the gate by which corpses were carried out to funeral pyres in the Campus Martinus, and naturally, an association between the Porta Scelerata and ill omen formed. (Richardson, 1992. p. 301)
 
-## Porta Triumphalis, the Arch of Triumph
+# Porta Triumphalis, the Gate of Triumph
 
 {% include lightbox.html
 caption="Coin depicting Fortuna Redux, holding in her right hand a rudder set upon a globe and cradling a cornucopia in her left arm. Published by Classical Numismatic Group, Inc. Licensed under Creative Commons BY-SA 4.0."
 image="PortaCarmentalis/FortunaReduxCoin.png"
 width="450"
-height="448" %}
+height="448"%}
 
-One of the more important streets in ancient Rome was the Vicus Iugarius which ran out of the north end of the Forum (by the temple of Saturn) along the foot of the Capitoline Hill. The street ran west, through the sacred boundary of the city, towards the markets and sacred areas by the old port on the bank of the Tiber. At about the point the Vicus Iugarius passed from the city into the port district of the Forum Boarium it bifurcated and ran through a double arch in the so-called Servian Walls called the Porta Carmentalis, (the "Gate of Carmenta"). Remnants of a later version of this old gate (rebuilt in brick-faced concrete) are perhaps to be identified amongst the archeological remains at the Area Sacra di Sant' Omobono with its twin temples. By the time of the late republic, the Servian Walls had lost their effectiveness because the city had simply spilled out past them, and the Porta Carmentalis retained only its symbolic value. The gate was named for Carmenta, a local minor divinity assimilated by learned speculation of the late republic or Augustan age to the mythical mother of Evander, the Arcadian Greek whom Vergil portrays as settled on the future site of Rome in Aeneid, Book 8. This city gate is interesting because it shows two things; first, how Roman legends surrounded it and gave it an added, and unexpected symbolic value; and how people who study Roman archaeology and topography have been able to see beyond the legends and make sense of this monument. In 479 BC, according to the semi-legendary annals of the city, 306 warriors of the Fabian family (the gens Fabia) exited by what was later assumed to be the right hand opening (as you look at it from the city side) to fight a sort of private little war against the people of Veii north of Rome. These were annihilated almost to a man, and in typical Roman fashion, ill omen was attached to leaving the city by the right hand arch, which was nicknamed the Porta Scelerata. Or so the legend runs. But in fact, the wall of Rome containing the gate did not exist when the plucky Fabians went forth to battle.
+
+
+
+As the Servian Wall, and by extension the Porta Carmentalis, was built sometime in the early 4th century BC, it was undoubtedly subject to the ravages of time. As such, during Emperor Domitian's reign (sometime from 81 AD to 96 AD) it was decided the Porta Carmentalis should be rebuilt following victory in war against the Sarmatians. Domitian's rebuilding of the gate attached a sculpture of a chariot to which "many an elephant" were yoked, as recorded by Martial. ([Martial 8.65.1-12](http://www.tertullian.org/fathers/martial_epigrams_book08.htm#C65)) On the note of sculptures, some archaeologists hypothesize that a relief sculpture of Marcus Aurelius beginning his triumph may depict the Porta Carmentalis in the upper right hand side, shown below. (Ryberg, 1967. p. 19-23; Sobocinski, 2009. p. 137)
+
+{% include lightbox.html
+caption="Relief of Marcus Aurelius, triumph.  Produced by Wikimedia user MatthiasKabel. Licensed under Creative Commons BY-SA 3.0. Wikimedia Commons."
+image="PortaCarmentalis/MarcusAureliusTriumph.jpg."
+width="370"
+height="480"%}
+
+For further information regarding triumphs and triumphator, an animation of the triumphal process can be found below: 
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=F-VjCLR5L-c">
+     <img
+      src="http://i3.ytimg.com/vi/F-VjCLR5L-c/maxresdefault.jpg"
+      alt="Everything Is AWESOME"
+      style="width:100%;">
+      </a>
+    </div>
+
+## Bibliography
+
+Carter, Jesse Benedict. "The evolution of the city of Rome from its origin to the Gallic catastrophe." Proceedings of the American Philosophical Society 48, no. 192 (1909): 129-141.
+
+Richardson Jr, Lawrence. A new topographical dictionary of ancient Rome. JHU Press, 1992.
+
+Ryberg, Inez Scott. Panel Reliefs of Marcus Aurelius. Vol. 14. Archaeological Institute of America, 1967.
+
+Sobocinski, Melanie Grunow. "Porta Triumphalis and Fortuna Redux: Reconsidering the Evidence." Memoirs of the American Academy in Rome 54 (2009): 135-164.
