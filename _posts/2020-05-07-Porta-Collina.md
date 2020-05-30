@@ -16,11 +16,11 @@ author: nathan
 published: True
 ---
 
-#### _An entryway marked by a bloody period in the closing years of the Roman Republic, marred with constant war_
+#### _An entryway marked by a bloody period in the closing years of the Roman Republic, marred with constant war._
 
 ## Setting and Scenery
 
-Originally called Agonensis but renamed, Porta Collina or the Colline Gate was located at the north end of the Servian Wall ([Dionys. 9.68](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/9C*.html#68.3)). The Colline Gate was part of a sixteen gate network in the Servian Wall, named after king Servius Tullius. The gate takes its name from the _Regio Collina_, one of the four regions of republican Rome made up of the _Collis Quirinalis_ (Quirinal Hill) and _Collis Viminalis_ (Viminal Hill). The gate in the days of the Roman Republic was a major source of traffic with the _Via Salaria_ and _Via Nomentana_ roads diverging from the entrance with the _Via Salaria_ diverting north and the _Via Nomentana_ to the northeast. Within Rome, the street of _Alta Semita_ running along the length of _Collis Quirnalis_ links with the _Vicus Iugarius_ leading into the Forum. The gate was also flanked by an _agger_, a raised natural fortification that comprised of a ditch and a moat lining across the perimeter of the ramparts.
+Originally called _Agonensis_ but renamed, _Porta Collina_ or the Colline Gate was located at the north end of the Servian Wall ([Dionys. 9.68](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/9C*.html#68.3)). The Colline Gate was part of a sixteen gate network in the Servian Wall, named after king Servius Tullius. The gate takes its name from the _Regio Collina_, one of the four regions of republican Rome made up of the _Collis Quirinalis_ (Quirinal Hill) and _Collis Viminalis_ (Viminal Hill). The gate in the days of the Roman Republic was a major source of traffic with the _Via Salaria_ and _Via Nomentana_ roads diverging from the entrance with the _Via Salaria_ diverting north and the _Via Nomentana_ to the northeast. Within Rome, the street of _Alta Semita_ running along the length of _Collis Quirnalis_ links with the _Vicus Iugarius_ leading into the Forum. The gate was also flanked by an _agger_, a raised natural fortification that comprised of a ditch and a moat lining across the perimeter of the ramparts.
 
 {% include lightbox.html
 caption="A map of the Servian Wall. Taken from 'The student's manual of ancient geography, based upon the Dictionary of Greek and Roman geography' by William Smith, licensed from Flickr The Commons"
@@ -80,6 +80,6 @@ Richardson, L., (1992), _A New Topographical Dictionary of Ancient Rome_, 302, J
 
 ## Further Reading
 
-[Platner and Ashby, A Topographical Dictionary of Ancient Rome](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html), specifically the entries on the Servian Wall and Porta Collina
+[Platner and Ashby, A Topographical Dictionary of Ancient Rome](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/home.html), specifically the entries on the Servian Wall and Porta Collina.
 
-[Sulla](https://www.ancient.eu/sulla/), written by Wasson, D. in the Ancient History Encyclopedia
+[Sulla](https://www.ancient.eu/sulla/), written by Wasson, D. in the Ancient History Encyclopedia.
