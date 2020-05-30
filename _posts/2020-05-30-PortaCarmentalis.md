@@ -56,7 +56,7 @@ image="PortaCarmentalis/MarcusAureliusTriumph.jpg."
 width="370"
 height="480"%}
 
-For further information regarding triumphs and triumphator, an animation of the triumphal process can be found below:
+**For further information regarding triumphs and triumphator, a Youtube video animation of the triumphal process can be found below:**
 <div align="center">
       <a href="https://www.youtube.com/watch?v=F-VjCLR5L-c">
      <img
@@ -65,6 +65,8 @@ For further information regarding triumphs and triumphator, an animation of the 
       style="width:100%;">
       </a>
     </div>
+
+<div align+"native">
 
 ## Bibliography
 
