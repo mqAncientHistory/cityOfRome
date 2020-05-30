@@ -4,15 +4,17 @@ cover: '/assets/images/PortaCarmentalis/SSPortaCarmentalem.jpg'
 caption: "Columna Bellica Ad Porta Carmentalem, a print from Antiquae Urbis Splendor. Giacomo Lauro, Rome, 1641. Object no. M24967.24, Harvard Art Museums/Fogg Museum, Gift of Max Falk."
 captionLink: https://hvrd.art/o/173840
 title: "Porta Carmentalis"
-date: 2020-05-27 01:00:00
+date: 2020-05-30 01:00:00
 tags:
  - Roman
  - Rome
  - Carmental Gate
  - Servian Walls
  - architecture
+
+
 author: jackson
-published: False
+published: True
 ---
 
 #### _A unique double gate in the Servian Wall that came to represent Roman superstitions around death, and Roman traditions of military triumph_
@@ -33,7 +35,7 @@ height="426"%}
 
 # Porta Scelerata, the Accursed Gate
 
-As the Porta Carmentalis was a double gate, the first of these two arches was the Porta Scelerata. As Scelerata was Latin for 'accursed', it is no surprise that the origin of such a designation was said to be attached to the legend of the disaster at Cremera. During the city's infancy, conflicts between Rome and her Etruscan neighbours consistently broke out. In 479 BC, the Fabii clan offered to take Rome's responsibility for the war against Veii, a rival city. Livy writes that the Senate accepted this; 306 Fabii soldiers built a camp on the banks of the Cremera, and were successful in their raiding of the Veientes for some time. However, a military disaster occurred later in 477 BC. The Veientes ambushed and slaughtered all 306 men of the Fabii clan, with the exception of a boy too young to fight. ([Liv. 2.48-50](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D2%3Achapter%3D50)) The connection between the battle of the Cremera and the Porta Scelerata? The 306 Fabii, when leaving Rome to fight, were said to have departed through the "right-hand arch of Carmentis' gate". ([Ovid, *Fast.* II.201-4](https://www.theoi.com/Text/OvidFasti2.html)) The Romans, known for their superstition, designated the Porta Scelerata as omnious and accursed to depart through - it became custom to, when using the Porta Carmentalis, only leave the city through the Porta Triumphalis, and only enter through the Porta Scelerata. Though the Romans held this legend as the explanation behind the name of the Porta Scelerata, the chronology of the legend fails to add up. The Servian Walls, including the double-gate of Carmenta, were traditionally believed to have been built in the 6th century BC during the reign of Servius Tullius, the 6th and penultimate king of Rome. Modern analysis has shown the Servian Walls were in fact most likely built during the 4th century BC. (Carter, 1909. p. 136-140) As the battle of the Cremera occurred over 80 years prior to the building of the Porta Scelerata, and therefore could not have departed through the arch, modern scholars have put forth other explanations for its name. Richardson points to the Porta Scelerata as being the gate by which corpses were carried out to funeral pyres in the Campus Martinus, ([Cass. Dio. 56.42.1](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/56*.html#42)) and naturally, an association between the Porta Scelerata and ill omen formed. (Richardson, 1992. p. 301)
+As the Porta Carmentalis was a double gate, the first of these two arches was the Porta Scelerata. As Scelerata was Latin for 'accursed', it is no surprise that the origin of such a designation was said to be attached to the legend of the disaster at Cremera. During the city's infancy, conflicts between Rome and her Etruscan neighbours consistently broke out. In 479 BC, the Fabii clan offered to take Rome's responsibility for the war against Veii, a rival city. Livy writes that the Senate accepted this; 306 Fabii soldiers built a camp on the banks of the Cremera, and were successful in their raiding of the Veientes for some time. However, a military disaster occurred later in 477 BC. The Veientes ambushed and slaughtered all 306 men of the Fabii clan, with the exception of a boy too young to fight. ([Liv. 2.48-50](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D2%3Achapter%3D50)) The connection between the battle of the Cremera and the Porta Scelerata? The 306 Fabii, when leaving Rome to fight, were said to have departed through the "right-hand arch of Carmentis' gate". ([Ovid, *Fast.* II.201-4](https://www.theoi.com/Text/OvidFasti2.html)) The Romans, known for their superstition, designated the Porta Scelerata as omnious and accursed to depart through - it became custom to, when using the Porta Carmentalis, only leave the city through the Porta Triumphalis, and only enter through the Porta Scelerata. Though the Romans held this legend as the explanation behind the name of the Porta Scelerata, the chronology of the legend fails to add up. The Servian Walls, including the double-gate of Carmenta, were traditionally believed to have been built in the 6<sup>th</sup> century BC during the reign of Servius Tullius, the 6<sup>th</sup> and penultimate king of Rome. Modern analysis has shown the Servian Walls were in fact most likely built during the 4<sup>th</sup> century BC. (Carter, 1909. p. 136-140) As the battle of the Cremera occurred over 80 years prior to the building of the Porta Scelerata, and therefore could not have departed through the arch, modern scholars have put forth other explanations for its name. Richardson points to the Porta Scelerata as being the gate by which corpses were carried out to funeral pyres in the Campus Martinus, ([Cass. Dio. 56.42.1](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/56*.html#42)) and naturally, an association between the Porta Scelerata and ill omen formed. (Richardson, 1992. p. 301)
 
 # Porta Triumphalis, the Gate of Triumph
 
@@ -42,17 +44,17 @@ The Porta Triumphalis, or the Triumphal Gate, was the gate by which generals who
 {% include lightbox.html
 caption="Coin depicting Augustus right, crowned by Victory, in biga of elephants right atop arch flanked by arcades. Published by  American Numismatic Society. Licensed under Creative Commons BY-NC 4.0."
 image="PortaCarmentalis/AVGVIC.jpg"
-width="450"
-height="448"%}
+width="2767"
+height="2585"%}
 
 
-As the Servian Wall, and by extension the Porta Carmentalis, was built sometime in the early 4th century BC, it was undoubtedly subject to the ravages of time. As such, during Emperor Domitian's reign (sometime from 81 AD to 96 AD) it was decided the Porta Carmentalis should be rebuilt following victory in war against the Sarmatians. Domitian's rebuilding of the gate attached a sculpture of a chariot to which "many an elephant" were yoked, as recorded by Martial. ([Martial 8.65.1-12](http://www.tertullian.org/fathers/martial_epigrams_book08.htm#C65)) On the note of sculptures, some archaeologists hypothesize that a relief sculpture of Marcus Aurelius beginning his triumph may depict the Porta Carmentalis in the upper right hand side, shown below. (Ryberg, 1967. p. 19-23; Sobocinski, 2009. p. 137)
+As the Servian Wall, and by extension the Porta Carmentalis, was built sometime in the early 4<sup>th</sup> century BC, it was undoubtedly subject to the ravages of time. As such, during Emperor Domitian's reign (sometime from 81 AD to 96 AD) it was decided the Porta Carmentalis should be rebuilt following victory in war against the Sarmatians. Domitian's rebuilding of the gate attached a sculpture of a chariot to which "many an elephant" were yoked, as recorded by Martial. ([Martial 8.65.1-12](http://www.tertullian.org/fathers/martial_epigrams_book08.htm#C65)) On the note of sculptures, some archaeologists hypothesize that a relief sculpture of Marcus Aurelius beginning his triumph may depict the Porta Carmentalis in the upper right hand side, shown below. (Ryberg, 1967. p. 19-23; Sobocinski, 2009. p. 137)
 
 {% include lightbox.html
 caption="Relief of Marcus Aurelius, triumph.  Produced by Wikimedia user MatthiasKabel. Licensed under Creative Commons BY-SA 3.0. Wikimedia Commons."
-image="PortaCarmentalis/MarcusAureliusTriumph.jpg"
+image="PortaCarmentalis/MarcusAureliusTriumph.jpg."
 width="370"
-height="479"%}
+height="480"%}
 
 For further information regarding triumphs and triumphator, an animation of the triumphal process can be found below:
 <div align="center">
