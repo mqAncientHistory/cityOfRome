@@ -17,7 +17,7 @@ author: jackson
 published: true
 ---
 
-#### _A unique double gate in the Servian Wall that came to represent Roman superstitions around death, and Roman traditions of military triumph_
+#### _All roads lead to Rome, but some must pass through a gate immersed in legend, superstition, and glory. _
 
 
 The [Porta Carmentalis](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Porta_Carmentalis.html) was a gate in the [Servian Wall](http://penelope.uchicago.edu/Thayer/E/Journals/AJA/22/2/Servian_Wall*.html) with two arches. The two separate arches came to be known as the Porta Scelerata and the Porta Triumphalis. Though Porta is the Latin term for gate, each arch came to be called a '*porta*', rather than simply a '*fornix*' or an '*arcus*', Latin terms for an arch. The Porta Carmentalis was a double-gate, and though the Scelerata and Triumphalis are distinct arches, both were part of the same structure. The composition of the gate was most likely similar to the material used for the rest of the Servian Wall; [a variety of limestone known as tufa, most likely quarried in the Etruscan north.](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Murus_Servii_Tullii.html)
