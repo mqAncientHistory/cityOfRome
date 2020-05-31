@@ -53,8 +53,8 @@ As the Servian Wall, and by extension the Porta Carmentalis, was built sometime 
 {% include lightbox.html
 caption="Relief of Marcus Aurelius, triumph.  Produced by Wikimedia user MatthiasKabel. Licensed under Creative Commons BY-SA 3.0. Wikimedia Commons."
 image="PortaCarmentalis/MarcusAureliusTriumph.jpg"
-width="370"
-height="479"%}
+width="2046"
+height="2650"%}
 
 ## Bibliography
 
