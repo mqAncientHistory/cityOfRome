@@ -76,22 +76,6 @@ Sobocinski, Melanie Grunow. "Porta Triumphalis and Fortuna Redux: Reconsidering 
 
 
 For further information regarding triumphs and triumphator, please click on the image below to watch a Youtube video animation of the triumphal process:
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=F-VjCLR5L-c">
-     <img
-      src="http://i3.ytimg.com/vi/F-VjCLR5L-c/maxresdefault.jpg"
-      alt="The Roman Triumph"
-      style="width:100%;">
-      </a>
-    </div>
 
-    <div align="center">
-          <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
-         <img
-          src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg"
-          alt="Everything Is AWESOME"
-          style="width:100%;">
-          </a>
-        </div>
 
 [![The Roman Triumph](https://yt-embed.herokuapp.com/embed?v=F-VjCLR5L-c)](https://www.youtube.com/watch?v=F-VjCLR5L-c)
