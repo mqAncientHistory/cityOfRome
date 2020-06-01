@@ -3,7 +3,7 @@ layout: post
 cover: '/assets/images/PortaEsquilina/CoverImageGallienus.jpg'
 caption: "Etching of the Gallienus Arch, Successor to Porta Esquilina, from Le antichità Romane. Tomo I, tav. XXVI // Opere di Giovanni Battista Piranesi, Francesco Piranesi e d'altri. Firmin Didot Freres, Paris, 1835-1839. Tomo 1., Wikimedia Commons, Public Domain."
 captionLink: https://commons.wikimedia.org/wiki/File:Arch_of_Gallienus_-_Piranesi.jpg
-title: "Porta Esquilina"
+title: "Porta Esquilina: A Metamorphosis in Stone and Soil"
 date: 2020-05-29 01:00:00
 tags:
  - Roman
