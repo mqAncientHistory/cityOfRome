@@ -3,7 +3,7 @@ layout: post
 cover: '/assets/images/PortaCollina/PortaCollina.jpg'
 caption: "A sketch of the Colline Gate leading to the Via Salaria scanned and released by the British Library. WikiCommons, Public Domain "
 captionLink: https://commons.wikimedia.org/wiki/File:The_British_Library_-_Rome_-_Porta_Collina.jpg
-title: "Porta Collina"
+title: "Porta Collina: A Herald of War"
 date: 2020-05-30 01:00:00
 tags:
  - Roman
