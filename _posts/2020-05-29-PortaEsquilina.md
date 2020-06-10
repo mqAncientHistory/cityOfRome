@@ -36,7 +36,7 @@ height="2070" %}
 Porta Esquilina was one of 16 gates built into the Servian wall, the remains of which are peppered throughout modern Rome. The wall gets its name from Servius Tullius, the 6<sup>th</sup> king of Rome, who was originally believed to have constructed the wall in the 6<sup>th</sup> Century BCE. Despite the date of construction being contested, potentially pushing the date forward to the 4<sup>th</sup> Century BCE, well after the rule of Servius, the name has managed to stick (Holloway, 1996, p. 91-92). The Esquiline portion of the wall is constructed of _tuff_ a form of volcanic rock extracted from the _Grotta Oscura_ quarry, a mine approximately 15 kilometres from the city (Holloway, 1996, p. 92; Lancaster, 2005, p. 13)(Figure 2). From this information it has been concluded the original Esquiline Gate would have been comprised of the same _tufa_.
 
 {% include lightbox.html
-caption="Figure 2: Tufa quarry, a mine similar to this is where the original Porta Esquilina and the Servian Wall's building material was extracted. Photo by Ray Laurence."
+caption="Figure 2: Tuff quarry, a mine similar to this is where the original Porta Esquilina and the Servian Wall's building material was extracted. Photo by Ray Laurence."
 image="PortaEsquilina/TufaQuarry.jpg"
 width="1799"
 height="1171" %}
