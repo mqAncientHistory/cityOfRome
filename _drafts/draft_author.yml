@@ -1,0 +1,11 @@
+  bob: # your first name with perhaps first initial (no spaces) - e.g. bobj
+    username: bob # same as above
+    name: "Bob James" #your full name inside quotation marks
+    title: "" # If you have a title, put it here inside quotation marks
+    location: "" # Your location (if you want) inside quotation marks goes here
+    url: https://www.bob.james.mq.edu.au # a social media or academic profile
+    bio: > # your bio
+      Your bio goes here
+    assets: assets/people/bobphoto.png # your image path
+    
+ #delete all of these pieces of adivce when you're done if you want
