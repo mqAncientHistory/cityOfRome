@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: /assets/images/Elisabethm/Elizm1.jpg
-caption: "Field of Mars Reserve."
+caption: "Field of Mars Reserve. Elisabeth Willcocks"
 captionLink:
 title: "What's in a Name? The Field of Mars, Sydney Australia"
 date: 2021-06-03 01:00:00
@@ -63,46 +63,44 @@ height="2268"%}
 
 ## Further Reading
 
-Where is Marsfield, Australia: https://protect-au.mimecast.com/s/8YdlCK1DOrCJ63L2hMj15N?domain=google.com.au
+[Where is Marsfield, Australia?](https://protect-au.mimecast.com/s/8YdlCK1DOrCJ63L2hMj15N?domain=google.com.au)
 
-Governor Arthur Phillip: https://protect-au.mimecast.com/s/BXjzCNLJxkiRzvo0fRS1y8?domain=parliament.nsw.gov.au
+[Governor Arthur Phillip](https://protect-au.mimecast.com/s/BXjzCNLJxkiRzvo0fRS1y8?domain=parliament.nsw.gov.au)
 
-Issac Archer: https://protect-au.mimecast.com/s/8-cRCOMK7YcGMq3pHPHcq3?domain=peopleaustralia.anu.edu.au
+[Issac Archer](https://protect-au.mimecast.com/s/8-cRCOMK7YcGMq3pHPHcq3?domain=peopleaustralia.anu.edu.au)
 
-John Colethread: https://protect-au.mimecast.com/s/yAQaCP7L1NflPyQKFrbTvq?domain=peopleaustralia.anu.edu.au
+[John Colethread](https://protect-au.mimecast.com/s/yAQaCP7L1NflPyQKFrbTvq?domain=peopleaustralia.anu.edu.au)
 
-Field of Mars Cemetery: https://protect-au.mimecast.com/s/BmnXCMwGj8Cl7EjqFJQazR?domain=nmclm.com.au/
+[The Field of Mars Cemetery](https://protect-au.mimecast.com/s/BmnXCMwGj8Cl7EjqFJQazR?domain=nmclm.com.au/)
 
-Field of Mars Reserve: https://protect-au.mimecast.com/s/MfIXCL7Eg9fv7ELRHquQ4P?domain=ryde.nsw.gov.au
+[The Field of Mars Reserve](https://protect-au.mimecast.com/s/MfIXCL7Eg9fv7ELRHquQ4P?domain=ryde.nsw.gov.au)
 
-Where was the Field of Mars common: https://protect-au.mimecast.com/s/50KgCQnM1WfxYz7ki9Bz27?domain=dictionaryofsydney.org.
+[Where was the Field of Mars common?](https://protect-au.mimecast.com/s/50KgCQnM1WfxYz7ki9Bz27?domain=dictionaryofsydney.org).
 
-To learn more about Marsfield: https://protect-au.mimecast.com/s/mvvgCRONg6sVx7NvS0DXgu?domain=dictionaryofsydney.org
+[Learn more about Marsfield](https://protect-au.mimecast.com/s/mvvgCRONg6sVx7NvS0DXgu?domain=dictionaryofsydney.org)
 
-Ryde Historical Society Publications: https://protect-au.mimecast.com/s/80MxCVARmOHvYOMxHrJGGJ?domain=rydehistory.org.au
-
-
+[Ryde Historical Society Publications](https://protect-au.mimecast.com/s/80MxCVARmOHvYOMxHrJGGJ?domain=rydehistory.org.au)
 
 ## Bibliography
 
-Australias Guide 2021, Marsfield, viewed 13th of May 2021, https://protect-au.mimecast.com/s/BMHACWLVn6ikVl05fBEGyS?domain=australias.guide
+_Australias Guide_ 2021, 'Marsfield', viewed 13th of May 2021, <https://protect-au.mimecast.com/s/BMHACWLVn6ikVl05fBEGyS?domain=australias.guide>
 
-Cashman, G. The Field of Mars and Field of Mars Common in Ryde Recorder Vol. 22-23 1988-1989.
+Cashman, G. 'The Field of Mars and Field of Mars Common' in _Ryde Recorder_ Vol. 22-23 1988-1989.
 
-Dawson, J., Elliott, G 2021, ‘The original Land grants’, Ryde History: the Ryde District Historical society, viewed 18th of march, 2021. https://protect-au.mimecast.com/s/3PBmCXLW6DiJWpmXhxi4Q5?domain=rydehistory.org.au
+Dawson, J., Elliott, G 2021, ‘The original Land grants’, _Ryde History_, the Ryde District Historical society, viewed 18th of march, 2021. <https://protect-au.mimecast.com/s/3PBmCXLW6DiJWpmXhxi4Q5?domain=rydehistory.org.au>
 
-Gillen, M & Browning, Y 1989, The founders of Australia: a biographical dictionary of the First Fleet, Library of Australian History, Sydney.
+Gillen, M & Browning, Y 1989, _The founders of Australia: a biographical dictionary of the First Fleet_, Library of Australian History, Sydney.
 
-Levy, M. C. I. 1947, “Wallumetta” A History of Ryde and Its District 1792 to 1945, W. E. Smith LTD, Sydney.
+Levy, M. C. I. 1947, _“Wallumetta” A History of Ryde and Its District 1792 to 1945_, W. E. Smith LTD, Sydney.
 
-Parker, D 2010, Arthur Phillip: Australia’s First Governor, Woodslane Press, Warriewood.
+Parker, D 2010, _Arthur Phillip: Australia’s First Governor_, Woodslane Press, Warriewood.
 
-Pembroke, M 2013, Arthur Phillip: sailor, mercenary, governor, spy. Hardie Grant Books, Ultimo.
+Pembroke, M 2013, _Arthur Phillip: sailor, mercenary, governor, spy_. Hardie Grant Books, Ultimo.
 
-People Australia, 2021, Colethread, John (1761–1802)', National Centre of Biography, Australian National University, viewed 18th of March 2021, https://protect-au.mimecast.com/s/7OHDCYW86Es8wG5LtrBMOp?domain=peopleaustralia.anu.edu.au.
+_People Australia_, 2021, Colethread, John (1761–1802)', National Centre of Biography, Australian National University, viewed 18th of March 2021, <https://protect-au.mimecast.com/s/7OHDCYW86Es8wG5LtrBMOp?domain=peopleaustralia.anu.edu.au>
 
-People Australia, 2021, Archer, Isaac (1754–1836), National Centre of Biography, Australian National University, viewed 18th of March 2021, https://protect-au.mimecast.com/s/jm1JCZY146sG0Oz5HVDgq6?domain=peopleaustralia.anu.edu.au.
+_People Australia_, 2021, Archer, Isaac (1754–1836), National Centre of Biography, Australian National University, viewed 18th of March 2021, <https://protect-au.mimecast.com/s/jm1JCZY146sG0Oz5HVDgq6?domain=peopleaustralia.anu.edu.au>
 
-Shaw, K., Cashman, G. 2002, ‘Field of Mars Grants’, In Historic Ryde: A Guide to some significant heritage sites in the city of the city of Ryde, PLT Print Solutions, Frenches Forest.
+Shaw, K., Cashman, G. 2002, ‘Field of Mars Grants’, In _Historic Ryde: A Guide to some significant heritage sites in the city of the city of Ryde_, PLT Print Solutions, Frenches Forest.
 
-The British Museum 2021, Alter, Viewed 20th of May 2021, https://protect-au.mimecast.com/s/lmw_C1WLjwsRlv8MfKeHLb?domain=britishmuseum.org
+The British Museum 2021, Alter, Viewed 20th of May 2021, <https://protect-au.mimecast.com/s/lmw_C1WLjwsRlv8MfKeHLb?domain=britishmuseum.org>

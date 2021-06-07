@@ -1,8 +1,8 @@
 ---
 layout: post
 cover: /assets/images/shannenCampusMartius.jpeg
-caption: "The Campus Martius. [WikiCommons]"
-captionLink: https://commons.wikimedia.org/wiki/File:Campus_Martius.jpg
+caption: "The Campus Martius. WikiCommons"
+captionLink: <https://commons.wikimedia.org/wiki/File:Campus_Martius.jpg>
 title: "The Campus Martius - Field of Mars"
 date: 2021-06-01 01:00:00
 tags:
@@ -23,7 +23,7 @@ The Navalia (Roman shipyards) have been discovered along the edge of the river T
 The Campus Martius was not always owned by the state, and there is considerable uncertainty surrounding the timeline of ownership. According to [Livy](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0026:book=2:chapter=5), in one tradition the Field of Mars was privately owned by the Tarquin family, but became state property following their exile. Lucius Tarquinius Superbus was the final king of Rome, and ruled from 524-509 B.C. Once acquired by the state, the land was consecrated to Mars. However, in another tradition, communicated by [Dionysius of Halicarnassus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0054:alphabetic+letter=C:entry+group=1:entry=campus-martius), the land had been dedicated to Mars at an earlier time, and was later seized by the Tarquin. [Orosius](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0054:alphabetic+letter=C:entry+group=1:entry=campus-martius) suggests that, from the republic’s early days, the campus was state owned, and that Sulla was the first to sell the campus to private owners, due to financial pressure caused by the threat of war with the Kingdom of Pontus.
 ## A varied landscape.
 The Campus Martius acted as the lungs to the beating heart of Rome. It was a gateway to life and death, a training and assembly ground for soldiers and sailors, the place they would await orders to march into battle, and the place survivors were welcomed home. The campus was later a recreational ground and a hub of activity, where athletic games and entertainment were held for the citizens of Rome. If you get the chance to visit this marvellous city, I encourage you to keep this piece of history in mind, and to imagine the area as it once was, all those moons ago.
-## Bibliography
+## References
 ‘Appian, _The Civil Wars_, CHAPTER VII’: <http://www.perseus.tufts.edu/hopper/text?doc=App.+BC+1.7&fromdoc=Perseus%3Atext%3A1999.01.0232>
 
 ‘Augustus Timeline’. <https://www.worldhistory.org/timeline/augustus/>
@@ -36,7 +36,7 @@ Blazeby, Martin. n.d. ‘The Theatre of Pompey’. <https://www.pompey.cch.kcl.a
 
  Jacobs II, Paul W., and Diane Atnally Conlin. 2014. _Campus Martius: The Field of Mars in the Life of Ancient Rome_. New York: Cambridge University Press. <https://doi.org/10.1017/CBO9781139150866>.
 
- Rich, John. 2013. ‘Roman Rituals of War’. In _The Oxford Handbook of Warfare in the Classical World_, by John Rich, edited by Brian Campbell and Lawrence A. Tritle, 541–68. Oxford University Press. <https://doi.org/10.1093/oxfordhb/9780195304657.013.0028.
+ Rich, John. 2013. ‘Roman Rituals of War’. In _The Oxford Handbook of Warfare in the Classical World_, by John Rich, edited by Brian Campbell and Lawrence A. Tritle, 541–68. Oxford University Press. <https://doi.org/10.1093/oxfordhb/9780195304657.013.0028>.
 
 ‘Samuel Ball Platner, Thomas Ashby, _A Topographical Dictionary of Ancient Rome_, CACA, SACELLUM , CACA, SACELLUM , CAMPUS MARTIUS’.  <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0054%3Aalphabetic+letter%3DC%3Aentry+group%3D1%3Aentry%3Dcampus-martius>.
 

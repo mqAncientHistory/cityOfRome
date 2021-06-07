@@ -27,10 +27,10 @@ In the 1960s, the New South Wales government purchased a prime bit of land in Ma
 The national identity of Australia is one of pride, resilience, innovation, and the ability to succeed when being viewed as the ultimate underdog. Some may compare the 1983 America’s cup to David and Goliath however some would say even comparison to David and Goliath does not do the Australian sailing team justice in their remarkable achievement in toppling America. As a result of this triumph, the Australian sailing team and ancient history are linked forever through the suburb of Marsfield.
 
 ## Bibliography
-Hartley, J. “A State of Excitement: Western Australia and the America’s Cup” Cultural Studies, pg 117-126 (2006)
+Hartley, J. “A State of Excitement: Western Australia and the America’s Cup” _Cultural Studies_ pg 117-126 (2006)
 
-Montfort, C. “The Legacy of Australia II: Sailing and Australian Cultural identity” Signals Issue 104. Pg 16-21 (2013)
+Montfort, C. “The Legacy of Australia II: Sailing and Australian Cultural identity” _Signals_ Issue 104. Pg 16-21 (2013)
 
-Payne, D. “Aussie Icons and Ocean Racing Legends” Signals issue 98 pg 50-52 (2012)
+Payne, D. “Aussie Icons and Ocean Racing Legends” _Signals_ issue 98 pg 50-52 (2012)
 
-Wann, D. “An examination of sport fandom in Australia: Socialisation, team identification and social behaviour” Vol 46, Issue 4 pg 98 (2011)
+Wann, D. “An examination of sport fandom in Australia: Socialisation, team identification and social behaviour”, _International Review for the Sociology of Sport_, Vol 46, Issue 4 (2011)
