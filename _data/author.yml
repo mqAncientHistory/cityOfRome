@@ -157,10 +157,22 @@ authors:
     name: "Brian Webber"
     assets: assets/people/authorfombwsmall.jpg
     bio: "Brian Webber is a student of Ancient History at Macquarie University focusing on Imperial Rome and Classical Greece. His interests are focused on food history in the Roman Empire. He also enjoys Cheesemaking and spoiling his Chihuahua, Eddie (Picture included)."
-    AoifeK:
-      username: AoifeK
-      name: "Aoife Keane"
-      location: "Bathurst, NSW"
-      url: "https://twitter.com/AJHKeane"
-      bio: "Aoife Keane is a Macquarie University student with a Bachelor of Art Psychology degree and is currently completing a Bachelor of Ancient History. Aoife has always loved ancient history and fell in love with studying it in her senior years of high school. With a passion for Roman prosopography, she specialises in the late Rebuplic to early Empire period of Roman history."
-      assets: assets/people/AoifePhoto.jpg
+  AoifeK:
+    username: AoifeK
+    name: "Aoife Keane"
+    location: "Bathurst, NSW"
+    url: "https://twitter.com/AJHKeane"
+    bio: "Aoife Keane is a Macquarie University student with a Bachelor of Art Psychology degree and is currently completing a Bachelor of Ancient History. Aoife has always loved ancient history and fell in love with studying it in her senior years of high school. With a passion for Roman prosopography, she specialises in the late Rebuplic to early Empire period of Roman history."
+    assets: assets/people/AoifePhoto.jpg
+  DanielG:
+    username: DanielG
+    name: "Daniel Guy"
+    location: "Macquarie University"
+    bio: "Daniel is an aspiring historian who has a deep passion for Ancient Rome, specifically the shift from the republic to the empire. His favourite figure from history is Caligula as he enjoys reading about the short but treacherous reign of the mad emperor. He one day hopes to go into teaching history so that he can inspire the next generation in pursuing the study of history."
+    assets: "assets/people/DanielPhoto.JPEG"
+  elisabethm:
+    username: elisabethm
+    name: "Elisabeth Willcocks"
+    location: "Sydney, Australia"
+    bio: "Elisabeth Willcocks is finishing her final year of a Bachelor of Ancient History at Macquarie University. Elisabeth has always found history fascinating, with Rome and Greece being her particular subjects of interest. For her, history is a collection of dramatic and complicated stories of the human race that can be learned from and used to understand past, present and future."
+    assets: assets/people/elisabethm.jpg
