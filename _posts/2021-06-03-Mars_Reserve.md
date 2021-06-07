@@ -8,7 +8,7 @@ date: 2021-06-03 01:00:00
 tags:
  - "field of mars"
  - "campus martius"
- - "mars field"
+ - "marsfield"
 author: elisabethm
 ---
 _Nestled in the growing suburbia of North-Western Sydney there is a suburb with a name that has made a few of we Ancient Historians and History Enthusiasts turn our heads -  Marsfield, also known as The Field of Mars. How did we end up with the Field of Mars so far away from Rome?_

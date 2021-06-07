@@ -176,3 +176,14 @@ authors:
     location: "Sydney, Australia"
     bio: "Elisabeth Willcocks is finishing her final year of a Bachelor of Ancient History at Macquarie University. Elisabeth has always found history fascinating, with Rome and Greece being her particular subjects of interest. For her, history is a collection of dramatic and complicated stories of the human race that can be learned from and used to understand past, present and future."
     assets: assets/people/elisabethm.jpg
+  shannenB:
+    username: shannenB
+    name: "Shannen Broun"
+    bio: "Shannen is an undergraduate student of Macquarie University, who has studied a Bachelor of Arts in Modern History. Throughout her degree, Shannen has studied Ancient History through electives and has discovered her passion for the ancient world. Learning about and understanding the past is important to her, and she hopes to make history exciting and accessible to readers through her future work and research."
+    assets: assets/people/shannenbio.png
+  Madawadapus:
+    username: Madawadapus
+    name: "Madeleine Johnson"
+    location: "Turramurra, NSW"
+    bio: "Madeleine Jonson is a Macquarie University student studying a Bachelor of Ancient History majoring in Greece, Rome, and Late Antiquity. After completing her initial studies, Madeleine will progress into a Masters of Teaching so she can bring her love of Ancient History to future generations and perhaps spark someone to follow in her steps as her Ancient History teacher once did."
+    assets: assets/images/dawn.png
