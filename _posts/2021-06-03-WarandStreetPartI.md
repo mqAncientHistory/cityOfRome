@@ -1,7 +1,7 @@
 ---
 layout: post
-cover: 'Pace/assets/images/noahr/agincourtart.jpg'
-caption: "The battle of Agincourt. Photo rights"
+cover: '/assets/images/noahr/agincourtart.jpg'
+caption: "'Battle of Agincourt', Author: Enguerrand de Monstrelet. 15th century. Public Domain."
 title: "War and Streets Part I"
 date: 2021-06-03 01:01:05
 tags:
@@ -16,7 +16,7 @@ _Many of the Streets around Marsfield follow the names Military legacy with many
 
 {% include lightbox.html
 caption="Google Maps - Abuklea Road"
-image="Pace/assets/images/noahr/Abuklearoad.png"
+image="noahr/abuklearoad.png"
 width="515"
 height="270"%}
 
@@ -30,7 +30,7 @@ Learn more about the battle [here](https://www.britishbattles.com/war-in-egypt-a
 
 {% include lightbox.html
 caption="Google Maps - Agincourt Road"
-image="Pace/assets/images/noahr/agincourtroad.png"
+image="noahr/agincourtroad.png"
 width="515"
 height="270"%}
 
@@ -44,7 +44,7 @@ Learn more about the battle [here](https://www.britannica.com/event/Battle-of-Ag
 
 {% include lightbox.html
 caption="Google Maps - Balaclava Road"
-image="Pace/assets/images/noahr/balaclavaroad.png"
+image="noahr/alaclavaroad.png"
 width="515"
 height="270"%}
 
@@ -58,7 +58,7 @@ Learn more about the battle [here](https://www.britannica.com/event/Battle-of-Ba
 
 {% include lightbox.html
 caption="Google Maps - Talavera Road"
-image="Pace/assets/images/noahr/talaveraroad.png"
+image="noahr/talaveraroad.png"
 width="515"
 height="270"%}
 
@@ -72,7 +72,7 @@ Learn more about the battle [here](http://www.peninsularwar.org/talav.htm)
 
 {% include lightbox.html
 caption="Google Maps - Taranto Road"
-image="Pace/assets/images/noahr/tarantoroad.png"
+image="noahr/tarantoroad.png"
 width="515"
 height="270"%}
 
@@ -86,7 +86,7 @@ Learn more about the battle [here](https://www.nationalww2museum.org/war/article
 
 {% include lightbox.html
 caption="Google Maps - Vimiera Road"
-image="Pace/assets/images/noahr/vimieraroad.png"
+image="noahr/vimieraroad.png"
 width="515"
 height="270"%}
 
@@ -100,7 +100,7 @@ Learn more about the battle [here](https://www.britishbattles.com/peninsular-war
 
 {% include lightbox.html
 caption="Google Maps - Waterloo Road"
-image="Pace/assets/images/noahr/waterlooroad.png"
+image="noahr/waterlooroad.png"
 width="515"
 height="270"%}
 
