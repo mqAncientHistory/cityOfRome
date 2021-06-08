@@ -3,7 +3,7 @@ layout: post
 cover: /assets/images/madeleinej/JuliusCaesarWar.jpeg
 caption: "Julius Caesar at War"
 title: "War and Streets Part II"
-date: 2021-06-03 01:00:00
+date: 2021-06-03 01:01:10
 tags:
  - "Campus Martius"
  - "Rome to Marsfield"
