@@ -1,7 +1,7 @@
 ---
 layout: post
-cover: /assets/images/AKChangingMarsfield/BalaclavaSebastopol.jpg
-caption: "Corner of Balaclava Road Sebastopol Road looking west. From the collection of the State Library of NSW."
+cover: /assets/images/AKChangingMarsfield/FoMPlan-Cover.jpg
+caption: "Plan of the Field of Mars, 1885, from the collection of the State Library of NSW."
 captionLink: "https://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&amp;toolbar=false&amp;dps_pid=IE9189984&amp;_ga=2.134189837.2034465928.1622011364-1713855380.1611194684"
 title: "The Changing Shape of the Field of Mars: Marsfield (Sydney)"
 date: 2021-06-03 01:00:00
@@ -14,6 +14,12 @@ author: AoifeK
 # The Field of Mars and Marsfield
 
 Marsfield is a suburb in Northern Sydney surrounded by Epping and North Epping, Eastwood, Denistone East, North Ride, Macquarie Park, West Pymble, and South Turramurra, with Macquarie University cutting into it. The suburb is currently a part of the [City of Ryde](https://www.ryde.nsw.gov.au/Living-in-Ryde/About-Ryde), but looking back through history reveals it has gone by several different names and had many different borders, it is currently defined as a shrunken and shifted version of what it once was.
+
+{% include lightbox.html
+caption="Marsfield [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright)"
+image="AKChangingMarsfield/Marsfield-OSM.png"
+width="520"
+height="512"%}
 
 In the Colonial period, the first form of Marsfield was as the 'Field of Mars', an array of land grants given to eight ex-marines by Governor Arthur Phillip in 1792 on land belonging to the the Wallamattagal clan of the [Dharug Nation](https://en.wikipedia.org/wiki/Darug). It is assumed that Governor Phillip provided the name, Field of Mars, on account of the military backgrounds of the recipients (City of Ryde Management Plan 2009).
 
@@ -28,6 +34,12 @@ height="1050"%}
 # The Parish and the Commons
 
 The Field of Mars went on to become the [Parish of Field of Mars](https://en.wikipedia.org/wiki/Parish_of_Field_of_Mars), a unit of local government, one that still exists today as one of the 57 [parishes](https://en.wikipedia.org/wiki/Parish_(administrative_division)) of the [County of Cumberland](https://en.wikipedia.org/wiki/Cumberland_County,_New_South_Wales). The Parish of Field of Mars, pictured above, reached all the way down to the Paramatta river and included the [Field of Mars Commons](https://dictionaryofsydney.org/place/field_of_mars_common), 5,050 acres (2044 hectares) of land north of the Field of Mars and along the southern side of the Lane Cove River that had been set aside by [Governor King](https://en.wikipedia.org/wiki/Philip_Gidley_King) in 1804 to serve as public grazing land for the local community. The Field of Mars Commons was established in response to complaints that many farmers did not have large enough land grants to properly graze their stock and was conceived of as a [traditional English common&quot;](https://en.wikipedia.org/wiki/Common_land) in 1804, along with five other commons, in order to resolve the issue (City of Ryde Management Plan 2009).
+
+{% include lightbox.html
+caption="[Plan of 51 allotments and 125 portions, Field of Mars, 1885, from the collection of the State Library of NSW](https://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&amp;toolbar=false&amp;dps_pid=IE9189984&amp;_ga=2.134189837.2034465928.1622011364-1713855380.1611194684)"
+image="AKChangingMarsfield/FOMPlan-small.jpg"
+width="666"
+height="374"%}
 
 Over time the common came to be less reputable with illegal operations occurring there such as unauthorised logging and squatting, and eventually a proposal to split and sell the commons won out by 1874. This decision together with an increasing population meant that the Field of Mars needed to be better connected to the city, requiring bridges to cross the Parramatta River. Plans were made for the [Iron Cove](https://en.wikipedia.org/wiki/Iron_Cove_Bridge) and [Gladesville](https://en.wikipedia.org/wiki/Gladesville_Bridge#1881_bridge) bridges, and were to be funded by the sale of the commons, though in reality the building of the bridges began in 1878, seven years before the sale of the commons began in 1885, which continued to 1900 (Phippen 2008).
 
