@@ -37,7 +37,7 @@ The Field of Mars went on to become the [Parish of Field of Mars](https://en.wik
 
 {% include lightbox.html
 caption="[Plan of 51 allotments and 125 portions, Field of Mars, 1885, from the collection of the State Library of NSW](https://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&amp;toolbar=false&amp;dps_pid=IE9189984&amp;_ga=2.134189837.2034465928.1622011364-1713855380.1611194684)"
-image="AKChangingMarsfield/FOMPlan-small.jpg"
+image="AKChangingMarsfield/FoMPlan-small.jpg"
 width="666"
 height="374"%}
 
